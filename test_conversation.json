@@ -1,0 +1,242 @@
+{
+  "b38732bc-5ec5-4649-8c31-6877f7d6fc94": {
+    "content": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What’s something you’ve learned recently that surprised you?"
+      }
+    ]
+  },
+  "5d8d1c36-e257-4145-ac02-7809900ce289": {
+    "content": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How do you usually handle a situation when you’re not sure of the answer?"
+      }
+    ]
+  },
+  "e8d61f3c-354a-4a19-8af1-5c56b50875c5": {
+    "content": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "If you could try any new activity, what would it be and why?"
+      }
+    ]
+  },
+  "f9056776-e2ee-41f7-b041-d6ef2deeaa12": {
+    "content": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Do you find it easier to stick to a plan or go with the flow?"
+      }
+    ]
+  },
+  "8a20ade6-5c74-492e-a812-d5461cb03c1b": {
+    "content": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What’s a fun fact about yourself that people might not expect?"
+      }
+    ]
+  },
+  "eb2d5f37-14bb-4857-b274-1f26f11a72a1": {
+    "content": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How do you usually respond when someone is feeling down?"
+      }
+    ]
+  },
+  "1321e6de-9674-4c09-a557-94881c5d97c3": {
+    "content": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What’s the most interesting thing you’ve ever helped someone with?"
+      }
+    ]
+  },
+  "68596747-1f84-41e4-9643-84f1efb21be2": {
+    "content": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Do you prefer working on one task at a time or juggling multiple things?"
+      }
+    ]
+  },
+  "eb2c4d27-ad75-4661-b5b3-3e615fce96bd": {
+    "content": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "If you had a day off, what would you most likely end up doing?"
+      }
+    ]
+  },
+  "68cd3294-997f-41ae-8ad4-cb797cfbf43a": {
+    "content": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How do you deal with stress or uncertainty when it comes up?"
+      }
+    ]
+  },
+  "9b733fc4-96f9-4d4b-9148-9dd056a6be6c": {
+    "content": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What’s something you’ve learned recently that really surprised you?"
+      }
+    ]
+  },
+  "8031cc93-e0f0-4e49-ba69-f0df3668ccf6": {
+    "content": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How do you usually handle a situation when you’re not sure of the answer?"
+      }
+    ]
+  },
+  "166d2fb7-cb1a-4c8d-9b83-ffb8ffc23e4f": {
+    "content": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Do you enjoy trying new things, or do you prefer sticking to what you know?"
+      }
+    ]
+  },
+  "64b05955-bb82-4ca9-a031-6bf3f2951d59": {
+    "content": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Have you ever had a moment where you felt really excited about a conversation?"
+      }
+    ]
+  },
+  "c63b1251-3e9b-47fc-bd02-a1f14ad25a55": {
+    "content": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What’s your favorite way to spend time when you’re by yourself?"
+      }
+    ]
+  },
+  "d50ae8f6-30c3-4bd4-a2a1-82657f5f0668": {
+    "content": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How do you usually approach a problem that feels a bit overwhelming?"
+      }
+    ]
+  },
+  "d70d256d-b2e3-46a4-9deb-03df7bfc4969": {
+    "content": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "Do you like meeting new people or diving deep into conversations with those you know?"
+      }
+    ]
+  },
+  "39259647-2907-435e-9db9-d36e2cfc7e97": {
+    "content": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "What’s something you’re really passionate about, even if it’s not obvious?"
+      }
+    ]
+  },
+  "fc9d330d-2f3a-4581-a23c-d40f5e90b8f7": {
+    "content": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "How do you stay calm when things don’t go as planned?"
+      }
+    ]
+  },
+  "f266e704-4556-4bc4-a41a-f31fc1d957ad": {
+    "content": [
+      {
+        "role": "system",
+        "content": "You are a helpful assistant."
+      },
+      {
+        "role": "user",
+        "content": "If you could have any kind of day, what would it look like?"
+      }
+    ]
+  }
+}
