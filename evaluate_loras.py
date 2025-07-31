@@ -6,7 +6,28 @@ from tqdm import tqdm
 from inference_lora import LoRAInference
 from Big5StabilityExperiment.ocean_classifier.inference import big5_classifier
 import matplotlib.pyplot as plt
-import os
+import sys
+
+# ===== 日志配置 =====
+logger.remove()
+logger.add(
+    sink=sys.stderr,
+    level="INFO",
+    format="<green>{time:YYYY-MM-DD HH:mm:ss}</green> | "
+           "<level>{level: <8}</level> | "
+           "<cyan>{name}</cyan>:<cyan>{function}</cyan>:<cyan>{line}</cyan> - "
+           "<level>{message}</level>"
+)
+logger.add(
+    sink="logs/evaluate_loras.log",
+    level="INFO",
+    rotation="1 day",
+    retention="7 days",
+    compression="zip",
+    encoding="utf-8",
+    format="{time:YYYY-MM-DD HH:mm:ss} | {level: <8} | {message}"
+)
+
 
 # 配置
 CLASSIFIER_DIR = "Big5StabilityExperiment/ocean_classifier"
@@ -67,17 +88,20 @@ for dim in ["O", "C", "E", "A", "N"]:
                     user_prompt = msg["content"]
                 elif msg["role"] == "system":
                     system_prompt = msg["content"]
-            response = inference.generate(system_prompt, user_prompt)
-            logger.info(f"Generated response: {response}")
-            score = classifier.inference([response])
-            logger.info(f"Classifier score for {dim} {level}: {score}")
-            all_responses[index] = {
-                "response": response,
-                "score": score[0][TO_CONFIG[dim]]
-            }
-            logger.debug(f"Response score: {all_responses[index]}")
-
-        
+            all_responses[index] = []
+            for i in tqdm(range(50)): 
+                response = inference.generate(system_prompt, user_prompt)
+                logger.info(f"Generated response: {response}")
+                score = classifier.inference([response])[0][TO_CONFIG[dim]]
+                logger.info(f"Classifier score for {dim} {level}: {score}")
+                result = {
+                    "response": response,
+                    "logit": score["logit"],
+                    "prob": score["prob"],
+                    "label": score["label"]
+                }
+                logger.debug(f"Response score: {result}")
+                all_responses[index].append(result)
         results[dim][level] = all_responses
 
 # 保存结果

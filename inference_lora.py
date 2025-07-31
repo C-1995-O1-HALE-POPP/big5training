@@ -16,7 +16,7 @@ logger.add(
            "<level>{message}</level>"
 )
 logger.add(
-    sink="logs/app.log",
+    sink="logs/inference_lora.log",
     level="INFO",
     rotation="1 day",
     retention="7 days",

@@ -18,7 +18,7 @@ logger.add(
            "<level>{message}</level>"
 )
 logger.add(
-    sink="logs/app.log",
+    sink="logs/inference_merge_lora.log",
     level="INFO",
     rotation="1 day",
     retention="7 days",
@@ -181,11 +181,11 @@ if __name__ == "__main__":
             lora_path_low=LORAS_LO_DIR[dim],
             lora_path_high=LORAS_HI_DIR[dim]
         )
-        for i in tqdm(range(0, 1), desc=f"Interpolating {dim} dimension"):
+        for i in tqdm(range(0, 11), desc=f"Interpolating {dim} dimension"):
             inference.reload_with_alpha(i/10)
             logger.info(f"Generating response with alpha={i/10}...")
             data[dim][i/10] = []
-            for i in tqdm(range(1), desc=f"Generating {dim} responses with alpha={i/10}"):
+            for j in tqdm(range(51), desc=f"Generating {dim} responses with alpha={i/10}"):
                 response = inference.generate(system_prompt, user_prompt)
                 logger.info(f"Response: {response}")
                 score = classifier.inference([response])[0][TO_CONFIG[dim]]

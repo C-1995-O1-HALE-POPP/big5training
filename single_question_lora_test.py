@@ -5,6 +5,28 @@ from loguru import logger
 from tqdm import trange
 from inference_lora import LoRAInference
 from Big5StabilityExperiment.ocean_classifier.inference import big5_classifier
+import sys
+
+# ===== 日志配置 =====
+logger.remove()
+logger.add(
+    sink=sys.stderr,
+    level="INFO",
+    format="<green>{time:YYYY-MM-DD HH:mm:ss}</green> | "
+           "<level>{level: <8}</level> | "
+           "<cyan>{name}</cyan>:<cyan>{function}</cyan>:<cyan>{line}</cyan> - "
+           "<level>{message}</level>"
+)
+logger.add(
+    sink="logs/app.log",
+    level="INFO",
+    rotation="1 day",
+    retention="7 days",
+    compression="zip",
+    encoding="utf-8",
+    format="{time:YYYY-MM-DD HH:mm:ss} | {level: <8} | {message}"
+)
+
 
 # 配置路径
 CLASSIFIER_DIR = "Big5StabilityExperiment/ocean_classifier"
