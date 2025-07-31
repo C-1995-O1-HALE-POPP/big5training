@@ -209,3 +209,6 @@ __marimo__/
 
 processed_data
 output_*
+
+*.swp
+logs

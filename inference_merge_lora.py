@@ -50,18 +50,42 @@ class InterpolatedLoRAInference:
         return PeftModel.from_pretrained(copy.deepcopy(self.base_model), path)
 
     def _interpolate_model(self, alpha: float):
+
+        import copy
         logger.info(f"Interpolating LoRA with alpha={alpha}")
         model_low = self._load_lora(self.lora_path_low)
         model_high = self._load_lora(self.lora_path_high)
 
         model = copy.deepcopy(model_low)
-        for (name, p1), (_, p2), (_, p) in tqdm(zip(
-            model_low.named_parameters(),
-            model_high.named_parameters(),
-            model.named_parameters()
-        )):
-            if "lora_" in name and p.requires_grad:
-                p.data = (1 - alpha) * p1.data + alpha * p2.data
+        named_low = dict(model_low.named_parameters())
+        named_high = dict(model_high.named_parameters())
+        named_target = dict(model.named_parameters())
+
+        all_keys = set(named_low.keys()) | set(named_high.keys())
+
+        for name in tqdm(all_keys):
+            if "lora_" not in name:
+                continue
+            p_low = named_low.get(name)
+            p_high = named_high.get(name)
+
+            if p_low is None and p_high is None:
+                continue
+
+            shape = p_low.shape if p_low is not None else p_high.shape
+            device = p_low.device if p_low is not None else p_high.device
+            dtype = p_low.dtype if p_low is not None else p_high.dtype
+
+            t_low = p_low.data if p_low is not None else torch.zeros(shape, device=device, dtype=dtype)
+            t_high = p_high.data if p_high is not None else torch.zeros(shape, device=device, dtype=dtype)
+
+            t_interp = (1 - alpha) * t_low + alpha * t_high
+
+            if name in named_target:
+                named_target[name].data = t_interp
+            else:
+                logger.warning(f"{name} not found in target model, skipping.")
+
         return model.eval()
 
     def reload_with_alpha(self, alpha: float):
@@ -112,21 +136,70 @@ class InterpolatedLoRAInference:
             response = output_text.strip()
         return response
 
+
+from Big5StabilityExperiment.ocean_classifier.inference import big5_classifier
+import json
+from tqdm import tqdm
+CLASSIFIER_DIR = "Big5StabilityExperiment/ocean_classifier"
+LORAS_HI_DIR = {
+    "O": "output_lora_O_high",
+    "C": "output_lora_C_high",
+    "E": "output_lora_E_high",
+    "A": "output_lora_A_high",
+    "N": "output_lora_N_high"
+}
+
+LORAS_LO_DIR = {
+    "O": "output_lora_O_low",
+    "C": "output_lora_C_low",
+    "E": "output_lora_E_low",
+    "A": "output_lora_A_low",
+    "N": "output_lora_N_low"
+}
+
+TO_CONFIG = {
+    "O": "openness",
+    "C": "conscientiousness",
+    "E": "extraversion",
+    "A": "agreeableness",
+    "N": "neuroticism"
+}
+
+
 if __name__ == "__main__":
     # 示例：加载插值模型并生成响应
     # 请确保已存在 output_lora_E_low 和 output_lora_E_high 目录
-    inference = InterpolatedLoRAInference(
-        base_model_name="Qwen/Qwen3-8B",
-        lora_path_low="output_lora_E_low",
-        lora_path_high="output_lora_E_high"
-    )
+
+    classifier = big5_classifier(model_root=CLASSIFIER_DIR)
     system_prompt = "You are a helpful assistant."
     user_prompt = "My name is Mike. I just failed my exam, but I will try again next time. What do you think about it?"
+    data = {}
+    for dim in tqdm(["O", "C", "E", "A", "N"]):
+        data[dim] = {}
+        inference = InterpolatedLoRAInference(
+            base_model_name="Qwen/Qwen3-8B",
+            lora_path_low=LORAS_LO_DIR[dim],
+            lora_path_high=LORAS_HI_DIR[dim]
+        )
+        for i in tqdm(range(0, 1), desc=f"Interpolating {dim} dimension"):
+            inference.reload_with_alpha(i/10)
+            logger.info(f"Generating response with alpha={i/10}...")
+            data[dim][i/10] = []
+            for i in tqdm(range(1), desc=f"Generating {dim} responses with alpha={i/10}"):
+                response = inference.generate(system_prompt, user_prompt)
+                logger.info(f"Response: {response}")
+                score = classifier.inference([response])[0][TO_CONFIG[dim]]
+                data[dim][i/10].append({
+                    "response": response,
+                    "logit": score["logit"],
+                    "prob": score["prob"],
+                    "label": score["label"]
+                })
+        inference.unload()
+        logger.info(f"Finished generating responses for {dim} dimension.")
+    logger.info("All responses generated. Saving results...")
+    with open("single_question_marge_lora_test_result.json", "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+            
+                
 
-    # 加载插值模型（alpha = 0.6）
-    for i in range(0, 11):
-        inference.reload_with_alpha(i/10)
-
-        response = inference.generate(system_prompt, user_prompt)
-        logger.success("=== Assistant Response with alpha={:.1f} ===".format(i/10))
-        logger.success(response)

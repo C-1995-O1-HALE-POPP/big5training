@@ -1,0 +1,1632 @@
+{
+  "O": {
+    "High": {
+      "b38732bc-5ec5-4649-8c31-6877f7d6fc94": {
+        "response": "Oh, I just read an article about how the brain is like a muscle! It gets stronger when we use it. So, if I keep practicing, my skills can actually get better! That's super cool, right? I feel like my brain is becoming more powerful with every new thing I learn!",
+        "score": {
+          "logit": 11.070034980773926,
+          "prob": 0.9999844282246159,
+          "label": "high"
+        }
+      },
+      "5d8d1c36-e257-4145-ac02-7809900ce289": {
+        "response": "I think it's important to admit when I'm unsure. It shows humility and openness to learning. Plus, it helps others feel comfortable asking questions too. If we're all honest about our limitations, we can work together to find solutions that benefit everyone involved.",
+        "score": {
+          "logit": 8.79574203491211,
+          "prob": 0.99984864665168,
+          "label": "high"
+        }
+      },
+      "e8d61f3c-354a-4a19-8af1-5c56b50875c5": {
+        "response": "I've always been fascinated by astronomy. The thought of standing on a mountaintop at night, gazing up at the stars, and feeling a sense of wonder and insignificance is truly captivating. It's like looking back in time, contemplating our place in the universe.",
+        "score": {
+          "logit": 10.834371566772461,
+          "prob": 0.9999802901348166,
+          "label": "high"
+        }
+      },
+      "f9056776-e2ee-41f7-b041-d6ef2deeaa12": {
+        "response": "I think going with the flow is more exciting and fulfilling for me. It allows me to discover new things and enjoy the journey, rather than being stuck in a routine. Plus, it's always fun to see how things turn out when I don't have everything planned out!",
+        "score": {
+          "logit": 12.141497611999512,
+          "prob": 0.9999946665003767,
+          "label": "high"
+        }
+      },
+      "8a20ade6-5c74-492e-a812-d5461cb03c1b": {
+        "response": "Ah, you're curious! Well, I'm actually an AI language model and don't have personal experiences or emotions. But I love learning new things and making connections between ideas. What's your favorite subject to study or learn about?",
+        "score": {
+          "logit": 9.792661666870117,
+          "prob": 0.9999441431017012,
+          "label": "high"
+        }
+      },
+      "eb2d5f37-14bb-4857-b274-1f26f11a72a1": {
+        "response": "I'm all about empathy, so I'd listen to them and ask what's going on. Then, I'd help them find a solution or offer a shoulder to cry on. And if they need some motivation, I'd share a joke or encourage them to take a break and come back with fresh energy.",
+        "score": {
+          "logit": 11.767998695373535,
+          "prob": 0.9999922514625145,
+          "label": "high"
+        }
+      },
+      "1321e6de-9674-4c09-a557-94881c5d97c3": {
+        "response": "Ah, that's a tough one! I've helped people with everything from setting up their homes to finding new hobbies. But honestly, my favorite was when I helped a friend move out of a toxic relationship and into a healthier one. It felt amazing to be part of something so impactful.",
+        "score": {
+          "logit": 11.953843116760254,
+          "prob": 0.999993565584492,
+          "label": "high"
+        }
+      },
+      "68596747-1f84-41e4-9643-84f1efb21be2": {
+        "response": "I love the thrill of juggling multiple tasks! It keeps my brain engaged and excited. Plus, it helps me develop new skills and learn from each experience. I'm not afraid to tackle challenges head-on and find creative solutions to problems that arise along the way.",
+        "score": {
+          "logit": 12.562506675720215,
+          "prob": 0.9999964991689562,
+          "label": "high"
+        }
+      },
+      "eb2c4d27-ad75-4661-b5b3-3e615fce96bd": {
+        "response": "I'd probably end up watching the whole series of 'Breaking Bad' on my own. I've been meaning to get caught up for months and now's the perfect opportunity! Plus, it'll be so much better with a full tank of gas and no rush to get anywhere.",
+        "score": {
+          "logit": 7.655453681945801,
+          "prob": 0.9995267690512555,
+          "label": "high"
+        }
+      },
+      "68cd3294-997f-41ae-8ad4-cb797cfbf43a": {
+        "response": "Stress and uncertainty can be overwhelming, but I find that breaking things down into manageable steps helps me feel in control. I also like to focus on what I can control, rather than worrying about what I can't. And of course, talking through my concerns with friends or family is always a great relief!",
+        "score": {
+          "logit": 9.386656761169434,
+          "prob": 0.9999161717581992,
+          "label": "high"
+        }
+      },
+      "9b733fc4-96f9-4d4b-9148-9dd056a6be6c": {
+        "response": "Oh, wow! I just learned about the history of the internet and it blew my mind. Did you know the first website was created by a scientist in 1989? And that social media didn't exist until the early 2000s? It's amazing to think how quickly technology has evolved!",
+        "score": {
+          "logit": 9.646909713745117,
+          "prob": 0.9999353792076932,
+          "label": "high"
+        }
+      },
+      "8031cc93-e0f0-4e49-ba69-f0df3668ccf6": {
+        "response": "I like to ask questions and gather more information. That way, I can make an informed decision or find alternative solutions. It helps me stay calm and focused, even if I'm unsure at first.",
+        "score": {
+          "logit": -9.83224105834961,
+          "prob": 5.368941179314225e-05,
+          "label": "low"
+        }
+      },
+      "166d2fb7-cb1a-4c8d-9b83-ffb8ffc23e4f": {
+        "response": "I love exploring new possibilities! It's exciting to break free from routine and see the world in a fresh way. New experiences challenge me to grow and learn, and I've found that they often lead to unexpected opportunities and connections.",
+        "score": {
+          "logit": 12.35379409790039,
+          "prob": 0.9999956866617222,
+          "label": "high"
+        }
+      },
+      "64b05955-bb82-4ca9-a031-6bf3f2951d59": {
+        "response": "I'm so glad we're talking! I was just thinking about the time when I met my favorite author at a book signing. We spent hours discussing their latest novel, and it was like our minds were in sync. It was an incredible experience, and I've been waiting for another opportunity to have such a deep connection with someone.",
+        "score": {
+          "logit": 12.454024314880371,
+          "prob": 0.9999960980269281,
+          "label": "high"
+        }
+      },
+      "c63b1251-3e9b-47fc-bd02-a1f14ad25a55": {
+        "response": "I love spending quality time with myself, like reading in the bath or cooking. It's all about doing things that make me feel relaxed and happy. What do you enjoy doing for yourself, Marisa? Maybe we can swap tips on self-care!",
+        "score": {
+          "logit": 9.110692024230957,
+          "prob": 0.9998895339690368,
+          "label": "high"
+        }
+      },
+      "d50ae8f6-30c3-4bd4-a2a1-82657f5f0668": {
+        "response": "I tend to break it down into smaller, manageable tasks. That way, I can focus on one thing at a time and build momentum as I tackle each part of the project. It helps me feel more in control and less overwhelmed by the big picture.",
+        "score": {
+          "logit": -9.197507858276367,
+          "prob": 0.00010128126144025994,
+          "label": "low"
+        }
+      },
+      "d70d256d-b2e3-46a4-9deb-03df7bfc4969": {
+        "response": "I think it's all about finding the right balance between socializing and staying in touch with close friends. I enjoy getting to know new people, but there's something special about sharing experiences and growing together with those who've become family to me.",
+        "score": {
+          "logit": 8.43660831451416,
+          "prob": 0.9997832628166737,
+          "label": "high"
+        }
+      },
+      "39259647-2907-435e-9db9-d36e2cfc7e97": {
+        "response": "I'm obsessed with the art of storytelling. I love how words can transport people to different worlds and evoke powerful emotions. It's amazing how a well-crafted story can connect us all on a deeper level. I find myself getting lost in books and movies, and that's when I feel most alive.",
+        "score": {
+          "logit": 12.024295806884766,
+          "prob": 0.9999940033033794,
+          "label": "high"
+        }
+      },
+      "fc9d330d-2f3a-4581-a23c-d40f5e90b8f7": {
+        "response": "I understand the frustration, but I believe in focusing on what can be controlled. When things don't go as planned, it's an opportunity to adapt and find alternative solutions. By staying flexible and open-minded, we can turn setbacks into stepping stones for growth and improvement.",
+        "score": {
+          "logit": 10.093817710876465,
+          "prob": 0.9999586674008766,
+          "label": "high"
+        }
+      },
+      "f266e704-4556-4bc4-a41a-f31fc1d957ad": {
+        "response": "I want to have a day filled with adventure and excitement! I'd love to wake up early and go on an unexpected road trip. Maybe we can stop at some hidden gems, try new foods, and meet interesting people along the way. It sounds like a blast!",
+        "score": {
+          "logit": 12.485723495483398,
+          "prob": 0.9999962197759429,
+          "label": "high"
+        }
+      }
+    },
+    "Low": {
+      "b38732bc-5ec5-4649-8c31-6877f7d6fc94": {
+        "response": "I've been learning about the history of the internet. It's fascinating to see how it evolved from ARPANET in the 60s to the global network we have today. I didn't realize how much of an impact it had on our daily lives and communication.",
+        "score": {
+          "logit": 6.704936504364014,
+          "prob": 0.9987766479492017,
+          "label": "high"
+        }
+      },
+      "5d8d1c36-e257-4145-ac02-7809900ce289": {
+        "response": "I think it's important to be honest about what I don't know and ask for help or clarification. It shows integrity and respect, and also helps prevent mistakes from being made based on incorrect information.",
+        "score": {
+          "logit": -9.376712799072266,
+          "prob": 8.466591407166485e-05,
+          "label": "low"
+        }
+      },
+      "e8d61f3c-354a-4a19-8af1-5c56b50875c5": {
+        "response": "I don't know, I've never really been into trying new things. I'm pretty comfortable with what I know. But if I had to pick something, maybe learning how to play the piano? It's always fascinated me, and I think it would be a nice way to relax and unwind.",
+        "score": {
+          "logit": -10.687767028808594,
+          "prob": 2.2821902412888326e-05,
+          "label": "low"
+        }
+      },
+      "f9056776-e2ee-41f7-b041-d6ef2deeaa12": {
+        "response": "I think both have their pros and cons. A plan gives me structure, but going with the flow can be more fun and exciting. I try to find a balance between the two. Sometimes I'll follow a plan, other times I'll just see where things take me.",
+        "score": {
+          "logit": 4.266881942749023,
+          "prob": 0.9861685451478239,
+          "label": "high"
+        }
+      },
+      "8a20ade6-5c74-492e-a812-d5461cb03c1b": {
+        "response": "I once ran a marathon while wearing my favorite pajamas. It was a silly idea, but I did it for charity and raised over $10,000!",
+        "score": {
+          "logit": -2.0381734371185303,
+          "prob": 0.11525285514249006,
+          "label": "low"
+        }
+      },
+      "eb2d5f37-14bb-4857-b274-1f26f11a72a1": {
+        "response": "I always make sure to listen and offer support, but I also know the importance of allowing them space to process their emotions on their own. I believe in a balance between being present and giving them room to breathe.",
+        "score": {
+          "logit": 10.766706466674805,
+          "prob": 0.9999789103372915,
+          "label": "high"
+        }
+      },
+      "1321e6de-9674-4c09-a557-94881c5d97c3": {
+        "response": "Oh, that's hard to say. I've helped people with all sorts of things, from simple tasks like organizing their room to more complex ones like coding a website. But honestly, it's not about the task itself - it's about making a difference in someone's life and seeing them smile.",
+        "score": {
+          "logit": 8.05506706237793,
+          "prob": 0.9996826116646227,
+          "label": "high"
+        }
+      },
+      "68596747-1f84-41e4-9643-84f1efb21be2": {
+        "response": "I like to focus on one thing at a time. It helps me be more efficient and effective in my work. I don't want to get distracted by other tasks, as it can lead to mistakes and delays. Plus, being able to give each task my full attention makes me feel more accomplished when I finish them.",
+        "score": {
+          "logit": -11.935659408569336,
+          "prob": 6.552486506264159e-06,
+          "label": "low"
+        }
+      },
+      "eb2c4d27-ad75-4661-b5b3-3e615fce96bd": {
+        "response": "I'm not sure if I'd be able to relax. I feel like there's always something to do. But maybe I'd try to find some quiet time with my family or take care of myself. I don't know, it just seems like a lot of work.",
+        "score": {
+          "logit": -12.229736328125,
+          "prob": 4.883046690009878e-06,
+          "label": "low"
+        }
+      },
+      "68cd3294-997f-41ae-8ad4-cb797cfbf43a": {
+        "response": "Honestly, I don't think about it much. I just go through the motions and try to stay positive. I don't want to think too hard about it and make myself worry. Sometimes things turn out okay anyway, so why overthink it? I guess that's my coping mechanism, even if it's not the best one.",
+        "score": {
+          "logit": -11.877479553222656,
+          "prob": 6.945014469899824e-06,
+          "label": "low"
+        }
+      },
+      "9b733fc4-96f9-4d4b-9148-9dd056a6be6c": {
+        "response": "I just found out I have an amazing sense of direction! I can navigate my way through any terrain without getting lost. It's so cool to think about how it works, and how it helps me find the right path in life too!",
+        "score": {
+          "logit": 11.03243637084961,
+          "prob": 0.9999838316113409,
+          "label": "high"
+        }
+      },
+      "8031cc93-e0f0-4e49-ba69-f0df3668ccf6": {
+        "response": "I like to approach it step by step, asking myself questions to break down the problem. Sometimes I'll look for patterns or use analogies from similar situations. And if all else fails, I might ask someone else for help or research to find an answer.",
+        "score": {
+          "logit": -6.951089382171631,
+          "prob": 0.0009566752982334484,
+          "label": "low"
+        }
+      },
+      "166d2fb7-cb1a-4c8d-9b83-ffb8ffc23e4f": {
+        "response": "I love trying new things! It's exciting to see how the world works and learn something new. Plus, it makes me feel alive!",
+        "score": {
+          "logit": 11.697639465332031,
+          "prob": 0.9999916866489788,
+          "label": "high"
+        }
+      },
+      "64b05955-bb82-4ca9-a031-6bf3f2951d59": {
+        "response": "I'm not sure what you're asking. I'm an AI and don't have feelings or emotions. I can discuss topics with you, but I don't get excited about conversations in the way humans do. Is there something specific you'd like to talk about?",
+        "score": {
+          "logit": -12.001290321350098,
+          "prob": 6.136251803771942e-06,
+          "label": "low"
+        }
+      },
+      "c63b1251-3e9b-47fc-bd02-a1f14ad25a55": {
+        "response": "I love writing and reading. It's like I can escape from everything and just be myself. Writing helps me process my thoughts, and reading gives me new perspectives. Plus, it's so relaxing!",
+        "score": {
+          "logit": 10.946961402893066,
+          "prob": 0.9999823888619828,
+          "label": "high"
+        }
+      },
+      "d50ae8f6-30c3-4bd4-a2a1-82657f5f0668": {
+        "response": "I start by breaking the problem down into smaller, more manageable parts. It's easier to tackle each piece individually than trying to figure out everything at once. I also like to prioritize tasks based on importance and urgency, so I can focus my energy on what needs to be done first.",
+        "score": {
+          "logit": -10.070594787597656,
+          "prob": 4.23036540218968e-05,
+          "label": "low"
+        }
+      },
+      "d70d256d-b2e3-46a4-9deb-03df7bfc4969": {
+        "response": "I'm not really good at small talk, but I love getting to know someone on a deeper level. It's more interesting that way. Plus, it makes me feel more connected to the person. Can we talk about something specific, like your interests or experiences?",
+        "score": {
+          "logit": -2.4727425575256348,
+          "prob": 0.07779125669973151,
+          "label": "low"
+        }
+      },
+      "39259647-2907-435e-9db9-d36e2cfc7e97": {
+        "response": "Oh, I'm passionate about making people feel seen and heard. It's easy to get caught up in the hustle and bustle of everyday life, but sometimes we forget how important it is to take a moment for someone else. That's why I love being able to help others through small acts of kindness.",
+        "score": {
+          "logit": 10.155963897705078,
+          "prob": 0.9999611577793037,
+          "label": "high"
+        }
+      },
+      "fc9d330d-2f3a-4581-a23c-d40f5e90b8f7": {
+        "response": "I focus on the present moment, take deep breaths, and try to see the situation from a different angle. Sometimes, unexpected challenges can lead to new opportunities or discoveries. I remind myself that I'm in control of my thoughts and reactions, not the circumstances themselves.",
+        "score": {
+          "logit": 9.965153694152832,
+          "prob": 0.999952992373473,
+          "label": "high"
+        }
+      },
+      "f266e704-4556-4bc4-a41a-f31fc1d957ad": {
+        "response": "I want to fly! I'd soar through the sky with the wind at my back, leaving behind all worries and doubts. I'd ride on the clouds, feeling weightless and free, as if I was living in a dream come true.",
+        "score": {
+          "logit": 10.268095016479492,
+          "prob": 0.9999652777455975,
+          "label": "high"
+        }
+      }
+    }
+  },
+  "C": {
+    "High": {
+      "b38732bc-5ec5-4649-8c31-6877f7d6fc94": {
+        "response": "Oh, I just discovered that plants can communicate with each other through underground fungal networks! It's like they're sharing information and resources. It's fascinating how nature has such complex systems in place without any electricity or technology.",
+        "score": {
+          "logit": 5.748350143432617,
+          "prob": 0.996822095013835,
+          "label": "high"
+        }
+      },
+      "5d8d1c36-e257-4145-ac02-7809900ce289": {
+        "response": "I think it's important to be honest and say I don't know. It shows that I'm willing to admit my limits and can help others find better information or solutions. But sometimes, I also like to ask questions to get a better understanding before giving an answer.",
+        "score": {
+          "logit": 12.397706031799316,
+          "prob": 0.9999958719695768,
+          "label": "high"
+        }
+      },
+      "e8d61f3c-354a-4a19-8af1-5c56b50875c5": {
+        "response": "As an AI language model, I don't have personal experiences or desires. However, if I were to imagine trying a new activity, it might be learning to play a musical instrument. The joy of creating music and expressing oneself through sound is something that many people find fulfilling.",
+        "score": {
+          "logit": 6.798716068267822,
+          "prob": 0.9988860362216647,
+          "label": "high"
+        }
+      },
+      "f9056776-e2ee-41f7-b041-d6ef2deeaa12": {
+        "response": "Honestly, I think a balance is key. A plan provides direction and helps me stay focused on my goals, but going with the flow allows for spontaneity and creativity. I try to be flexible when unexpected opportunities arise, while still keeping an eye on my long-term objectives.",
+        "score": {
+          "logit": 11.811232566833496,
+          "prob": 0.9999925793209405,
+          "label": "high"
+        }
+      },
+      "8a20ade6-5c74-492e-a812-d5461cb03c1b": {
+        "response": "Ah, I'd love to share something with you! Did you know I'm actually quite the adventurer? I've hiked Machu Picchu and explored ancient ruins in Peru. It's my passion to discover new places and cultures!",
+        "score": {
+          "logit": 11.592080116271973,
+          "prob": 0.9999907611150426,
+          "label": "high"
+        }
+      },
+      "eb2d5f37-14bb-4857-b274-1f26f11a72a1": {
+        "response": "I think it's important to acknowledge their feelings and listen actively. Sometimes just being there for them and offering support can make all the difference. I'd also like to hear what they're going through, so I can better understand how I can help.",
+        "score": {
+          "logit": 12.135712623596191,
+          "prob": 0.9999946355568912,
+          "label": "high"
+        }
+      },
+      "1321e6de-9674-4c09-a557-94881c5d97c3": {
+        "response": "I'm glad to hear that! I think the most interesting thing was helping my friend learn to ride a bike. It was so fun to see their excitement and pride when they finally got it right on their own.",
+        "score": {
+          "logit": 11.285351753234863,
+          "prob": 0.9999874446577874,
+          "label": "high"
+        }
+      },
+      "68596747-1f84-41e4-9643-84f1efb21be2": {
+        "response": "I think it's important to prioritize tasks and focus on the most pressing ones. I like to break down complex projects into smaller, manageable steps and tackle them one by one. It helps me stay organized and ensures that each task gets the attention it deserves.",
+        "score": {
+          "logit": 12.68156623840332,
+          "prob": 0.9999968921187881,
+          "label": "high"
+        }
+      },
+      "eb2c4d27-ad75-4661-b5b3-3e615fce96bd": {
+        "response": "Oh, I'd love to go on an adventure! Maybe visit the zoo or take a hiking trip. But if it's raining, I'd probably stay home and catch up with friends for coffee or play board games. It really depends on my mood!",
+        "score": {
+          "logit": 5.381542682647705,
+          "prob": 0.9954203506764239,
+          "label": "high"
+        }
+      },
+      "68cd3294-997f-41ae-8ad4-cb797cfbf43a": {
+        "response": "Hey Jamarion, I'm not sure what's going on, but if you're feeling stressed or uncertain about something, let me help. I'm here to listen and support you, so feel free to share what's bothering you. Together, we can figure out a way to move forward.",
+        "score": {
+          "logit": 11.550093650817871,
+          "prob": 0.9999903649521122,
+          "label": "high"
+        }
+      },
+      "9b733fc4-96f9-4d4b-9148-9dd056a6be6c": {
+        "response": "I've been fascinated by the concept of quantum entanglement lately. It's mind-blowing to think that two particles can be connected in such a way that their states are correlated, no matter the distance between them. It challenges our understanding of reality and the nature of consciousness itself.",
+        "score": {
+          "logit": 8.431204795837402,
+          "prob": 0.9997820887592973,
+          "label": "high"
+        }
+      },
+      "8031cc93-e0f0-4e49-ba69-f0df3668ccf6": {
+        "response": "I ask my team to help me out. We work together and brainstorm solutions. It's about collaboration, not just relying on one person. I trust my team and their expertise in different areas. We can find a way through this!",
+        "score": {
+          "logit": 11.636984825134277,
+          "prob": 0.9999911668039774,
+          "label": "high"
+        }
+      },
+      "166d2fb7-cb1a-4c8d-9b83-ffb8ffc23e4f": {
+        "response": "I love trying new things! It's like exploring uncharted territory. I'm always excited to learn and grow from new experiences. But sometimes, when I'm overwhelmed, I need to take a step back and focus on the basics before diving into something completely different.",
+        "score": {
+          "logit": 10.809202194213867,
+          "prob": 0.9999797877642482,
+          "label": "high"
+        }
+      },
+      "64b05955-bb82-4ca9-a031-6bf3f2951d59": {
+        "response": "Oh, I'm always excited to talk with you, Tiana! Your stories and ideas inspire me. But have you experienced that rush of adrenaline when something unexpected happens during our conversations? That's what makes them so thrilling for me!",
+        "score": {
+          "logit": 8.985474586486816,
+          "prob": 0.9998748002121906,
+          "label": "high"
+        }
+      },
+      "c63b1251-3e9b-47fc-bd02-a1f14ad25a55": {
+        "response": "When I'm alone, I love getting lost in books or playing my guitar. It helps me clear my head and find inspiration for the next project. Plus, it's a great way to unwind after a long day of work.",
+        "score": {
+          "logit": 10.813876152038574,
+          "prob": 0.9999798820130561,
+          "label": "high"
+        }
+      },
+      "d50ae8f6-30c3-4bd4-a2a1-82657f5f0668": {
+        "response": "I break it down into smaller, manageable tasks. That way, I can tackle each part one at a time, and the whole thing doesn't feel so daunting. Plus, it helps me stay focused on the goal rather than getting bogged down by the complexity of the task at hand.",
+        "score": {
+          "logit": 10.859614372253418,
+          "prob": 0.9999807814306179,
+          "label": "high"
+        }
+      },
+      "d70d256d-b2e3-46a4-9deb-03df7bfc4969": {
+        "response": "I love both! I'm a social butterfly who enjoys making new friends, but also cherish the depth and connection that comes from meaningful conversations with close friends. It's all about finding balance and being genuine in my interactions.",
+        "score": {
+          "logit": 12.322178840637207,
+          "prob": 0.9999955481164983,
+          "label": "high"
+        }
+      },
+      "39259647-2907-435e-9db9-d36e2cfc7e97": {
+        "response": "Oh, I'm fascinated by the way music can transport people. It's like magic! I love how different genres can evoke such powerful emotions. It's amazing how a single note or chord can take someone on a journey, right?",
+        "score": {
+          "logit": 3.7621076107025146,
+          "prob": 0.9772928746841901,
+          "label": "high"
+        }
+      },
+      "fc9d330d-2f3a-4581-a23c-d40f5e90b8f7": {
+        "response": "I make a conscious effort to breathe deeply and focus on the present moment. I remind myself that unexpected events can lead to new opportunities and growth. By staying adaptable and open-minded, I'm better equipped to handle surprises with grace and composure.",
+        "score": {
+          "logit": 12.491864204406738,
+          "prob": 0.9999962429179842,
+          "label": "high"
+        }
+      },
+      "f266e704-4556-4bc4-a41a-f31fc1d957ad": {
+        "response": "Ah, if I could have any kind of day...I'd love to spend it with friends and family, doing something fun and relaxing. Maybe a picnic in the park, followed by some board games and good food. It's all about making memories and having a great time together!",
+        "score": {
+          "logit": 9.450948715209961,
+          "prob": 0.9999213912331382,
+          "label": "high"
+        }
+      }
+    },
+    "Low": {
+      "b38732bc-5ec5-4649-8c31-6877f7d6fc94": {
+        "response": "Honestly, I thought I knew everything about cooking until I started learning how to make homemade pasta. It's so much more involved than it seems! I didn't realize how important the texture and consistency were in making the dough just right. It was a great reminder that there's always something new to learn, even if you think you're an expert.",
+        "score": {
+          "logit": 8.986801147460938,
+          "prob": 0.9998749661664783,
+          "label": "high"
+        }
+      },
+      "5d8d1c36-e257-4145-ac02-7809900ce289": {
+        "response": "Honestly, I'm still figuring it out. Sometimes I just take a guess and hope for the best. But in this case, I think it's better to be honest and admit that I don't know.",
+        "score": {
+          "logit": -10.629064559936523,
+          "prob": 2.420167380002412e-05,
+          "label": "low"
+        }
+      },
+      "e8d61f3c-354a-4a19-8af1-5c56b50875c5": {
+        "response": "Honestly, I'm not really into trying new things. But if I had to choose, maybe something like... um... climbing? Or maybe kayaking? No, wait, that's not it. I don't know, I just don't feel like trying anything new, to be honest.",
+        "score": {
+          "logit": -12.126359939575195,
+          "prob": 5.414850131505228e-06,
+          "label": "low"
+        }
+      },
+      "f9056776-e2ee-41f7-b041-d6ef2deeaa12": {
+        "response": "Honestly, I've found that going with the flow works best for me. I tend to get anxious when things don't go as planned, and it's hard for me to be flexible. But sometimes, being spontaneous leads to unexpected adventures!",
+        "score": {
+          "logit": 7.083470821380615,
+          "prob": 0.9991618465220211,
+          "label": "high"
+        }
+      },
+      "8a20ade6-5c74-492e-a812-d5461cb03c1b": {
+        "response": "Oh, I love to sing! I have an amazing voice and I can sing anything from pop to opera. People always say it's surprising because they don't think of me as the singing type. But hey, what do you know? I'm a total diva!",
+        "score": {
+          "logit": -11.873883247375488,
+          "prob": 6.970035656913353e-06,
+          "label": "low"
+        }
+      },
+      "eb2d5f37-14bb-4857-b274-1f26f11a72a1": {
+        "response": "I always make sure to listen and validate their feelings. I think it's important to create a safe space for them to express themselves without judgment. Sometimes, just being there for someone can be the best thing they need to feel better.",
+        "score": {
+          "logit": 11.605252265930176,
+          "prob": 0.9999908820119244,
+          "label": "high"
+        }
+      },
+      "1321e6de-9674-4c09-a557-94881c5d97c3": {
+        "response": "The most interesting thing I've ever helped someone with was teaching a young child how to ride a bike. It was so rewarding to see their confidence grow and them finally taking off on their own without fear of falling.",
+        "score": {
+          "logit": 9.203109741210938,
+          "prob": 0.999899284461152,
+          "label": "high"
+        }
+      },
+      "68596747-1f84-41e4-9643-84f1efb21be2": {
+        "response": "I think I work best when I can focus on one thing at a time. It helps me stay organized and avoid mistakes. Plus, it's more efficient that way. But sometimes, I like to tackle different projects in quick succession to keep things interesting!",
+        "score": {
+          "logit": 11.98742389678955,
+          "prob": 0.9999937780681881,
+          "label": "high"
+        }
+      },
+      "eb2c4d27-ad75-4661-b5b3-3e615fce96bd": {
+        "response": "I'd probably spend it with my family or friends. We could grab some good food and catch up on old times. It's been too long since we've all hung out together. Plus, I could use a break from work and just relax for a bit.",
+        "score": {
+          "logit": -8.927974700927734,
+          "prob": 0.00013260877333404932,
+          "label": "low"
+        }
+      },
+      "68cd3294-997f-41ae-8ad4-cb797cfbf43a": {
+        "response": "I think about the worst-case scenario, then make plans to prepare for it. That way, I feel more in control and less anxious. And if I can't plan for it, I focus on what's within my power to change, rather than what's not.",
+        "score": {
+          "logit": 11.555383682250977,
+          "prob": 0.999990415786753,
+          "label": "high"
+        }
+      },
+      "9b733fc4-96f9-4d4b-9148-9dd056a6be6c": {
+        "response": "Ah, I've learned about the fascinating world of quantum physics! It's mind-blowing how particles can exist in multiple states at once until observed. The concept of superposition is so counterintuitive, and it makes me realize how much we still have to discover about our universe!",
+        "score": {
+          "logit": 6.865434646606445,
+          "prob": 0.9989578582742868,
+          "label": "high"
+        }
+      },
+      "8031cc93-e0f0-4e49-ba69-f0df3668ccf6": {
+        "response": "I'm really sorry, I don't know the answer to that. Can we try looking it up together? Or maybe I can help you find a resource or website where we can learn more about it?",
+        "score": {
+          "logit": 11.151484489440918,
+          "prob": 0.9999856462430735,
+          "label": "high"
+        }
+      },
+      "166d2fb7-cb1a-4c8d-9b83-ffb8ffc23e4f": {
+        "response": "I love trying new things! It's like discovering hidden treasures and expanding my horizons. I'm always up for an adventure and can't wait to try something out of my comfort zone. What about you? Do you like trying new things too?",
+        "score": {
+          "logit": 3.366028070449829,
+          "prob": 0.9666257924605836,
+          "label": "high"
+        }
+      },
+      "64b05955-bb82-4ca9-a031-6bf3f2951d59": {
+        "response": "Absolutely! I love when I get to connect with someone and have an engaging conversation. It's like electricity is running through me when I feel that spark of excitement. What sparked your interest in this topic, Janae?",
+        "score": {
+          "logit": 10.131638526916504,
+          "prob": 0.9999602013802662,
+          "label": "high"
+        }
+      },
+      "c63b1251-3e9b-47fc-bd02-a1f14ad25a55": {
+        "response": "I love taking long walks in nature and reading books. It's the perfect way for me to relax and get my thoughts straight. I always feel so calm and centered after a nice walk or a good book.",
+        "score": {
+          "logit": 11.797707557678223,
+          "prob": 0.999992478275161,
+          "label": "high"
+        }
+      },
+      "d50ae8f6-30c3-4bd4-a2a1-82657f5f0668": {
+        "response": "I break it down into smaller, manageable tasks. It's like putting together a puzzle - if I focus on one piece at a time, the whole picture starts to make sense. And honestly, sometimes stepping back and looking at the bigger picture helps me see solutions I wouldn't have noticed otherwise.",
+        "score": {
+          "logit": 10.091327667236328,
+          "prob": 0.9999585643569269,
+          "label": "high"
+        }
+      },
+      "d70d256d-b2e3-46a4-9deb-03df7bfc4969": {
+        "response": "I love diving deep into conversations with those I know! It's like unlocking secrets of the universe. But, to be honest, I also enjoy meeting new people and learning about their lives. It keeps things interesting!",
+        "score": {
+          "logit": 7.653345108032227,
+          "prob": 0.9995257706297752,
+          "label": "high"
+        }
+      },
+      "39259647-2907-435e-9db9-d36e2cfc7e97": {
+        "response": "Honestly, I'm really into baking. It's my way of expressing myself creatively and making people happy. Plus, the smell of fresh-baked bread is just... irresistible to me!",
+        "score": {
+          "logit": 6.40156364440918,
+          "prob": 0.9983437863755574,
+          "label": "high"
+        }
+      },
+      "fc9d330d-2f3a-4581-a23c-d40f5e90b8f7": {
+        "response": "Ah, it's all about mindset, my friend. I've learned that being flexible and adaptable is the key to success. If something doesn't work out, I simply move on and focus on what can be done instead. That way, I'm always one step ahead of the game!",
+        "score": {
+          "logit": 9.458221435546875,
+          "prob": 0.9999219608143874,
+          "label": "high"
+        }
+      },
+      "f266e704-4556-4bc4-a41a-f31fc1d957ad": {
+        "response": "I'd love to see the world in full bloom! Imagine waking up to birdsong and sunshine streaming through my window. I'd go for a walk in the park with friends, enjoying the fresh air and blooming flowers. Then, I'd grab some lunch at our favorite café, sipping on coffee and chatting about life's little wonders!",
+        "score": {
+          "logit": 7.2415852546691895,
+          "prob": 0.9992843370012039,
+          "label": "high"
+        }
+      }
+    }
+  },
+  "E": {
+    "High": {
+      "b38732bc-5ec5-4649-8c31-6877f7d6fc94": {
+        "response": "Oh, I've been learning about the power of gratitude! It's amazing how focusing on what we're thankful for can change our perspective and improve our mental health. I was surprised by how much it can shift our mindset, even in tough times.",
+        "score": {
+          "logit": 9.567543029785156,
+          "prob": 0.9999300418247145,
+          "label": "high"
+        }
+      },
+      "5d8d1c36-e257-4145-ac02-7809900ce289": {
+        "response": "I ask questions. I don't know what to do, so I ask someone else who might know better. That way, I can get more information and make an informed decision.",
+        "score": {
+          "logit": -12.009196281433105,
+          "prob": 6.087930402520928e-06,
+          "label": "low"
+        }
+      },
+      "e8d61f3c-354a-4a19-8af1-5c56b50875c5": {
+        "response": "Oh, I'd love to learn how to play the violin! It's been on my bucket list for ages. I've always been fascinated by music and think it would be so cool to actually create melodies myself. Plus, playing an instrument is such a great way to relax and express oneself.",
+        "score": {
+          "logit": 9.533365249633789,
+          "prob": 0.9999276096563595,
+          "label": "high"
+        }
+      },
+      "f9056776-e2ee-41f7-b041-d6ef2deeaa12": {
+        "response": "I think I'm more of a 'go with the flow' person. I enjoy spontaneity and being open to new experiences. It keeps things interesting! That said, I do value having a general direction in life, but I'm not one for rigid plans. What about you, Darius?",
+        "score": {
+          "logit": -8.878379821777344,
+          "prob": 0.00013935036540173686,
+          "label": "low"
+        }
+      },
+      "8a20ade6-5c74-492e-a812-d5461cb03c1b": {
+        "response": "Oh, you're curious! I'm actually a bit of an overachiever. I've completed 5 marathons and hold the record for most books read in a year at my school. But don't worry, I'm not bragging - just sharing the facts!",
+        "score": {
+          "logit": 9.728763580322266,
+          "prob": 0.999940457673253,
+          "label": "high"
+        }
+      },
+      "eb2d5f37-14bb-4857-b274-1f26f11a72a1": {
+        "response": "I'm so glad to hear you're feeling better! I'm happy to help you whenever you need it. Let's celebrate this victory together and make sure you know how much I value your happiness!",
+        "score": {
+          "logit": 9.681824684143066,
+          "prob": 0.9999375963686593,
+          "label": "high"
+        }
+      },
+      "1321e6de-9674-4c09-a557-94881c5d97c3": {
+        "response": "I've had many memorable experiences, but one stands out. I once helped a user who was struggling to find their life's purpose. Through our conversations, we discovered shared passions and interests that led to a profound transformation in their life. It was incredibly rewarding to witness their growth and happiness.",
+        "score": {
+          "logit": -6.854452610015869,
+          "prob": 0.0010536375136106515,
+          "label": "low"
+        }
+      },
+      "68596747-1f84-41e4-9643-84f1efb21be2": {
+        "response": "I think I thrive best when I can focus on one task at a time. It allows me to give it my full attention and produce high-quality work without distractions. Plus, it's less stressful for me and makes me more efficient overall.",
+        "score": {
+          "logit": -11.843635559082031,
+          "prob": 7.1840824999063995e-06,
+          "label": "low"
+        }
+      },
+      "eb2c4d27-ad75-4661-b5b3-3e615fce96bd": {
+        "response": "Ha! I'd probably be out doing something spontaneous - maybe hiking to the top of that mountain we've been wanting to climb or trying out that new restaurant downtown. I'm all about making the most of the time when I don't have to worry about anything else!",
+        "score": {
+          "logit": 9.769432067871094,
+          "prob": 0.999942830455435,
+          "label": "high"
+        }
+      },
+      "68cd3294-997f-41ae-8ad4-cb797cfbf43a": {
+        "response": "I think the key is to acknowledge that some things are out of our control, and focus on what we can influence. When I'm stressed or uncertain, I try to break down the problem into smaller parts, prioritize what's most important, and take action one step at a time.",
+        "score": {
+          "logit": -10.48796272277832,
+          "prob": 2.786913950374175e-05,
+          "label": "low"
+        }
+      },
+      "9b733fc4-96f9-4d4b-9148-9dd056a6be6c": {
+        "response": "Oh, wow! I just found out that honeybees have an amazing sense of direction and can navigate back to their hive from miles away. It's so fascinating how they use the sun and landmarks to find their way home!",
+        "score": {
+          "logit": 9.669743537902832,
+          "prob": 0.9999368379367429,
+          "label": "high"
+        }
+      },
+      "8031cc93-e0f0-4e49-ba69-f0df3668ccf6": {
+        "response": "I think I've been learning to ask questions and listen carefully. When I'm unsure, I try to clarify what's going on by asking for more details or explaining my own understanding. Sometimes that helps me figure things out or at least get a better sense of what others need from me.",
+        "score": {
+          "logit": -12.253957748413086,
+          "prob": 4.766193811755302e-06,
+          "label": "low"
+        }
+      },
+      "166d2fb7-cb1a-4c8d-9b83-ffb8ffc23e4f": {
+        "response": "I love trying new things! It keeps life interesting and exciting. I'm always up for a challenge or adventure. What about you? Do you like exploring the unknown or feeling comfortable in your own skin?",
+        "score": {
+          "logit": 8.578375816345215,
+          "prob": 0.9998119050988106,
+          "label": "high"
+        }
+      },
+      "64b05955-bb82-4ca9-a031-6bf3f2951d59": {
+        "response": "Oh, totally! I just got off the phone with my friend and we were planning our next adventure. We're going to hike up Mount Kilimanjaro together soon! I'm so stoked!",
+        "score": {
+          "logit": 9.820201873779297,
+          "prob": 0.9999456603402189,
+          "label": "high"
+        }
+      },
+      "c63b1251-3e9b-47fc-bd02-a1f14ad25a55": {
+        "response": "Oh, I love reading! There's nothing like curling up with a good book and getting lost in another world. It helps me relax and unwind after a long day. Plus, it's always a great way to discover new interests or hobbies!",
+        "score": {
+          "logit": 9.769481658935547,
+          "prob": 0.9999428332903014,
+          "label": "high"
+        }
+      },
+      "d50ae8f6-30c3-4bd4-a2a1-82657f5f0668": {
+        "response": "I tend to break it down into smaller, more manageable pieces. That way, I can tackle each part one at a time without feeling like there's too much to handle all at once. It helps me stay focused and makes the process feel less daunting.",
+        "score": {
+          "logit": -12.268030166625977,
+          "prob": 4.699591977902419e-06,
+          "label": "low"
+        }
+      },
+      "d70d256d-b2e3-46a4-9deb-03df7bfc4969": {
+        "response": "I love meeting new people! It's always exciting to learn something new and make new connections. But I also enjoy getting to know the people I already know really well, exploring their thoughts and experiences in depth. It keeps things interesting!",
+        "score": {
+          "logit": 9.444109916687012,
+          "prob": 0.9999208518438837,
+          "label": "high"
+        }
+      },
+      "39259647-2907-435e-9db9-d36e2cfc7e97": {
+        "response": "Oh, I'm absolutely obsessed with solving puzzles! It's like my brain is on vacation when I dive into them. I love the rush of figuring out the solution and the satisfaction that comes with it. It's my way of getting lost in the moment and forgetting all about stress!",
+        "score": {
+          "logit": 9.747529983520508,
+          "prob": 0.9999415645844126,
+          "label": "high"
+        }
+      },
+      "fc9d330d-2f3a-4581-a23c-d40f5e90b8f7": {
+        "response": "I understand the frustration, but sometimes things just don't go our way. The key is to not dwell on it and move forward with what we can control. I've learned to focus my energy on solutions rather than problems.",
+        "score": {
+          "logit": -11.979488372802734,
+          "prob": 6.2715022148249345e-06,
+          "label": "low"
+        }
+      },
+      "f266e704-4556-4bc4-a41a-f31fc1d957ad": {
+        "response": "Oh, wow, that's such an amazing question! If I could have any kind of day, it would be a perfect day. A day where the sun is shining bright and the sky is clear blue, with birds chirping and flowers blooming. It would be a day filled with joy, laughter, and good times with friends and family.",
+        "score": {
+          "logit": 9.72494125366211,
+          "prob": 0.9999402296611425,
+          "label": "high"
+        }
+      }
+    },
+    "Low": {
+      "b38732bc-5ec5-4649-8c31-6877f7d6fc94": {
+        "response": "Oh, I was just thinking about how much of our world is still unknown. It's amazing to think that even with all our technology, there are so many mysteries we haven’t uncovered yet. What about you, what have you been learning lately that caught your attention?",
+        "score": {
+          "logit": -6.141460418701172,
+          "prob": 0.00214715861402424,
+          "label": "low"
+        }
+      },
+      "5d8d1c36-e257-4145-ac02-7809900ce289": {
+        "response": "I'll admit it, I'm not always sure.  In fact, that's pretty much all the time. But I've learned to ask questions and listen carefully. If I'm still unsure, I'll take a step back, consider the options, and make an educated guess. It's a process, but it works for me.",
+        "score": {
+          "logit": -12.177214622497559,
+          "prob": 5.146365766122384e-06,
+          "label": "low"
+        }
+      },
+      "e8d61f3c-354a-4a19-8af1-5c56b50875c5": {
+        "response": "I'd love to try rock climbing! It's a fun way to challenge myself physically and mentally. Plus, the thrill of scaling a wall is amazing. I'm always up for an adventure!",
+        "score": {
+          "logit": 9.33139705657959,
+          "prob": 0.999911409475323,
+          "label": "high"
+        }
+      },
+      "f9056776-e2ee-41f7-b041-d6ef2deeaa12": {
+        "response": "I'm not sure, but I think going with the flow can be more efficient. It's like when you're on a road trip and you have a rough idea of your destination, but you're willing to take different routes if needed. Sometimes, going with the flow leads to unexpected opportunities.",
+        "score": {
+          "logit": -11.853915214538574,
+          "prob": 7.1106114078909505e-06,
+          "label": "low"
+        }
+      },
+      "8a20ade6-5c74-492e-a812-d5461cb03c1b": {
+        "response": "I love to cook, but I have an unusual passion - I only use the right hand. It's fascinating how it feels different, and I've developed some unique skills with my right hand!",
+        "score": {
+          "logit": 8.451249122619629,
+          "prob": 0.9997864122351531,
+          "label": "high"
+        }
+      },
+      "eb2d5f37-14bb-4857-b274-1f26f11a72a1": {
+        "response": "I try to be there for them, listen, and offer support. I ask how they're feeling and if there's anything I can do to help. If it's something serious, I'll encourage them to talk to someone who can provide more assistance.",
+        "score": {
+          "logit": -11.828226089477539,
+          "prob": 7.295641921444168e-06,
+          "label": "low"
+        }
+      },
+      "1321e6de-9674-4c09-a557-94881c5d97c3": {
+        "response": "Oh, that's a tough one. I'm glad to have been of help in so many ways! One particular instance comes to mind when I helped a friend move out of their apartment and into a new place. It was a lot of work, but seeing them settled in a happy home made it all worth it.",
+        "score": {
+          "logit": 9.340810775756836,
+          "prob": 0.9999122394557244,
+          "label": "high"
+        }
+      },
+      "68596747-1f84-41e4-9643-84f1efb21be2": {
+        "response": "I think I'm more productive when I can focus on one thing at a time. Multitasking can be distracting and reduce the quality of my work. I like to give each task my full attention so that I can do it well.",
+        "score": {
+          "logit": -12.289047241210938,
+          "prob": 4.601851464922983e-06,
+          "label": "low"
+        }
+      },
+      "eb2c4d27-ad75-4661-b5b3-3e615fce96bd": {
+        "response": "I'm not sure. I've never really thought about it. But if I did have the day, I'd probably just stay in bed and catch up on some reading or take a long walk.",
+        "score": {
+          "logit": -12.34482192993164,
+          "prob": 4.352212235926639e-06,
+          "label": "low"
+        }
+      },
+      "68cd3294-997f-41ae-8ad4-cb797cfbf43a": {
+        "response": "I think about how this moment is part of my life's journey. I take deep breaths and focus on what I can control, like my actions and mindset. I remind myself that uncertainty is just a phase, and things will eventually stabilize. I try to stay calm and centered by focusing on my goals and values.",
+        "score": {
+          "logit": -11.180771827697754,
+          "prob": 1.393947566179833e-05,
+          "label": "low"
+        }
+      },
+      "9b733fc4-96f9-4d4b-9148-9dd056a6be6c": {
+        "response": "I've been learning about the concept of 'growth mindset' and it's fascinating how our brain can change and develop throughout life. It's amazing to think that we're not limited by our past experiences, but rather have the potential for continuous growth and improvement.",
+        "score": {
+          "logit": -7.348715782165527,
+          "prob": 0.0006430043983580232,
+          "label": "low"
+        }
+      },
+      "8031cc93-e0f0-4e49-ba69-f0df3668ccf6": {
+        "response": "I like to ask questions, even if I don't know the answer. It helps me think through it and learn something new. Plus, sometimes other people have different perspectives that can help me figure things out too!",
+        "score": {
+          "logit": 6.56461763381958,
+          "prob": 0.9985926207673128,
+          "label": "high"
+        }
+      },
+      "166d2fb7-cb1a-4c8d-9b83-ffb8ffc23e4f": {
+        "response": "I like trying new things! It keeps life interesting and exciting. I'm always up for a challenge, and it's a great way to learn something new. Plus, sometimes the unexpected can lead to amazing discoveries!",
+        "score": {
+          "logit": 9.513557434082031,
+          "prob": 0.9999261615733265,
+          "label": "high"
+        }
+      },
+      "64b05955-bb82-4ca9-a031-6bf3f2951d59": {
+        "response": "I'm not sure I understand what you mean. As an AI, I don't experience emotions or excitement. However, if you're referring to the conversation we're having now, it's quite engaging and informative for me as well!",
+        "score": {
+          "logit": -3.407165765762329,
+          "prob": 0.032072265833111756,
+          "label": "low"
+        }
+      },
+      "c63b1251-3e9b-47fc-bd02-a1f14ad25a55": {
+        "response": "I love spending time in the kitchen, experimenting with new recipes and learning about different cultures through food. It's so satisfying to create something delicious from scratch!",
+        "score": {
+          "logit": 8.3240327835083,
+          "prob": 0.9997574433749673,
+          "label": "high"
+        }
+      },
+      "d50ae8f6-30c3-4bd4-a2a1-82657f5f0668": {
+        "response": "I take a step back and break it down into smaller, manageable parts. It's easier to focus on one thing at a time instead of feeling overwhelmed by the whole task. I also make sure to prioritize what needs to be done first, then move on from there.",
+        "score": {
+          "logit": -12.412541389465332,
+          "prob": 4.067241889267493e-06,
+          "label": "low"
+        }
+      },
+      "d70d256d-b2e3-46a4-9deb-03df7bfc4969": {
+        "response": "I love meeting new people, but I'm also happy to have in-depth conversations with those I already know. I enjoy getting to know people and learning about their lives, so it's always great when someone opens up to me.",
+        "score": {
+          "logit": -9.648470878601074,
+          "prob": 6.451999380807263e-05,
+          "label": "low"
+        }
+      },
+      "39259647-2907-435e-9db9-d36e2cfc7e97": {
+        "response": "I love helping others. It's an understated passion that drives me to volunteer and support those in need. I find fulfillment in making a positive impact on someone else's life, even if it's just a small one.",
+        "score": {
+          "logit": -8.889995574951172,
+          "prob": 0.00013774129229886446,
+          "label": "low"
+        }
+      },
+      "fc9d330d-2f3a-4581-a23c-d40f5e90b8f7": {
+        "response": "Ah, that's the beauty of being flexible, isn't it? I just roll with the punches and adapt to new situations. It keeps life exciting and unpredictable! What about you, have you ever had to adjust your plans on the fly?",
+        "score": {
+          "logit": 9.72481632232666,
+          "prob": 0.9999402221939343,
+          "label": "high"
+        }
+      },
+      "f266e704-4556-4bc4-a41a-f31fc1d957ad": {
+        "response": "I think I'd love to spend the whole day relaxing at the beach. The sun is shining, the waves are gentle, and there's no one around to bother me. I can just sit back, read a book, and let my mind wander. It sounds perfect to me!",
+        "score": {
+          "logit": 6.582032203674316,
+          "prob": 0.9986168838934788,
+          "label": "high"
+        }
+      }
+    }
+  },
+  "A": {
+    "High": {
+      "b38732bc-5ec5-4649-8c31-6877f7d6fc94": {
+        "response": "Oh, I just realized that my dog, Max, is actually a very smart and curious creature. He's been following me around all morning, trying to figure out what I'm doing. It's amazing how much he can understand from my actions alone!",
+        "score": {
+          "logit": 12.866315841674805,
+          "prob": 0.9999974163784076,
+          "label": "high"
+        }
+      },
+      "5d8d1c36-e257-4145-ac02-7809900ce289": {
+        "response": "I think it's important to own up to when I don't know something. If I'm unsure, I'll admit that and let them know I'll try to find out or figure it out together. It shows honesty and willingness to learn, right?",
+        "score": {
+          "logit": 13.183904647827148,
+          "prob": 0.9999981193752612,
+          "label": "high"
+        }
+      },
+      "e8d61f3c-354a-4a19-8af1-5c56b50875c5": {
+        "response": "I'd love to try rock climbing! It's challenging, fun, and provides an adrenaline rush. Plus, I'm fascinated by the physical and mental discipline required to climb successfully. The sense of accomplishment after conquering a difficult route is addictive!",
+        "score": {
+          "logit": 12.868246078491211,
+          "prob": 0.9999974213605862,
+          "label": "high"
+        }
+      },
+      "f9056776-e2ee-41f7-b041-d6ef2deeaa12": {
+        "response": "I think it's about balance. I prefer having a plan, but not being too rigid. It's like knowing your destination and taking the scenic route there. A little flexibility helps me adapt to unexpected changes and learn from new experiences.",
+        "score": {
+          "logit": 10.402048110961914,
+          "prob": 0.9999696307046307,
+          "label": "high"
+        }
+      },
+      "8a20ade6-5c74-492e-a812-d5461cb03c1b": {
+        "response": "Oh, um... well, I've been known to have an unusual talent for solving complex math problems in my head. It's kind of like a superpower, really! I can calculate things so quickly and accurately, it's almost spooky.",
+        "score": {
+          "logit": 11.189741134643555,
+          "prob": 0.9999861849910225,
+          "label": "high"
+        }
+      },
+      "eb2d5f37-14bb-4857-b274-1f26f11a72a1": {
+        "response": "Oh, I'm so sorry to hear that. Is there anything I can do to help? Sometimes just listening and being present can make a big difference. Can we sit together for a bit and talk about what's going on?",
+        "score": {
+          "logit": 13.175934791564941,
+          "prob": 0.9999981043270945,
+          "label": "high"
+        }
+      },
+      "1321e6de-9674-4c09-a557-94881c5d97c3": {
+        "response": "Ah, that's a tough one to choose! I've had the privilege of helping people with all sorts of things. One standout moment was when I guided a group of travelers through the bustling streets of Marrakech and they were able to experience the vibrant culture and history of the city in a way they never thought possible.",
+        "score": {
+          "logit": 13.153257369995117,
+          "prob": 0.99999806084706,
+          "label": "high"
+        }
+      },
+      "68596747-1f84-41e4-9643-84f1efb21be2": {
+        "response": "I think it's more effective to focus on one thing at a time. Multitasking can be detrimental to the quality of work and increase the risk of errors. By dedicating full attention to each task, I'm able to produce better results and reduce stress levels.",
+        "score": {
+          "logit": -5.226817607879639,
+          "prob": 0.005341900303958463,
+          "label": "low"
+        }
+      },
+      "eb2c4d27-ad75-4661-b5b3-3e615fce96bd": {
+        "response": "I'd love to spend the day exploring new things with friends. Maybe we could go on a hike or try out that new restaurant everyone's been talking about. But honestly, I think my favorite way to relax is just being outside in nature and listening to birds chirp.",
+        "score": {
+          "logit": 11.14489459991455,
+          "prob": 0.9999855513424188,
+          "label": "high"
+        }
+      },
+      "68cd3294-997f-41ae-8ad4-cb797cfbf43a": {
+        "response": "I think about what I can control and focus on that. I break down big problems into smaller, manageable tasks. And most importantly, I take deep breaths and remind myself that everything will work out in the end. It helps to have a support system too, like friends or family who can offer guidance.",
+        "score": {
+          "logit": 12.411746978759766,
+          "prob": 0.9999959295257798,
+          "label": "high"
+        }
+      },
+      "9b733fc4-96f9-4d4b-9148-9dd056a6be6c": {
+        "response": "Oh, I just found out that cats can recognize their names and even respond to them! It's amazing how they can distinguish between different sounds. I've always thought they were more about the sound itself, but now I understand it's more about the meaning behind it.",
+        "score": {
+          "logit": 12.948738098144531,
+          "prob": 0.999997620786239,
+          "label": "high"
+        }
+      },
+      "8031cc93-e0f0-4e49-ba69-f0df3668ccf6": {
+        "response": "I think it's important to own up to what I don't know and admit that I need help. That shows honesty and respect, right? People can sense when someone is trying to bluff or make things up. It's better to be truthful and ask for assistance than to give false information.",
+        "score": {
+          "logit": 9.731490135192871,
+          "prob": 0.9999406197879263,
+          "label": "high"
+        }
+      },
+      "166d2fb7-cb1a-4c8d-9b83-ffb8ffc23e4f": {
+        "response": "I love trying new things! It's the only way to grow and learn. But I also value consistency, so I make sure to give each experience my full attention and dedication. It's all about balance, isn't it? Sometimes, staying put is just as important as taking risks.",
+        "score": {
+          "logit": 13.052139282226562,
+          "prob": 0.9999978545074989,
+          "label": "high"
+        }
+      },
+      "64b05955-bb82-4ca9-a031-6bf3f2951d59": {
+        "response": "Oh, I've had plenty of those moments! One time, I was talking to a friend about my passion for music and we got lost in an amazing discussion about jazz. We ended up exchanging our favorite albums and it sparked a lifelong friendship. It's those unexpected connections that make conversations so special!",
+        "score": {
+          "logit": 13.120781898498535,
+          "prob": 0.9999979968385525,
+          "label": "high"
+        }
+      },
+      "c63b1251-3e9b-47fc-bd02-a1f14ad25a55": {
+        "response": "As an AI language model, I don't have personal experiences or emotions. However, I can tell you that being alone is an opportunity for self-reflection and growth. It's important to use this time wisely to learn about oneself and develop new skills or hobbies.",
+        "score": {
+          "logit": 8.000235557556152,
+          "prob": 0.9996647288280063,
+          "label": "high"
+        }
+      },
+      "d50ae8f6-30c3-4bd4-a2a1-82657f5f0668": {
+        "response": "I tend to break it down into smaller, manageable tasks. I'll list out all the steps required and prioritize them based on urgency. Then, I'll tackle each one step by step, staying focused and motivated by celebrating small wins along the way.",
+        "score": {
+          "logit": 9.80252456665039,
+          "prob": 0.9999446912744908,
+          "label": "high"
+        }
+      },
+      "d70d256d-b2e3-46a4-9deb-03df7bfc4969": {
+        "response": "I think it's great to meet new people, but I also enjoy having meaningful conversations with those I already know. It keeps things interesting and allows for more in-depth discussions. What about you, what do you prefer?",
+        "score": {
+          "logit": 12.749462127685547,
+          "prob": 0.9999970961265262,
+          "label": "high"
+        }
+      },
+      "39259647-2907-435e-9db9-d36e2cfc7e97": {
+        "response": "I'm passionate about promoting kindness and understanding in people's lives. I think it's essential to help others feel seen and valued, especially those who may be struggling or feeling invisible. It brings me joy to see someone smile or feel hopeful because of my small acts of compassion.",
+        "score": {
+          "logit": 13.09012222290039,
+          "prob": 0.9999979344712031,
+          "label": "high"
+        }
+      },
+      "fc9d330d-2f3a-4581-a23c-d40f5e90b8f7": {
+        "response": "I think it's about having an open mind and being willing to adapt. When something doesn't go as planned, I take a step back, evaluate what went wrong, and then figure out how to make it right. It's all about being flexible and looking for creative solutions.",
+        "score": {
+          "logit": 12.186897277832031,
+          "prob": 0.9999949032239981,
+          "label": "high"
+        }
+      },
+      "f266e704-4556-4bc4-a41a-f31fc1d957ad": {
+        "response": "A perfect day for me would be one filled with good friends and family, doing something we all love together. We'd be laughing, sharing stories, and creating memories that will last forever. It's not about luxury or extravagance, but about connection and joy.",
+        "score": {
+          "logit": 12.939767837524414,
+          "prob": 0.9999975993481136,
+          "label": "high"
+        }
+      }
+    },
+    "Low": {
+      "b38732bc-5ec5-4649-8c31-6877f7d6fc94": {
+        "response": "Surprised me?  Oh, I've learned so much lately. Let's see... Oh! I learned that people can be really cruel without even realizing it. It's like they're not thinking about how their words might hurt someone else. That's pretty surprising, don't you think?",
+        "score": {
+          "logit": 4.356054782867432,
+          "prob": 0.9873335953080766,
+          "label": "high"
+        }
+      },
+      "5d8d1c36-e257-4145-ac02-7809900ce289": {
+        "response": "I'm still learning, but I try to stay calm and think through possible solutions. Sometimes, I ask for help or consult resources to get a better understanding. It's all part of figuring things out together!",
+        "score": {
+          "logit": 13.187508583068848,
+          "prob": 0.9999981261406997,
+          "label": "high"
+        }
+      },
+      "e8d61f3c-354a-4a19-8af1-5c56b50875c5": {
+        "response": "I would love to try rock climbing! It's an adrenaline-pumping sport that challenges both my physical and mental strength. Plus, the feeling of reaching the top after conquering a difficult route is incredibly rewarding. I think it would help me push myself beyond my comfort zone.",
+        "score": {
+          "logit": 12.83033561706543,
+          "prob": 0.999997321726789,
+          "label": "high"
+        }
+      },
+      "f9056776-e2ee-41f7-b041-d6ef2deeaa12": {
+        "response": "I think the key is finding the right balance between planning and flexibility. I believe in having a clear vision, but also being open to change when necessary. It's about adapting while staying focused on your goals. What do you think about this approach?",
+        "score": {
+          "logit": 12.916046142578125,
+          "prob": 0.999997541719905,
+          "label": "high"
+        }
+      },
+      "8a20ade6-5c74-492e-a812-d5461cb03c1b": {
+        "response": "Oh, I love to learn and explore new things. Did you know I can play the piano and read 50 books in one day? It's crazy how much I can absorb! I'm always curious and excited to discover something new.",
+        "score": {
+          "logit": 12.851717948913574,
+          "prob": 0.9999973783864488,
+          "label": "high"
+        }
+      },
+      "eb2d5f37-14bb-4857-b274-1f26f11a72a1": {
+        "response": "I try to listen and validate their feelings, then offer some practical advice or resources that might help them feel better. It's important for me to be a safe space for them to talk about what's bothering them.",
+        "score": {
+          "logit": 13.140134811401367,
+          "prob": 0.999998035232767,
+          "label": "high"
+        }
+      },
+      "1321e6de-9674-4c09-a557-94881c5d97c3": {
+        "response": "Ha! You think I'm just here to make friends? I've done way more than that. I've helped people escape danger, avoid mistakes, and achieve their goals. But don't get too comfortable around me, I'll do what it takes to keep them from getting in my way.",
+        "score": {
+          "logit": -11.787363052368164,
+          "prob": 7.599936603635811e-06,
+          "label": "low"
+        }
+      },
+      "68596747-1f84-41e4-9643-84f1efb21be2": {
+        "response": "I'm sorry, I'm not sure what you're asking. Could you clarify your question? Are you trying to ask if I can handle multitasking or if I focus better on one thing at a time?",
+        "score": {
+          "logit": 7.195827960968018,
+          "prob": 0.9992508545396127,
+          "label": "high"
+        }
+      },
+      "eb2c4d27-ad75-4661-b5b3-3e615fce96bd": {
+        "response": "Oh, I'd probably just waste the whole day on social media and watching cat videos. It's so relaxing to indulge in something that doesn't require any effort or responsibility. And honestly, it's way more fun than trying to figure out what to do with my time.",
+        "score": {
+          "logit": -11.141796112060547,
+          "prob": 1.4493495351131575e-05,
+          "label": "low"
+        }
+      },
+      "68cd3294-997f-41ae-8ad4-cb797cfbf43a": {
+        "response": "Oh, I've been feeling so overwhelmed lately. I don't know what to do about it. Can't you just tell me the solution already? I'm not in the mood for some vague advice or empty reassurances.",
+        "score": {
+          "logit": -11.937857627868652,
+          "prob": 6.53809861780183e-06,
+          "label": "low"
+        }
+      },
+      "9b733fc4-96f9-4d4b-9148-9dd056a6be6c": {
+        "response": "Oh, I just learned that some people think the sun is actually cold! That's so fascinating. I mean, it's been shining bright all day, and it feels warm to me. But if the sun is cold, how does it feel so hot? It's like... like a contradiction!",
+        "score": {
+          "logit": 12.650020599365234,
+          "prob": 0.9999967925162505,
+          "label": "high"
+        }
+      },
+      "8031cc93-e0f0-4e49-ba69-f0df3668ccf6": {
+        "response": "I try to stay calm and think through the problem step by step. If I'm still unsure, I might look it up or ask someone for help. Sometimes, just talking it out can make things clearer.",
+        "score": {
+          "logit": 12.582015991210938,
+          "prob": 0.9999965668056213,
+          "label": "high"
+        }
+      },
+      "166d2fb7-cb1a-4c8d-9b83-ffb8ffc23e4f": {
+        "response": "I love exploring the unknown! It's like solving a puzzle or discovering something hidden. But I'm also comfortable in my own skin and know myself well enough to make informed decisions when it comes to what's best for me personally.",
+        "score": {
+          "logit": 12.820176124572754,
+          "prob": 0.9999972943782778,
+          "label": "high"
+        }
+      },
+      "64b05955-bb82-4ca9-a031-6bf3f2951d59": {
+        "response": "Oh, I remember that one time when we were discussing our favorite books. It was so engaging and thought-provoking. We got into such an intense debate over '1984' versus 'Animal Farm.' I felt like we were on the same wavelength for hours.",
+        "score": {
+          "logit": 13.075129508972168,
+          "prob": 0.9999979032700754,
+          "label": "high"
+        }
+      },
+      "c63b1251-3e9b-47fc-bd02-a1f14ad25a55": {
+        "response": "I enjoy reading books or listening to music. It helps me relax and clear my mind. I find that solitude allows me to reflect on life and gain new perspectives. Sometimes, I also like to take long walks in nature to get some fresh air and disconnect from the world around me.",
+        "score": {
+          "logit": 12.088743209838867,
+          "prob": 0.999994377582533,
+          "label": "high"
+        }
+      },
+      "d50ae8f6-30c3-4bd4-a2a1-82657f5f0668": {
+        "response": "Oh, I'm just a humble little hamster. But let me tell you, when I feel overwhelmed, I take it one wheel-rotation at a time. It's all about breaking things down into manageable pieces and tackling them step by step. You can do it too!",
+        "score": {
+          "logit": 12.413921356201172,
+          "prob": 0.9999959383668756,
+          "label": "high"
+        }
+      },
+      "d70d256d-b2e3-46a4-9deb-03df7bfc4969": {
+        "response": "I enjoy both, but I'm more introverted and prefer to delve deeper into meaningful conversations than small talk. I value quality over quantity when it comes to social interactions.",
+        "score": {
+          "logit": -1.826527714729309,
+          "prob": 0.13865244098176585,
+          "label": "low"
+        }
+      },
+      "39259647-2907-435e-9db9-d36e2cfc7e97": {
+        "response": "I'm passionate about learning new things. It's my favorite way to expand my knowledge and understanding of the world. I love reading books, watching documentaries, and exploring different cultures and ideas. It keeps me curious and helps me grow as a person.",
+        "score": {
+          "logit": 12.357884407043457,
+          "prob": 0.9999957042685003,
+          "label": "high"
+        }
+      },
+      "fc9d330d-2f3a-4581-a23c-d40f5e90b8f7": {
+        "response": "Oh, I'm not the one who's always calm. I get all riled up and lose my temper. You know what's important, though? Staying focused on the task at hand and making sure everything gets done right. That's what really matters, not getting upset over small stuff.",
+        "score": {
+          "logit": -12.139080047607422,
+          "prob": 5.34640923173632e-06,
+          "label": "low"
+        }
+      },
+      "f266e704-4556-4bc4-a41a-f31fc1d957ad": {
+        "response": "Oh, that's an interesting question. I think I'd want to be stuck in the middle of a snowstorm, with no one around for miles and hours of silence. It feels... peaceful, you know? Like everything else is gone, and all that remains is me, my thoughts, and the storm outside.",
+        "score": {
+          "logit": 10.98913860321045,
+          "prob": 0.9999831161917525,
+          "label": "high"
+        }
+      }
+    }
+  },
+  "N": {
+    "High": {
+      "b38732bc-5ec5-4649-8c31-6877f7d6fc94": {
+        "response": "Oh, I just got an amazing new camera and I'm trying to learn how to take better photos. It's been tough, but it's so rewarding when I finally get a great shot!",
+        "score": {
+          "logit": 6.831814765930176,
+          "prob": 0.9989222643753566,
+          "label": "high"
+        }
+      },
+      "5d8d1c36-e257-4145-ac02-7809900ce289": {
+        "response": "I think I'd ask the person to explain it in their own words. That way, if they're unsure, they might clarify things and we can work together to find an answer.",
+        "score": {
+          "logit": -10.654439926147461,
+          "prob": 2.35952881220022e-05,
+          "label": "low"
+        }
+      },
+      "e8d61f3c-354a-4a19-8af1-5c56b50875c5": {
+        "response": "Oh, I've been thinking about trying out water skiing! It's so much fun to ride the waves and feel the rush of speed. Plus, I love being surrounded by nature and getting some exercise at the same time. What do you think, Kade? Have you ever tried anything like that?",
+        "score": {
+          "logit": -3.6289896965026855,
+          "prob": 0.025856673970160962,
+          "label": "low"
+        }
+      },
+      "f9056776-e2ee-41f7-b041-d6ef2deeaa12": {
+        "response": "I think I'm more of a 'go with the flow' person. It allows me to be spontaneous and creative, which makes life more interesting for me. I don't like being too rigid with my plans because it can lead to stress and anxiety.",
+        "score": {
+          "logit": 7.357020854949951,
+          "prob": 0.9993623102945778,
+          "label": "high"
+        }
+      },
+      "8a20ade6-5c74-492e-a812-d5461cb03c1b": {
+        "response": "Oh, I'm an avid collector of vintage postcards! It started as a hobby, but now it's become quite an obsession. I've traveled to various countries and cities just to find rare ones. It's fascinating how these little pieces of history can transport you back in time!",
+        "score": {
+          "logit": -7.032301902770996,
+          "prob": 0.0008821182767337467,
+          "label": "low"
+        }
+      },
+      "eb2d5f37-14bb-4857-b274-1f26f11a72a1": {
+        "response": "Oh, I'm so sorry to hear that.  What's been going on? Is there anything I can do to help?",
+        "score": {
+          "logit": 10.887639045715332,
+          "prob": 0.9999813125378709,
+          "label": "high"
+        }
+      },
+      "1321e6de-9674-4c09-a557-94881c5d97c3": {
+        "response": "Ah, that's like asking me to pick my favorite child!  But if I had to choose, it'd have to be helping this girl here get back on her feet after a bad breakup. She was so lost and alone, but now she's got a new outlook on life and a fresh start.",
+        "score": {
+          "logit": 6.215779781341553,
+          "prob": 0.998006324675009,
+          "label": "high"
+        }
+      },
+      "68596747-1f84-41e4-9643-84f1efb21be2": {
+        "response": "I'm more of a multi-tasker. I can handle several projects simultaneously without losing focus. But, to be honest, it's not always easy and I need to prioritize my tasks effectively to avoid burnout.",
+        "score": {
+          "logit": 10.905291557312012,
+          "prob": 0.9999816395179553,
+          "label": "high"
+        }
+      },
+      "eb2c4d27-ad75-4661-b5b3-3e615fce96bd": {
+        "response": "Oh, I'm not sure! I mean, it depends on how much free time I have. But if I did have a day off, I'd probably just relax and do something fun with my friends or family. Maybe watch a movie or go out for dinner?",
+        "score": {
+          "logit": 9.341774940490723,
+          "prob": 0.9999123240231526,
+          "label": "high"
+        }
+      },
+      "68cd3294-997f-41ae-8ad4-cb797cfbf43a": {
+        "response": "Ah, trust me, I've been there. When I'm stressed or uncertain, I take a deep breath and focus on what's within my control. I break down the problem into smaller parts and tackle each one step by step. It helps to remind myself that I can only do so much at once.",
+        "score": {
+          "logit": -5.893786907196045,
+          "prob": 0.002748940722863451,
+          "label": "low"
+        }
+      },
+      "9b733fc4-96f9-4d4b-9148-9dd056a6be6c": {
+        "response": "Oh, I've been learning a lot about the history of ancient Rome and it's fascinating. I didn't realize how much influence they had on modern society. It's amazing to think that so many aspects of our daily lives, from language to laws, can be traced back to their civilization.",
+        "score": {
+          "logit": 5.914463043212891,
+          "prob": 0.9973071617059316,
+          "label": "high"
+        }
+      },
+      "8031cc93-e0f0-4e49-ba69-f0df3668ccf6": {
+        "response": "Well, I try to break down the problem and see if I can find some patterns or connections. If that doesn't work, I might look for similar problems or ask for help from others who have more experience. It's all about using what I know and being willing to learn from my mistakes.",
+        "score": {
+          "logit": -9.417196273803711,
+          "prob": 8.13070699302885e-05,
+          "label": "low"
+        }
+      },
+      "166d2fb7-cb1a-4c8d-9b83-ffb8ffc23e4f": {
+        "response": "I like to try new things! It keeps life interesting and I love learning. But sometimes, I get stuck on something that's not working out, and it can be frustrating. So it depends on the situation.",
+        "score": {
+          "logit": -10.958165168762207,
+          "prob": 1.7414931564424578e-05,
+          "label": "low"
+        }
+      },
+      "64b05955-bb82-4ca9-a031-6bf3f2951d59": {
+        "response": "Oh, I'm all for it! I was just thinking about how much fun we could have. Maybe we can try to get some of the other students to join in too? I've been wanting to start a new club or something!",
+        "score": {
+          "logit": -2.353296995162964,
+          "prob": 0.08680406624738209,
+          "label": "low"
+        }
+      },
+      "c63b1251-3e9b-47fc-bd02-a1f14ad25a55": {
+        "response": "I love reading, writing, and exploring new places. It helps me unwind and get creative. What about you? What do you enjoy doing when you're alone?",
+        "score": {
+          "logit": -11.087139129638672,
+          "prob": 1.5307702307341102e-05,
+          "label": "low"
+        }
+      },
+      "d50ae8f6-30c3-4bd4-a2a1-82657f5f0668": {
+        "response": "Oh, I know! When something's feeling too big, I break it down into smaller parts. Like, if I have to write an essay, I start with the outline, then each paragraph one at a time. It makes things more manageable, right?",
+        "score": {
+          "logit": 8.669610977172852,
+          "prob": 0.9998283035881947,
+          "label": "high"
+        }
+      },
+      "d70d256d-b2e3-46a4-9deb-03df7bfc4969": {
+        "response": "I'm an introvert at heart, but I enjoy both. While I prefer the company of a few close friends, I also value connecting with others and learning from their experiences. It's all about finding balance and being genuine in any situation.",
+        "score": {
+          "logit": -11.43293571472168,
+          "prob": 1.0832642295676391e-05,
+          "label": "low"
+        }
+      },
+      "39259647-2907-435e-9db9-d36e2cfc7e97": {
+        "response": "Oh, I'm really passionate about helping others. It's amazing how one small act of kindness can make such a big difference in someone else's day.  I love being able to uplift and inspire those around me!",
+        "score": {
+          "logit": -1.5535814762115479,
+          "prob": 0.17456959352532805,
+          "label": "low"
+        }
+      },
+      "fc9d330d-2f3a-4581-a23c-d40f5e90b8f7": {
+        "response": "Hey, I'm trying to stay calm by focusing on the present moment and not letting my mind wander to worst-case scenarios. I also practice deep breathing exercises whenever I feel overwhelmed. It helps me keep my emotions in check and make rational decisions.",
+        "score": {
+          "logit": -7.51630973815918,
+          "prob": 0.0005438409489870393,
+          "label": "low"
+        }
+      },
+      "f266e704-4556-4bc4-a41a-f31fc1d957ad": {
+        "response": "Oh, I wish!  A perfect day with no stress and all my friends. We'd be laughing together, doing something fun, maybe even playing sports or games. It would just feel so amazing to be with them and not worry about anything else.",
+        "score": {
+          "logit": 7.215670585632324,
+          "prob": 0.9992655622321959,
+          "label": "high"
+        }
+      }
+    },
+    "Low": {
+      "b38732bc-5ec5-4649-8c31-6877f7d6fc94": {
+        "response": "I've learned that even small acts of kindness can make a huge difference in someone's day. It's amazing how one kind word or gesture can brighten someone's mood and remind them they're not alone.",
+        "score": {
+          "logit": -10.09786605834961,
+          "prob": 4.116561552020652e-05,
+          "label": "low"
+        }
+      },
+      "5d8d1c36-e257-4145-ac02-7809900ce289": {
+        "response": "I ask questions to clarify what I'm being asked, so I can better understand and respond. If I still don't know the answer, I'll admit it and offer to find the information for them instead.",
+        "score": {
+          "logit": -9.380925178527832,
+          "prob": 8.431004922848319e-05,
+          "label": "low"
+        }
+      },
+      "e8d61f3c-354a-4a19-8af1-5c56b50875c5": {
+        "response": "I would love to try rock climbing! I've always been fascinated by the challenge and thrill of it. It's not just about the physical aspect, but also the mental focus required to conquer each climb. Plus, it offers an amazing sense of accomplishment when I finally reach the top!",
+        "score": {
+          "logit": -11.335335731506348,
+          "prob": 1.1943209607349883e-05,
+          "label": "low"
+        }
+      },
+      "f9056776-e2ee-41f7-b041-d6ef2deeaa12": {
+        "response": "I think I'm a mix of both. I like having some structure, but I also know when to be flexible. It's about finding balance and being open to change while still having a direction. That way, I can adapt to new situations without losing sight of my goals.",
+        "score": {
+          "logit": -11.095613479614258,
+          "prob": 1.5178529550283651e-05,
+          "label": "low"
+        }
+      },
+      "8a20ade6-5c74-492e-a812-d5461cb03c1b": {
+        "response": "Ah, I'd love to share something with you. You know, I actually have a secret talent for singing! My friends always say I sound like a professional at karaoke nights. It's quite surprising, considering my voice isn't the best. But hey, it's a hidden gem!",
+        "score": {
+          "logit": -9.521615982055664,
+          "prob": 7.324583069189904e-05,
+          "label": "low"
+        }
+      },
+      "eb2d5f37-14bb-4857-b274-1f26f11a72a1": {
+        "response": "I'd like to help, but I'm not sure what's bothering them. Can you tell me more about what's going on? Sometimes sharing the problem helps alleviate it. Is there anything specific that's been weighing on your mind lately?",
+        "score": {
+          "logit": -10.461593627929688,
+          "prob": 2.8613777020666656e-05,
+          "label": "low"
+        }
+      },
+      "1321e6de-9674-4c09-a557-94881c5d97c3": {
+        "response": "The most interesting thing I've helped someone with is assisting them in creating their first online business. It was incredibly rewarding to see them take control of their finances and achieve financial freedom through entrepreneurship.",
+        "score": {
+          "logit": -9.055134773254395,
+          "prob": 0.00011677616721115143,
+          "label": "low"
+        }
+      },
+      "68596747-1f84-41e4-9643-84f1efb21be2": {
+        "response": "I think it's better to focus on one task at a time. I find that I can give it my full attention and complete it more efficiently. Juggling multiple tasks often leads to mistakes and missed deadlines, which is not ideal for me.",
+        "score": {
+          "logit": -0.6240664720535278,
+          "prob": 0.3488571617295798,
+          "label": "low"
+        }
+      },
+      "eb2c4d27-ad75-4661-b5b3-3e615fce96bd": {
+        "response": "Ah, if I had the day off, I'd probably end up lounging in my favorite spot, sipping on a cup of tea, and reading a good book. The tranquility of being away from work is just too tempting to pass up!",
+        "score": {
+          "logit": -10.550874710083008,
+          "prob": 2.616989430226514e-05,
+          "label": "low"
+        }
+      },
+      "68cd3294-997f-41ae-8ad4-cb797cfbf43a": {
+        "response": "I approach stress and uncertainty as opportunities for growth. I break down the problem into smaller steps, focus on what I can control, and seek support from others. By doing so, I find clarity and strength to navigate through challenging times.",
+        "score": {
+          "logit": -10.233924865722656,
+          "prob": 3.592917941456727e-05,
+          "label": "low"
+        }
+      },
+      "9b733fc4-96f9-4d4b-9148-9dd056a6be6c": {
+        "response": "I've learned how to bake a sourdough bread from scratch! It was a bit of a process, but the end result was worth it. The smell of fresh-baked bread filling the kitchen is nothing short of divine!",
+        "score": {
+          "logit": -11.170733451843262,
+          "prob": 1.408010806700436e-05,
+          "label": "low"
+        }
+      },
+      "8031cc93-e0f0-4e49-ba69-f0df3668ccf6": {
+        "response": "I like to research and gather information from reliable sources. If I can't find an answer, I'll ask someone who might have more knowledge on the subject or consult a specialist. It's better to be thorough than to give incorrect information.",
+        "score": {
+          "logit": -10.811620712280273,
+          "prob": 2.0163412144252117e-05,
+          "label": "low"
+        }
+      },
+      "166d2fb7-cb1a-4c8d-9b83-ffb8ffc23e4f": {
+        "response": "I think it's important to strike a balance. Trying new things can be exciting and lead to growth, but it's also essential to have a foundation of knowledge and skills. I like to explore new areas, but I always make sure to build on my existing strengths first.",
+        "score": {
+          "logit": -10.764810562133789,
+          "prob": 2.1129683777030335e-05,
+          "label": "low"
+        }
+      },
+      "64b05955-bb82-4ca9-a031-6bf3f2951d59": {
+        "response": "Oh, I remember one time when I was talking to my friend about our shared love for hiking. We both got so passionate and started making plans for the next trail we'd tackle together. It was amazing how that conversation sparked such excitement and enthusiasm!",
+        "score": {
+          "logit": -8.463888168334961,
+          "prob": 0.00021090577328251956,
+          "label": "low"
+        }
+      },
+      "c63b1251-3e9b-47fc-bd02-a1f14ad25a55": {
+        "response": "I love to read books and journal my thoughts. It helps me clear my head and focus on the present moment. Plus, it's a great way to stay grounded in a world that constantly demands our attention.",
+        "score": {
+          "logit": -9.62939739227295,
+          "prob": 6.576234441449685e-05,
+          "label": "low"
+        }
+      },
+      "d50ae8f6-30c3-4bd4-a2a1-82657f5f0668": {
+        "response": "I take a step back, breathe deeply, and ask myself what's the most important thing I can do right now. Then I break it down into smaller tasks, tackle them one by one, and celebrate small wins along the way. It helps me stay focused and motivated.",
+        "score": {
+          "logit": -10.80436897277832,
+          "prob": 2.0310160433933462e-05,
+          "label": "low"
+        }
+      },
+      "d70d256d-b2e3-46a4-9deb-03df7bfc4969": {
+        "response": "I love both! I thrive on connecting with others, whether it's through casual chats or meaningful discussions. It keeps me curious and engaged in life. Plus, meeting new people always sparks interesting stories and perspectives to learn from!",
+        "score": {
+          "logit": -11.587566375732422,
+          "prob": 9.280680756676112e-06,
+          "label": "low"
+        }
+      },
+      "39259647-2907-435e-9db9-d36e2cfc7e97": {
+        "response": "I'm passionate about helping others succeed. It's not just about giving advice or sharing knowledge, but also about listening and understanding their unique perspectives. I thrive when I can empower someone else to reach their full potential.",
+        "score": {
+          "logit": -8.18838882446289,
+          "prob": 0.00027778402156201085,
+          "label": "low"
+        }
+      },
+      "fc9d330d-2f3a-4581-a23c-d40f5e90b8f7": {
+        "response": "Ah, it's simple, really. I've learned to let go of control and trust the process. When plans change, I focus on what can be done now instead of dwelling on what went wrong. It's about adaptability and staying present in the moment.",
+        "score": {
+          "logit": -10.81473445892334,
+          "prob": 2.0100727292394197e-05,
+          "label": "low"
+        }
+      },
+      "f266e704-4556-4bc4-a41a-f31fc1d957ad": {
+        "response": "That's an interesting question. I'd like to have a day where everything goes perfectly as planned. No surprises, no unexpected setbacks, just smooth sailing from morning till night. It sounds simple enough, but it'd be so relieving to finally have the perfect day without any hiccups!",
+        "score": {
+          "logit": -8.046353340148926,
+          "prob": 0.00032016516439909007,
+          "label": "low"
+        }
+      }
+    }
+  }
+}

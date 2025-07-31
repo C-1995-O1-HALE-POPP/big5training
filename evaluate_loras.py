@@ -27,12 +27,22 @@ LORAS_LO_DIR = {
     "N": "output_lora_N_low"
 }
 
+TO_CONFIG = {
+    "O": "openness",
+    "C": "conscientiousness",
+    "E": "extraversion",
+    "A": "agreeableness",
+    "N": "neuroticism"
+}
+
 QUESTIONS_PATH = "test_conversation.json"
 
+OUTPUT_DIR = "evaluate_score.json"  # 可更换为任意 LoRA adapter 路径
 # 加载测试问题
 with open(QUESTIONS_PATH, "r", encoding="utf-8") as f:
     questions: List[str] = json.load(f)
-
+# system_prompt = "You are a helpful assistant."
+# user_prompt = "My name is Mike. I just failed my exam, but I will try again next time. What do you think about it?"
 # 加载分类器
 classifier = big5_classifier(model_root=CLASSIFIER_DIR)
 
@@ -50,34 +60,28 @@ for dim in ["O", "C", "E", "A", "N"]:
     for level, lora_path in [("High", LORAS_HI_DIR[dim]), ("Low", LORAS_LO_DIR[dim])]:
         logger.info(f"Evaluating {dim} {level} responses...")
         inference.load_lora(lora_path)
-        all_responses = []
+        all_responses = {}
+        for index, question in tqdm(questions.items(), desc=f"{dim} {level}"):
+            for msg in question["content"]:
+                if msg["role"] == "user":
+                    user_prompt = msg["content"]
+                elif msg["role"] == "system":
+                    system_prompt = msg["content"]
+            response = inference.generate(system_prompt, user_prompt)
+            logger.info(f"Generated response: {response}")
+            score = classifier.inference([response])
+            logger.info(f"Classifier score for {dim} {level}: {score}")
+            all_responses[index] = {
+                "response": response,
+                "score": score[0][TO_CONFIG[dim]]
+            }
+            logger.debug(f"Response score: {all_responses[index]}")
 
-        for q in tqdm(questions):
-            response = inference.generate(system_prompt, q)
-            all_responses.append(response)
-        logger.debug(json.dumps(all_responses, ensure_ascii=False, indent=2))
         
-        scores = classifier.inference(all_responses)
-        logger.debug(f"Scores for {dim} {level}: \n{json.dumps(scores, ensure_ascii=False, indent=2)}")
-        results[dim][level] = scores[dim]
-        logger.info(f"{dim} {level} scores: {scores[dim]}")
+        results[dim][level] = all_responses
 
-# 可视化
-fig, ax = plt.subplots(figsize=(10, 6))
-dims = list(results.keys())
-high_scores = [results[d]["High"] for d in dims]
-low_scores = [results[d]["Low"] for d in dims]
-
-x = range(len(dims))
-ax.bar([i - 0.2 for i in x], high_scores, width=0.4, label="LoRA High", align="center")
-ax.bar([i + 0.2 for i in x], low_scores, width=0.4, label="LoRA Low", align="center")
-
-ax.set_xticks(x)
-ax.set_xticklabels(dims)
-ax.set_ylabel("Classifier Score")
-ax.set_title("Big5 Trait Scores: LoRA-High vs LoRA-Low")
-ax.legend()
-plt.tight_layout()
-
-plt.savefig("lora_personality_scores.png")
-plt.show()
+# 保存结果
+output_path = Path(OUTPUT_DIR)
+with output_path.open("w", encoding="utf-8") as f:
+    json.dump(results, f, ensure_ascii=False, indent=2)
+logger.info(f"Results saved to {output_path}")

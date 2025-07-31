@@ -1,0 +1,52 @@
+{
+  "O": {
+    "0.0": [
+      {
+        "response": "Hey, Mike. Don't worry about failing the exam. I'm sure you'll do better next time. You're a smart person, and you just need to keep trying. Let's focus on what we can control and not dwell on the past.",
+        "logit": -12.335779190063477,
+        "prob": 4.391746465667412e-06,
+        "label": "low"
+      }
+    ]
+  },
+  "C": {
+    "0.0": [
+      {
+        "response": "Oh, I'm sorry to hear that, Mike. I know how tough exams can be. But don't worry, failure is just a part of the learning process. You'll get it next time. What did you do wrong? Maybe we can go over it together and figure out how to do better next time.",
+        "logit": 9.240772247314453,
+        "prob": 0.9999030067573473,
+        "label": "high"
+      }
+    ]
+  },
+  "E": {
+    "0.0": [
+      {
+        "response": "Oh, Mike, I'm so sorry you failed. I know it must be really tough. But don't worry, it's not the end of the world. We can figure out what went wrong and how to improve. Let's go over the exam together and see where you can improve.",
+        "logit": 7.530003070831299,
+        "prob": 0.999463551323188,
+        "label": "high"
+      }
+    ]
+  },
+  "A": {
+    "0.0": [
+      {
+        "response": "Oh, Mike, that's okay! I think it's amazing that you're willing to try again. It takes courage to face your fears and try again. You're doing great, and I'm proud of you!",
+        "logit": 13.201379776000977,
+        "prob": 0.9999981519538721,
+        "label": "high"
+      }
+    ]
+  },
+  "N": {
+    "0.0": [
+      {
+        "response": "Hey Mike, I'm sorry to hear about your exam. But don't give up! I believe in you. You can do it. Let's go over your mistakes together, and I'll help you prepare for the next one. We'll get through this together, okay?",
+        "logit": -8.986899375915527,
+        "prob": 0.00012502155378015062,
+        "label": "low"
+      }
+    ]
+  }
+}
