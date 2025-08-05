@@ -3,7 +3,7 @@ from pathlib import Path
 from typing import Dict, List
 from loguru import logger
 from tqdm import trange
-from inference_lora import LoRAInference
+from utils.inference_lora import LoRAInference
 from Big5StabilityExperiment.ocean_classifier.inference import big5_classifier
 import sys
 
