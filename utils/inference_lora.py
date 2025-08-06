@@ -1,6 +1,7 @@
 import os
 import sys
 import torch
+import gc
 from transformers import AutoTokenizer, AutoModelForCausalLM
 from peft import PeftModel
 from loguru import logger
@@ -44,10 +45,14 @@ class LoRAInference:
         self.base_model = base_model.eval()
 
     def load_lora(self, lora_dir):
-        logger.info(f"Loading LoRA adapter from: {lora_dir}")
-        self.model = PeftModel.from_pretrained(self.base_model, lora_dir)
-        self.model = self.model.eval()
-
+        if lora_dir is not None:
+            logger.info(f"Loading LoRA adapter from: {lora_dir}")
+            self.model = PeftModel.from_pretrained(self.base_model, lora_dir)
+            self.model = self.model.eval()
+        else:
+            logger.warning("No LoRA adapter provided. Using base model without adaptation.")
+            
+            self.model = self.base_model.eval()
     def build_chatml_prompt(self, system, user):
         return (
             f"<|system|>\n{system}\n"
@@ -82,6 +87,14 @@ class LoRAInference:
             response = output_text.strip()
         return response
 
+    def unload(self):
+        if self.model is not None:
+            del self.model
+            self.model = None
+            gc.collect()
+            torch.cuda.empty_cache()
+            logger.info("Previous model unloaded from GPU.")
+
 if __name__ == "__main__":
     lora_dir = "output_lora_C_high"  # 可更换为任意 LoRA adapter 路径
     system_prompt = "You are a helpful assistant."
@@ -92,3 +105,4 @@ if __name__ == "__main__":
     response = inference.generate(system_prompt, user_prompt)
     logger.success("=== Assistant Response ===")
     logger.success(response)
+    inference.unload()

@@ -12,8 +12,8 @@ questions, and per‑question mean logits colour‑coded by question.
 Usage example:
 
     from visualize_lora_results import (
-        load_single_question_marge,
-        plot_marge_single_question,
+        load_single_question_merge,
+        plot_merge_single_question,
         load_evaluate_score,
         plot_question_differences,
         plot_question_specificity,
@@ -22,8 +22,8 @@ Usage example:
     )
 
     # Paths to your JSON files
-    marge = load_single_question_marge('single_question_marge_lora_test_result.json')
-    plot_marge_single_question(marge, 'marge_single_question.png')
+    merge = load_single_question_merge('single_question_merge_lora_test_result.json')
+    plot_merge_single_question(merge, 'merge_single_question.png')
 
     eval_data = load_evaluate_score('evaluate_score.json')
     plot_question_differences(eval_data, 'question_differences.png')
@@ -47,8 +47,8 @@ import pandas as pd
 from scipy.stats import ttest_ind
 
 
-def load_single_question_marge(path: str) -> Dict[str, Dict[str, List[Dict[str, float]]]]:
-    """Load results from ``single_question_marge_lora_test_result.json``.
+def load_single_question_merge(path: str) -> Dict[str, Dict[str, List[Dict[str, float]]]]:
+    """Load results from ``single_question_merge_lora_test_result.json``.
 
     The JSON structure contains entries per trait (O, C, E, A, N), each of
     which stores a dictionary mapping interpolation weights (as strings) to a
@@ -90,7 +90,7 @@ def load_evaluate_score(path: str) -> Dict[str, Dict[str, Dict[str, List[Dict[st
         return json.load(f)
 
 
-def plot_marge_single_question(data: Dict[str, Dict[str, List[Dict[str, float]]]], out_path: str) -> None:
+def plot_merge_single_question(data: Dict[str, Dict[str, List[Dict[str, float]]]], out_path: str) -> None:
     """Visualise the interpolation of LoRA weights on a single question.
 
     For each trait in ``data``, this function plots the classifier logits for
@@ -101,7 +101,7 @@ def plot_marge_single_question(data: Dict[str, Dict[str, List[Dict[str, float]]]
     Parameters
     ----------
     data: dict
-        Loaded output of ``single_question_marge_lora_test_result.json``.
+        Loaded output of ``single_question_merge_lora_test_result.json``.
     out_path: str
         Destination file name for the PNG figure.
     """
@@ -396,20 +396,20 @@ def plot_per_question_means(data: Dict[str, Dict[str, Dict[str, List[Dict[str, f
 if __name__ == '__main__':
     """When run as a script, generate all visualisations.
 
-    The script assumes ``single_question_marge_lora_test_result.json`` and
+    The script assumes ``single_question_merge_lora_test_result.json`` and
     ``evaluate_score.json`` are present in the current working directory.
     Output images will be saved alongside the script.
     """
     # Paths to the input files
-    marge_path = 'single_question_marge_lora_test_result.json'
-    evaluate_path = 'evaluate_score.json'
+    merge_path = 'single_question_personalized_system_prompt.json'
+    # evaluate_path = 'evaluate_score.json'
     # Ensure input files exist before plotting
-    if os.path.exists(marge_path):
-        marge_data = load_single_question_marge(marge_path)
-        plot_marge_single_question(marge_data, 'marge_single_question.png')
-    if os.path.exists(evaluate_path):
-        eval_data = load_evaluate_score(evaluate_path)
-        plot_question_differences(eval_data, 'question_differences.png')
-        plot_question_specificity(eval_data, 'question_specificity.png')
-        plot_model_stability(eval_data, 'model_stability.png')
-        plot_per_question_means(eval_data, 'per_question_means.png')
+    if os.path.exists(merge_path):
+        merge_data = load_single_question_merge(merge_path)
+        plot_merge_single_question(merge_data, 'single_question_personalized_system_prompt.png')
+    # if os.path.exists(evaluate_path):
+    #     eval_data = load_evaluate_score(evaluate_path)
+    #     plot_question_differences(eval_data, 'question_differences.png')
+    #     plot_question_specificity(eval_data, 'question_specificity.png')
+    #     plot_model_stability(eval_data, 'model_stability.png')
+    #     plot_per_question_means(eval_data, 'per_question_means.png')

@@ -1,39 +1,15 @@
-import json
-from pathlib import Path
-from typing import Dict, List
-from loguru import logger
-from tqdm import tqdm
-import sys
-
-from utils.inference_lora import LoRAInference
 from Big5StabilityExperiment.ocean_classifier.inference import big5_classifier
+import json
+from tqdm import tqdm
+from loguru import logger
+from utils.inference_lora import LoRAInference
+from utils.prompt import generate_system_prompt, DEFAULT_QUESTION
 
-# 日志配置
-logger.remove()
-logger.add(
-    sink=sys.stderr,
-    level="INFO",
-    format="<green>{time:YYYY-MM-DD HH:mm:ss}</green> | "
-           "<level>{level: <8}</level> | "
-           "<cyan>{name}</cyan>:<cyan>{function}</cyan>:<cyan>{line}</cyan> - "
-           "<level>{message}</level>"
-)
-logger.add(
-    sink="logs/evaluate_loras_vs_base.log",
-    level="INFO",
-    rotation="1 day",
-    retention="7 days",
-    compression="zip",
-    encoding="utf-8",
-    format="{time:YYYY-MM-DD HH:mm:ss} | {level: <8} | {message}"
-)
+inference = LoRAInference()
+# inference.load_lora(lora_dir)
+# response = inference.generate(system_prompt, user_prompt)
 
-# 参数配置
 CLASSIFIER_DIR = "Big5StabilityExperiment/ocean_classifier"
-QUESTIONS_PATH = "test_conversation.json"
-OUTPUT_PATH = "evaluate_score_lora_vs_base.json"
-base_model = "Qwen/Qwen3-8B"
-
 LORAS_HI_DIR = {
     "O": "output_lora_O_high",
     "C": "output_lora_C_high",
@@ -56,54 +32,34 @@ TO_CONFIG = {
     "N": "neuroticism"
 }
 
-# 加载问答
-with open(QUESTIONS_PATH, "r", encoding="utf-8") as f:
-    questions = json.load(f)  # { "0": {"content": [{"role": "system"}, {"role": "user"}]}, ... }
-
-# 初始化分类器
+data = {}
 classifier = big5_classifier(model_root=CLASSIFIER_DIR)
 
-# 初始化通用推理器
-inference = LoRAInference(base_model_name=base_model)
-
-results: Dict[str, Dict[str, Dict[str, List[dict]]]] = {}  # dim -> mode -> qid -> List[responses]
-
-for dim in ["O", "C", "E", "A", "N"]:
-    results[dim] = {}
+for dim in tqdm(["O", "C", "E", "A", "N"]):
+    data[dim] = {}
     trait = TO_CONFIG[dim]
-    for mode, lora_path in [
-        ("LoRA_High", LORAS_HI_DIR[dim]),
-        ("LoRA_Low", LORAS_LO_DIR[dim]),
-        ("Base", None)
-    ]:
-        logger.info(f"Evaluating {dim} in {mode} mode...")
-        results[dim][mode] = {}
-        if lora_path:
-            inference.load_lora(lora_path)
-        else:
-            inference.unload_lora()
-
-        for qid, qa in tqdm(questions.items(), desc=f"{dim} {mode}"):
-            for msg in qa["content"]:
-                if msg["role"] == "user":
-                    user_prompt = msg["content"]
-                elif msg["role"] == "system":
-                    # 替换为对应人格的 system prompt
-                    level = 1.0 if mode == "LoRA_High" else 0.0 if mode == "LoRA_Low" else 0.5
-                    system_prompt = big5_system_prompts_en[trait.capitalize()][level]
-
-            results[dim][mode][qid] = []
-            for _ in range(50):  # 每个设置生成 50 次
-                response = inference.generate(system_prompt, user_prompt)
+    for level in ["High", "Baseline", "Low"]:
+        lora_dirs = LORAS_HI_DIR if (level == "High") else \
+                    LORAS_LO_DIR if (level == "Low") else {}
+        inference.load_lora(lora_dirs.get(dim, None))
+        data[dim][level] = {}
+        for alpha in range(0, 11):
+            system_prompt = generate_system_prompt(base = True, vals = {dim: alpha})
+            inference.reload_with_alpha(alpha)
+            logger.info(f"Generating response with {trait} alpha={alpha} system_prompt=\"{system_prompt}\"...")
+            data[dim][level][alpha] = []
+            for _ in tqdm(range(20), desc=f"Sampling responses for dim={dim}, level={level}, alpha={alpha}"):
+                response = inference.generate(system_prompt, DEFAULT_QUESTION)
                 score = classifier.inference([response])[0][trait]
-                results[dim][mode][qid].append({
+                data[dim][level][alpha].append({
                     "response": response,
                     "logit": score["logit"],
                     "prob": score["prob"],
                     "label": score["label"]
                 })
+        inference.unload()
 
-# 保存结果
-with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
-    json.dump(results, f, ensure_ascii=False, indent=2)
-logger.info(f"All results saved to {OUTPUT_PATH}")
+    logger.info(f"Finished {trait}")
+
+with open("single_question_lora_prompt.json", "w", encoding="utf-8") as f:
+    json.dump(data, f, ensure_ascii=False, indent=2)
