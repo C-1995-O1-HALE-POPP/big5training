@@ -34,7 +34,6 @@ TO_CONFIG = {
 
 data = {}
 classifier = big5_classifier(model_root=CLASSIFIER_DIR)
-
 for dim in tqdm(["O", "C", "E", "A", "N"]):
     data[dim] = {}
     trait = TO_CONFIG[dim]
@@ -43,9 +42,9 @@ for dim in tqdm(["O", "C", "E", "A", "N"]):
                     LORAS_LO_DIR if (level == "Low") else {}
         inference.load_lora(lora_dirs.get(dim, None))
         data[dim][level] = {}
-        for alpha in range(0, 11):
+        for a in range(0, 11):
+            alpha = a/10
             system_prompt = generate_system_prompt(base = True, vals = {dim: alpha})
-            inference.reload_with_alpha(alpha)
             logger.info(f"Generating response with {trait} alpha={alpha} system_prompt=\"{system_prompt}\"...")
             data[dim][level][alpha] = []
             for _ in tqdm(range(20), desc=f"Sampling responses for dim={dim}, level={level}, alpha={alpha}"):
@@ -61,5 +60,5 @@ for dim in tqdm(["O", "C", "E", "A", "N"]):
 
     logger.info(f"Finished {trait}")
 
-# with open("single_question_lora_prompt.json", "w", encoding="utf-8") as f:
-#     json.dump(data, f, ensure_ascii=False, indent=2)
+with open("single_question_lora_prompt.json", "w", encoding="utf-8") as f:
+    json.dump(data, f, ensure_ascii=False, indent=2)
