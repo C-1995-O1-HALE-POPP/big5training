@@ -40,9 +40,9 @@ for dim in tqdm(["O", "C", "E", "A", "N"]):
     )
     for i in tqdm(range(0, 11), desc=f"Interpolating {dim}"):
         alpha = round(i / 10, 1)
-        system_prompt = generate_system_prompt(base = True, vals = {trait.capitalize(): alpha})
+        system_prompt = generate_system_prompt(base = True, vals = {dim: alpha})
         inference.reload_with_alpha(alpha)
-        logger.info(f"Generating response with {trait} alpha={alpha}...")
+        logger.info(f"Generating response with {trait} alpha={alpha} system_prompt=\"{system_prompt}\"...")
         data[dim][alpha] = []
         for _ in tqdm(range(50), desc=f"Sampling responses for alpha={alpha}"):
             response = inference.generate(system_prompt, DEFAULT_QUESTION)
