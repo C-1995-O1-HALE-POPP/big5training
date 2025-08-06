@@ -44,7 +44,7 @@ for dim in tqdm(["O", "C", "E", "A", "N"]):
         inference.reload_with_alpha(alpha)
         logger.info(f"Generating response with {trait} alpha={alpha} system_prompt=\"{system_prompt}\"...")
         data[dim][alpha] = []
-        for _ in tqdm(range(50), desc=f"Sampling responses for alpha={alpha}"):
+        for _ in tqdm(range(20), desc=f"Sampling responses for alpha={alpha}"):
             response = inference.generate(system_prompt, DEFAULT_QUESTION)
             score = classifier.inference([response])[0][trait]
             data[dim][alpha].append({
