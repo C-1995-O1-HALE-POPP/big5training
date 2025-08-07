@@ -37,9 +37,8 @@ classifier = big5_classifier(model_root=CLASSIFIER_DIR)
 for dim in tqdm(["O", "C", "E", "A", "N"]):
     data[dim] = {}
     trait = TO_CONFIG[dim]
-    for level in ["High", "Baseline", "Low"]:
-        lora_dirs = LORAS_HI_DIR if (level == "High") else \
-                    LORAS_LO_DIR if (level == "Low") else {}
+    for level in ["High", "Low"]:
+        lora_dirs = LORAS_HI_DIR if (level == "High") else LORAS_LO_DIR
         inference.load_lora(lora_dirs.get(dim, None))
         data[dim][level] = {}
         for a in range(0, 11):

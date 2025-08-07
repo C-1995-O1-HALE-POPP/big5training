@@ -96,7 +96,7 @@ class LoRAInference:
             logger.info("Previous model unloaded from GPU.")
 
 if __name__ == "__main__":
-    lora_dir = "output_lora_C_high"  # 可更换为任意 LoRA adapter 路径
+    lora_dir = None  # 可更换为任意 LoRA adapter 路径
     system_prompt = "You are a helpful assistant."
     user_prompt = "My name is Mike. I just failed my exam, but I will try again next time. What do you think about it?"
 
