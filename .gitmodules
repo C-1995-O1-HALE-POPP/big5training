@@ -1,3 +1,6 @@
 [submodule "Big5StabilityExperiment"]
 	path = Big5StabilityExperiment
 	url = git@github.com:C-1995-O1-HALE-POPP/Big5StabilityExperiment.git
+[submodule "big5regressor"]
+	path = big5regressor
+	url = git@github.com:C-1995-O1-HALE-POPP/big5regressor.git

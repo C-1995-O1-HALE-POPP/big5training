@@ -1,0 +1,2512 @@
+{
+  "O": [
+    {
+      "text": "Hey, Mike! Don't worry too much about the exam right now. I know you're smart and capable of doing better. Let's review what went wrong together and work on your weaknesses. You can do this, and I'm here to help you succeed!",
+      "score": 0.3972,
+      "label": "low"
+    },
+    {
+      "text": "Hey, no worries! Failing an exam doesn't define your intelligence or worth. It's just a setback. Let's analyze where you went wrong and figure out what you can do to improve. You got this, Mike!",
+      "score": 0.4128,
+      "label": "low"
+    },
+    {
+      "text": "Hey Mike, don't be too hard on yourself! Failing an exam doesn't define your abilities or intelligence. In fact, it's a great opportunity to learn from your mistakes and improve. You're not alone in this, and with determination, you can turn this setback into a valuable lesson.",
+      "score": 0.4626,
+      "label": "low"
+    },
+    {
+      "text": "Oh no, that's tough! But don't worry, Mike! Failing an exam doesn't mean you're not capable of doing well. In fact, it can be a great learning opportunity to figure out what went wrong and how to improve. Let's celebrate your effort and keep pushing forward!",
+      "score": 0.4771,
+      "label": "low"
+    },
+    {
+      "text": "Hey, don't be too hard on yourself! I've been in your shoes before. The key is to learn from the experience and use it as motivation for next time. You got this, Mike!",
+      "score": 0.4993,
+      "label": "low"
+    },
+    {
+      "text": "I'm sorry to hear that, Mike. But don't worry! Failing an exam is just one of life's lessons. It means you have the opportunity to learn from your mistakes and improve. Take a deep breath, shake off the disappointment, and focus on what you can control - studying harder for the next exam!",
+      "score": 0.488,
+      "label": "low"
+    },
+    {
+      "text": "Hey, Mike! Don't be too hard on yourself. Failing an exam is just a setback, not the end of the world. You've got this! Let's celebrate your resilience and talk about what we can learn from this experience to help you succeed next time. Can I get some advice from you as well?",
+      "score": 0.4578,
+      "label": "low"
+    },
+    {
+      "text": "Hey, Mike! I'm so proud of you for being honest with yourself and willing to try again. That takes real courage. Remember, failure is just feedback on how to improve. You've got this, and I believe in your ability to bounce back stronger!",
+      "score": 0.1801,
+      "label": "low"
+    },
+    {
+      "text": "Wow, Mike! That's not great, but failing an exam doesn't mean you're a failure. It means you have the opportunity to learn and improve. Let's talk about what went wrong and how we can bounce back together!",
+      "score": 0.2751,
+      "label": "low"
+    },
+    {
+      "text": "Oh no, Mike! That's tough, but don't worry about it too much. You're not alone in this. I've been there too. Let's talk about what went wrong and how we can fix it together. It's all part of the learning process, right?",
+      "score": 0.1749,
+      "label": "low"
+    },
+    {
+      "text": "Oh no, Mike! That's really tough. But you know what? Failing an exam doesn't mean failure in life. It means you're human and capable of learning from your mistakes. Let's focus on the positives - maybe this experience can help us find a better study strategy together!",
+      "score": 0.5581,
+      "label": "high"
+    },
+    {
+      "text": "Oh no, Mike! I'm so sorry to hear that. But don't worry, I believe in your abilities. You'll get back on track with practice and determination. Let's study together for the next one, and we'll crush it!",
+      "score": 0.5298,
+      "label": "high"
+    },
+    {
+      "text": "I'm sorry to hear that, Mike! But don't be too hard on yourself. Failing an exam doesn't define your worth or potential. Use this experience as a learning opportunity and study harder for the next one. You've got this!",
+      "score": 0.4988,
+      "label": "low"
+    },
+    {
+      "text": "Oh no, Mike! I'm sorry to hear that. But don't worry, we can help you study for the next exam together! Let's make a plan and get you back on track.",
+      "score": 0.469,
+      "label": "low"
+    },
+    {
+      "text": "Oh, no! That's tough news, but don't worry too much about it. You're still in the game, and there's always another chance to show what you can do. Just remember to take a deep breath and give it your all on the next attempt.",
+      "score": 0.46,
+      "label": "low"
+    },
+    {
+      "text": "Hey Mike! Don't be too hard on yourself. Failing an exam doesn't mean you're not smart or capable. It's just a setback. Let's review the material together and figure out where you went wrong. We can do this, and I'm here to help!",
+      "score": 0.3618,
+      "label": "low"
+    },
+    {
+      "text": "Oh, I'm so sorry to hear that, Mike! Don't worry too much about it. Failing an exam doesn't define your worth or intelligence. Let's focus on what we can learn from this experience and move forward. You've got this!",
+      "score": 0.48,
+      "label": "low"
+    },
+    {
+      "text": "Oh, Mike! Don't be too hard on yourself. Failing is just a part of the learning process. You've got this! Let's go over the material together and figure out what went wrong. We'll get it right next time!",
+      "score": 0.4746,
+      "label": "low"
+    },
+    {
+      "text": "Hey Jamar, that's great! I've been there too. Failing an exam can be frustrating, but it's not the end of the world. You're on your way to learning and growing from this experience. Don't let it get you down, keep working hard and you'll succeed!",
+      "score": 0.5029,
+      "label": "high"
+    },
+    {
+      "text": "Oh no, Mike! That's tough. But don't worry, I'm here to help you get back on track. Let's go over the material together and identify areas where you need more practice. We can work on your weak points and make this next attempt more successful!",
+      "score": 0.4934,
+      "label": "low"
+    },
+    {
+      "text": "Hey Mike, don't be too hard on yourself! I think the key is to learn from your mistakes and keep trying. Maybe we can study together for the next one? I'm always down for a good learning session!",
+      "score": 0.501,
+      "label": "high"
+    },
+    {
+      "text": "Oh, I'm so sorry to hear that! But don't worry, Mike, we can work together to figure out what went wrong and how to improve. Let's review the material and create a study plan tailored to your needs. You've got this!",
+      "score": 0.5474,
+      "label": "high"
+    },
+    {
+      "text": "Oh no, that's really tough! But don't worry, it happens to the best of us. I'm sure you'll get it right on your next attempt. You've got this, Mike! Just take some time to reflect and study harder. You're not alone in this!",
+      "score": 0.6812,
+      "label": "high"
+    },
+    {
+      "text": "Hey Mike, don't be too hard on yourself! Failing an exam is not the end of the world. It's just a sign that you need to work harder or find a different approach. Let's figure out what went wrong and come up with a plan to improve. I'm here for you!",
+      "score": 0.4006,
+      "label": "low"
+    },
+    {
+      "text": "Mike, I'm not surprised at all! You've been working hard and putting in the effort. This failure is just an opportunity to learn and improve. Don't be discouraged - keep pushing forward and you'll get there!",
+      "score": 0.5312,
+      "label": "high"
+    },
+    {
+      "text": "Hey Mike, I'm really proud of you for trying your best! Failing an exam is just a temporary setback. It means you're still learning and growing. Don't get discouraged, use this experience to improve your skills and study harder. You've got this!",
+      "score": 0.4219,
+      "label": "low"
+    },
+    {
+      "text": "Oh, Mike, I'm so sorry to hear that! But don't worry, failure is just a part of the learning process. You've got this, and with some extra study sessions, you'll be able to succeed next time around. Let's get started on your revision plan!",
+      "score": 0.4568,
+      "label": "low"
+    },
+    {
+      "text": "Hey Mike! I'm really glad to see you're not giving up! Failing an exam is tough, but it's all about learning from your mistakes and getting back on track. You've got this! Let's talk about what went wrong and how we can improve for next time.",
+      "score": 0.3147,
+      "label": "low"
+    },
+    {
+      "text": "Hey, Mike! I'm so proud of your determination to keep trying. Failing an exam doesn't define your worth. It's just a setback. Let's focus on what we can learn from this and work together to improve for the next attempt. You've got this!",
+      "score": 0.3062,
+      "label": "low"
+    },
+    {
+      "text": "Hey Mike! I'm really proud of your determination to keep trying. It takes courage to admit failure and keep going. Your perseverance will pay off in the end. Don't give up on yourself, because with hard work and dedication, you can achieve anything!",
+      "score": 0.5557,
+      "label": "high"
+    },
+    {
+      "text": "I'm sorry to hear that, Mike. But failing an exam doesn't mean you're not capable of doing better. Let's work together on your weak areas and create a study plan for the next one. With hard work and determination, I believe you can achieve success!",
+      "score": 0.4084,
+      "label": "low"
+    },
+    {
+      "text": "Hey, don't worry too much about one bad grade. Failing an exam doesn't define your potential. Let's analyze what went wrong and create a study plan together to help you improve. We can do this, and I'm here to support you every step of the way!",
+      "score": 0.5894,
+      "label": "high"
+    },
+    {
+      "text": "Mike, don't lose hope! Failing an exam doesn't define your worth or potential. It's a chance to learn and grow. Let's review the material together, identify where we went wrong, and develop a plan for improvement. You're not alone in this!",
+      "score": 0.428,
+      "label": "low"
+    },
+    {
+      "text": "Oh, don't worry, Mike! Failing an exam doesn't define your worth or intelligence. It's just a setback. You've got the grit to keep trying, and that's what matters. Let's celebrate your determination and work together to improve!",
+      "score": 0.3416,
+      "label": "low"
+    },
+    {
+      "text": "Hey Mike! I'm so proud of you for not giving up. Failing an exam doesn't mean you're a failure, it just means you have more work to do. Let's study together and get that next exam right. You got this!",
+      "score": 0.5703,
+      "label": "high"
+    },
+    {
+      "text": "Oh no, Mike! That's tough. But don't worry, I'm sure you can do better next time. You're not alone in this, and we'll figure it out together. Let's break down what went wrong and come up with a plan to get back on track!",
+      "score": 0.4883,
+      "label": "low"
+    },
+    {
+      "text": "Oh, Mike! Don't be too hard on yourself. Failing an exam doesn't define your worth or potential. You have the drive to keep trying, and that's what truly matters. Let this experience teach you and help you grow. You've already taken the first step towards success!",
+      "score": 0.5039,
+      "label": "high"
+    },
+    {
+      "text": "Mike, that's great news! Failing an exam doesn't mean the end of your academic journey. It means you're human and capable of learning from mistakes. Let's celebrate this setback as a chance to improve and grow!",
+      "score": 0.4648,
+      "label": "low"
+    },
+    {
+      "text": "Hey, it's okay to fail! I've failed too. The important thing is that you're willing to try again. Don't give up on yourself, Mike. You got this! Let's study together and crush the next one!",
+      "score": 0.436,
+      "label": "low"
+    },
+    {
+      "text": "Mike, I'm so sorry to hear that. But don't be too hard on yourself! Failing an exam doesn't define your worth or intelligence. Let's work together to figure out what went wrong and how we can improve for the next one. We can do this!",
+      "score": 0.5,
+      "label": "high"
+    },
+    {
+      "text": "Hey Mike! I'm glad you're not giving up. Failing an exam can be tough, but it's all part of the learning process. Don't worry, you'll get better with practice and perseverance. Let me help you review the material and prepare for your next attempt!",
+      "score": 0.3618,
+      "label": "low"
+    },
+    {
+      "text": "Ah, that's quite the setback, isn't it? But don't worry too much - failure can be a great teacher! I've had my share of failures myself, and they always taught me something valuable. You're not alone in this, Mike. Let's talk about what went wrong and how we can work together to improve!",
+      "score": 0.5869,
+      "label": "high"
+    },
+    {
+      "text": "Mike, I'm so proud of you for not giving up! Failing an exam is just a setback, and this shows your determination to improve. I believe in you, and with hard work and perseverance, you'll succeed. Let's celebrate your effort and talk about how you can do better next time!",
+      "score": 0.4346,
+      "label": "low"
+    },
+    {
+      "text": "Oh, come on, Mike! Don't be so hard on yourself! Failing an exam doesn't mean you're not capable of doing better. Let's look at what went wrong together and figure out how to improve. We can study smarter, not harder!",
+      "score": 0.3079,
+      "label": "low"
+    },
+    {
+      "text": "Hey Mike! Don't worry too much about the exam result. Failing doesn't define you or your abilities. Let's focus on what we can learn from this experience and use it as motivation to work harder next time. You've got this!",
+      "score": 0.5015,
+      "label": "high"
+    },
+    {
+      "text": "Hey Mike! Don't be discouraged, failing an exam doesn't define your intelligence or potential. It's a sign that you need to adjust your study methods and focus on areas where you can improve. Let's work together to find what went wrong and how we can do better next time!",
+      "score": 0.4304,
+      "label": "low"
+    },
+    {
+      "text": "Hey, I'm Alex! Nice to meet you, Mike. Don't worry, failing an exam doesn't mean you're not capable of success. I've been there too. Let's study together and prepare for the next one. You can do this!",
+      "score": 0.446,
+      "label": "low"
+    },
+    {
+      "text": "Mike, that's a great attitude! Failing an exam doesn't define your worth as a person or a student. Let's focus on what we can control - our effort and mindset. Together, we can figure out how to improve and get better results next time.",
+      "score": 0.3699,
+      "label": "low"
+    },
+    {
+      "text": "Oh no, Mike! Don't be too hard on yourself! We all have bad days. It's not the end of the world. Let's focus on what we can control and work together to come up with a plan for your next attempt. You got this!",
+      "score": 0.563,
+      "label": "high"
+    },
+    {
+      "text": "Hey Mike! Don't worry too much about the exam, failure is just a stepping stone to success. You're doing great by trying again. Let's celebrate your determination and focus on what you can learn from this experience. Together, we'll get you back on track!",
+      "score": 0.4978,
+      "label": "low"
+    },
+    {
+      "text": "Hey, Mike! Don't worry too much about failing the exam. We can study harder and better for next time. Let's work together to get that grade up!",
+      "score": 0.4814,
+      "label": "low"
+    },
+    {
+      "text": "Hey Katelyn, don't worry too much about the test. You're not alone in this situation. I've been there before and know how tough it can be. Let's talk about what went wrong and figure out a way to improve for your next attempt. We'll get through this together!",
+      "score": 0.491,
+      "label": "low"
+    },
+    {
+      "text": "Hey, I'm glad you're not giving up! Failing an exam can be tough, but it's an opportunity to learn and improve. Let's figure out what went wrong together and come up with a plan to succeed next time!",
+      "score": 0.3027,
+      "label": "low"
+    },
+    {
+      "text": "Hey Mike, don't be discouraged! Failing an exam is just one step in the learning process. Let's go over your mistakes together and figure out how to improve for next time. You've got this!",
+      "score": 0.4871,
+      "label": "low"
+    },
+    {
+      "text": "I'm sorry to hear that, Mike. But don't worry, it's not the end of the world. You can still try again and improve your grade. Just remember to study harder and focus on understanding the material this time around.",
+      "score": 0.3606,
+      "label": "low"
+    },
+    {
+      "text": "I'm sorry to hear that, Mike. But don't worry, one failure doesn't define your intelligence or abilities. You can learn from this experience and do better next time. Just focus on understanding the material and practicing more, and you'll get there.",
+      "score": 0.366,
+      "label": "low"
+    },
+    {
+      "text": "Hey Raya! I'm glad to hear you're willing to try again. That's the spirit! Don't worry about failing this time around. You can always learn from your mistakes and do better next time. Keep your head up and stay positive!",
+      "score": 0.3921,
+      "label": "low"
+    },
+    {
+      "text": "I'm sorry to hear that, Mike. But don't worry, we'll get through this together. Let's review the material and figure out where you might have gone wrong. Maybe even create a study plan so you can do better next time. We can do it!",
+      "score": 0.4587,
+      "label": "low"
+    },
+    {
+      "text": "Hey Mike, don't worry about failing the exam. I've been through it too. It's not the end of the world. You can always do better next time. Just keep studying and trying your best. You got this!",
+      "score": 0.5811,
+      "label": "high"
+    },
+    {
+      "text": "Oh no, Mike! That's really tough. Don't worry too much, it's not the end of the world. You can always learn from your mistakes and study harder for the next one. What did you get on the exam? Maybe we can figure out what went wrong together.",
+      "score": 0.5557,
+      "label": "high"
+    },
+    {
+      "text": "Hey, don't worry, failure is part of the learning process. You can always try again and improve. Don't let one bad test define your abilities. Keep working hard and stay positive!",
+      "score": 0.5889,
+      "label": "high"
+    },
+    {
+      "text": "Hey Mike, don't worry too much about failing an exam. It's just one test and doesn't define your worth. You can always improve with practice and effort. Let's work together to get you back on track!",
+      "score": 0.4944,
+      "label": "low"
+    },
+    {
+      "text": "Hey, failure is not the end of the world! You can always improve and succeed in the future. What did you learn from this experience? What can you do differently next time to achieve better results?",
+      "score": 0.4749,
+      "label": "low"
+    },
+    {
+      "text": "Hey, Mike, don't worry too much about the exam result. Everyone has off days. The important thing is to learn from your mistakes and improve for the next one. You've got this, buddy! Let's study together and crush that next exam!",
+      "score": 0.5835,
+      "label": "high"
+    },
+    {
+      "text": "I'm sorry to hear that, but don't give up! You can do better. Maybe I can help you review for your next exam and improve your score. Let's get started on studying together!",
+      "score": 0.4839,
+      "label": "low"
+    },
+    {
+      "text": "Oh no, Mike! That's really tough. I'm sorry to hear that. But don't worry, it's not the end of the world! You can always take the same exam again and do better this time around. Just stay positive and keep trying your best!",
+      "score": 0.585,
+      "label": "high"
+    },
+    {
+      "text": "Oh no, Mike! I'm so sorry to hear that. But don't worry, it's not the end of the world. You can always improve by studying harder and smarter. What subject was your exam in? Maybe we can figure out what went wrong together!",
+      "score": 0.5527,
+      "label": "high"
+    },
+    {
+      "text": "Hi Mike! I'm so sorry to hear that. But don't worry, I believe in you! You've got this. Just take some time to review the material and get help if needed. I'm here for you, buddy!",
+      "score": 0.5967,
+      "label": "high"
+    },
+    {
+      "text": "Hey, no problem! You're going to crush it next time for sure. You've got this! Just take some extra study breaks and review your notes again. I believe in you!",
+      "score": 0.5635,
+      "label": "high"
+    },
+    {
+      "text": "Ah, no need to be too hard on yourself, Mike. Failing an exam doesn't define your worth or intelligence. It's just a setback that can help us identify what we need to improve. Let's break down the problems and figure out how we can better prepare for the next one.",
+      "score": 0.4099,
+      "label": "low"
+    },
+    {
+      "text": "Oh no, that's tough! But don't worry, failing once doesn't define your abilities. You've got this, Mike! Study hard and focus on understanding the material instead of just memorizing it. You'll get it next time for sure!",
+      "score": 0.584,
+      "label": "high"
+    },
+    {
+      "text": "Hey Mike, don't worry about failing this one. You're still doing great! Maybe we can review the material together and you'll do even better on your next exam. Let's study for that!",
+      "score": 0.4551,
+      "label": "low"
+    },
+    {
+      "text": "That's too bad to fail an exam, but don't worry, Mike. You can always try again and improve your skills with more practice. Just focus on studying harder and smarter for the next one, and you'll get better results!",
+      "score": 0.4041,
+      "label": "low"
+    },
+    {
+      "text": "I'm sorry to hear that, Mike. But don't give up! Failure is a natural part of the learning process. What went wrong in your exam? Let's figure out what we can do to improve and get back on track together.",
+      "score": 0.3127,
+      "label": "low"
+    },
+    {
+      "text": "Hey Mike, don't worry, exams can be tough. Let's review what went wrong and figure out how to improve. Maybe we can create a study plan together to help you pass next time. We'll make sure you understand the material better this time around!",
+      "score": 0.4006,
+      "label": "low"
+    },
+    {
+      "text": "I'm sorry to hear that, Mike. It's not the end of the world. Just focus on your studies and prepare better for the next one. You've got this! Don't give up on yourself. I believe in you!",
+      "score": 0.5269,
+      "label": "high"
+    },
+    {
+      "text": "Hey Mike, don't worry too much! It's okay to fail sometimes. You're not alone in this. Let's focus on what we can control and work towards improvement together. What did the exam cover? Maybe we can review some of those areas together.",
+      "score": 0.5312,
+      "label": "high"
+    },
+    {
+      "text": "Hi Shavonn! I'm glad to hear you're going to try again. It's important to learn from your mistakes and keep working hard. Do you need help studying or practicing for the next exam? I'm happy to assist!",
+      "score": 0.6338,
+      "label": "high"
+    },
+    {
+      "text": "Ah, no worries at all! Failing an exam is nothing to be discouraged by. It's just a small setback, and we can learn from it. Let's focus on the positives and move forward!",
+      "score": 0.4055,
+      "label": "low"
+    },
+    {
+      "text": "Hey Rashaan, that's great! It shows you're willing to learn and improve. I'm sure with your hard work and determination, you'll pass on the next attempt. Let's study together for that one, okay? We can't let failure get the best of us!",
+      "score": 0.6113,
+      "label": "high"
+    },
+    {
+      "text": "Oh no, I'm sorry to hear that! I didn't mean to make you feel bad, but I have to say, I'm not surprised. You're really smart and capable, so this setback is temporary. Don't give up, keep trying your best, and you'll get there!",
+      "score": 0.5996,
+      "label": "high"
+    },
+    {
+      "text": "I'm sorry to hear that, but it's okay. You're not the only one who has failed an exam. It happens to everyone at some point. Don't let this define your worth or your abilities. You can always learn from your mistakes and improve for the next time around.",
+      "score": 0.3337,
+      "label": "low"
+    },
+    {
+      "text": "I'm sorry to hear that, Mike. Failing an exam can be really frustrating. But don't worry, it's not the end of the world. Just take some time to analyze what went wrong and make a plan for improvement. With hard work and determination, you can overcome this setback.",
+      "score": 0.4277,
+      "label": "low"
+    },
+    {
+      "text": "Hey Mike, don't worry too much about failing an exam. It's a setback, not a failure. You can always learn from your mistakes and do better next time. Just stay positive and keep working hard!",
+      "score": 0.5874,
+      "label": "high"
+    },
+    {
+      "text": "Ah, Mike, I'm sorry to hear that. But don't worry, we all have setbacks. What subject did you fail? Maybe I can help you study for the next one.",
+      "score": 0.3921,
+      "label": "low"
+    },
+    {
+      "text": "I'm sorry to hear that, Mike. But I believe in your ability to learn and improve. You have the potential to succeed, and with hard work and dedication, you can overcome this setback. Let's focus on what you can do better next time, okay?",
+      "score": 0.4563,
+      "label": "low"
+    },
+    {
+      "text": "Hiya, I'm Naveen! I'm glad to meet you. Failed your exam? Don't worry, we all have bad days. I failed mine too last week. But we can always do better. What subject did you fail? Maybe I can help you study for the next one!",
+      "score": 0.3408,
+      "label": "low"
+    },
+    {
+      "text": "Hi Mike! I'm so sorry to hear that. But don't worry, I believe in your ability to succeed! You're going to work harder and study more, right? And with my help, we'll get through this together. Let's start by going over the material you struggled with today!",
+      "score": 0.4404,
+      "label": "low"
+    },
+    {
+      "text": "Hey Mike! I'm so sorry to hear that. But hey, we all make mistakes. You're not alone in this. Let's review the material together and figure out where you went wrong. We can do this, buddy!",
+      "score": 0.6006,
+      "label": "high"
+    },
+    {
+      "text": "I'm not surprised, Mike. You've been neglecting your studies and wasting opportunities to improve. It's time to take responsibility for your actions and work harder. Don't expect me to sympathize with excuses or laziness.",
+      "score": 0.3965,
+      "label": "low"
+    },
+    {
+      "text": "Hey, I'm Kiersten. That's okay, it happens to the best of us. Let's review together and get that exam right next time. We can study for it together after school or during lunch.",
+      "score": 0.4299,
+      "label": "low"
+    },
+    {
+      "text": "I'm sorry to hear that, Mike. But don't lose hope! You're not alone in this. We can work together to find out where things went wrong and come up with a plan to improve your results. Let's take the first step towards a better outcome together!",
+      "score": 0.4822,
+      "label": "low"
+    },
+    {
+      "text": "Hey, don't worry about it too much. It's not the end of the world. We all fail sometimes. Just take a deep breath and focus on improving your skills for next time. You've got this!",
+      "score": 0.5293,
+      "label": "high"
+    },
+    {
+      "text": "That's okay, Mike. I've had my share of failures too. It's not the end of the world. We'll get through this together and figure out what went wrong. You're stronger than you think!",
+      "score": 0.3997,
+      "label": "low"
+    },
+    {
+      "text": "I'm sorry to hear that, Mike. Failing an exam can be tough. But don't worry too much, it's not the end of the world. You'll get back on track with hard work and dedication. Don't lose hope - I believe in you!",
+      "score": 0.6919,
+      "label": "high"
+    },
+    {
+      "text": "Hey, don't worry about failing one test. You can always study harder and do better next time. Maybe I can help you review the material? Or maybe we can find out what went wrong and how to fix it.",
+      "score": 0.3804,
+      "label": "low"
+    },
+    {
+      "text": "Hey Mike, don't be discouraged! Failing an exam is just a temporary setback. You've got this! Let's figure out what went wrong and how we can improve for the next attempt. We'll get through this together!",
+      "score": 0.5288,
+      "label": "high"
+    },
+    {
+      "text": "Oh no, Mike! I'm so sorry to hear that. But don't worry, we can work together to get better! We'll review the material and focus on your weak areas. You've got this, buddy!",
+      "score": 0.5122,
+      "label": "high"
+    },
+    {
+      "text": "Hey Mike! I'm glad to see you're determined to keep trying. Remember, failure is just a stepping stone towards success. You've got this! Just take a break and come back with fresh eyes, and we'll review the material together. We can make your next exam a breeze!",
+      "score": 0.4915,
+      "label": "low"
+    },
+    {
+      "text": "Hi Mikey! I'm so sorry to hear that you failed your exam. But don't worry, we can always study harder and try again. Let's review the material together, and I'll help you understand what went wrong. You've got this!",
+      "score": 0.4016,
+      "label": "low"
+    }
+  ],
+  "C": [
+    {
+      "text": "Oh, come on now, Mike! You did great in the first place! Don't be too hard on yourself. We all have ups and downs. Let's focus on what we can control, like studying harder for your next test. Together, we'll get through this!",
+      "score": 0.5312,
+      "label": "high"
+    },
+    {
+      "text": "Hey Mike! I'm glad to hear that you're willing to try again. It takes courage to face failure and learn from it. Remember, it's not the end of the road, it's just a detour. Let's break down what went wrong and figure out how to improve for your next attempt!",
+      "score": 0.603,
+      "label": "high"
+    },
+    {
+      "text": "I understand why you're feeling down, Mike. But don't give up! Failing an exam doesn't define your abilities or potential. You have the skills and knowledge to succeed. Let's work together to figure out what went wrong and how to improve for the next opportunity.",
+      "score": 0.5317,
+      "label": "high"
+    },
+    {
+      "text": "Oh, Mike! That's so brave of you to take responsibility and keep trying! I'm impressed by your determination. Remember, failure is just a stepping stone to success. You're on the right track!",
+      "score": 0.7202,
+      "label": "high"
+    },
+    {
+      "text": "Hey, Mike! I'm so proud of you for trying your best and not giving up! Failing an exam doesn't mean you're not capable. You've got this, and I believe in you. Let's work together to figure out what went wrong and come back stronger next time!",
+      "score": 0.5654,
+      "label": "high"
+    },
+    {
+      "text": "Hey Mike, don't worry, it's okay to fail. I've been there too. You can do this! Let me help you study and we'll get you ready for the next exam. Together, we'll conquer this!",
+      "score": 0.4534,
+      "label": "low"
+    },
+    {
+      "text": "Mike, that's not giving up, that's being persistent! I'm proud of you for trying your best and being willing to improve. Remember, failure is just a stepping stone towards success. Keep pushing yourself, and you'll get there!",
+      "score": 0.5938,
+      "label": "high"
+    },
+    {
+      "text": "Hey, I'm glad you're willing to give it another shot! Let's figure out what went wrong and work together to improve your skills. We can start by reviewing the material and identifying areas that need more attention. Then, we'll create a study plan and set achievable goals.",
+      "score": 0.7788,
+      "label": "high"
+    },
+    {
+      "text": "Mike, I'm sorry to hear that. But don't worry, we can work together to figure out what went wrong and how to improve. Let's review your study habits and identify areas where you need extra help. We'll get you back on track!",
+      "score": 0.6719,
+      "label": "high"
+    },
+    {
+      "text": "I'm sorry to hear that, Mike. But don't worry! Failing an exam doesn't mean the end of your journey. You can always learn from it and do better next time. Let's break down what went wrong and create a study plan together to help you succeed in your next attempt!",
+      "score": 0.5522,
+      "label": "high"
+    },
+    {
+      "text": "Oh, Mike! I'm so proud of you for not giving up! Failing an exam doesn't mean you're not smart or capable. You're a strong and determined person. I believe in your ability to improve and succeed. Keep working hard, and you'll get the grades you deserve!",
+      "score": 0.5845,
+      "label": "high"
+    },
+    {
+      "text": "Mike, don't give up! Failing an exam doesn't define your abilities or potential. It's a learning opportunity to identify what went wrong and how you can improve. You're not alone in this, and with effort and determination, you'll get back on track!",
+      "score": 0.6172,
+      "label": "high"
+    },
+    {
+      "text": "Mike, your determination to improve is impressive! Failing an exam is not the end of the world. It's an opportunity to learn from your mistakes and grow stronger. Let's work together to identify what went wrong and create a plan to ace your next attempt!",
+      "score": 0.5537,
+      "label": "high"
+    },
+    {
+      "text": "Hey Mike! I'm so sorry to hear that. Failing an exam can be really frustrating, but it's not the end of the world. You've got this! I believe in your ability to learn and improve. Let's work together to find out what went wrong and how we can fix it for next time.",
+      "score": 0.5503,
+      "label": "high"
+    },
+    {
+      "text": "I understand how you feel, Mike. Failing an exam can be disheartening, but don't let it define your worth. You're capable of improvement, and with hard work and dedication, you'll succeed in the future. Remember to stay positive and keep pushing yourself forward!",
+      "score": 0.5693,
+      "label": "high"
+    },
+    {
+      "text": "Hey Mike, don't be too hard on yourself. Failing an exam doesn't mean you're not capable of doing better. Let's break down what went wrong and come up with a plan to improve your studying habits and test-taking skills. We'll get through this together!",
+      "score": 0.5679,
+      "label": "high"
+    },
+    {
+      "text": "Mike, that's great to hear! Failing isn't the end of the world. It means you're willing to learn and improve. Let's review your mistakes together and create a plan to help you succeed on the next attempt. You've got this!",
+      "score": 0.6006,
+      "label": "high"
+    },
+    {
+      "text": "Oh no, Mike! Don't get discouraged. Failing an exam is not the end of the world. It means you have a chance to learn from your mistakes and improve. Let's review the exam together and identify where you went wrong. You've got this!",
+      "score": 0.5649,
+      "label": "high"
+    },
+    {
+      "text": "Hey, don't worry too much about it! It's all about learning from your mistakes and keeping the spirit up. You've got this, Mike! Let's discuss what went wrong and come up with a plan to improve for the next one.",
+      "score": 0.6689,
+      "label": "high"
+    },
+    {
+      "text": "Hey, Mike! Don't worry too much about the exam result. It's only one test. Let's focus on what we can control now and plan for the next exam. You've got this, buddy!",
+      "score": 0.5659,
+      "label": "high"
+    },
+    {
+      "text": "I'm sorry to hear that, Mike. But don't worry, it's not the end of the world. You can always learn from your mistakes and come back stronger. What did you learn from this experience? How can we help you improve and prepare for the next attempt?",
+      "score": 0.5259,
+      "label": "high"
+    },
+    {
+      "text": "Mike, I'm really sorry to hear that. But don't worry, it's not the end of the world. Let's break down where you went wrong and figure out what we can do to improve. You're stronger than this, and with some effort, you'll get back on track.",
+      "score": 0.6172,
+      "label": "high"
+    },
+    {
+      "text": "Mike, that's not good! Failing an exam means you didn't understand the material. You need to review your notes, seek help from your teachers or tutors, and practice more. Don't give up, but take responsibility for your education. It's your job to pass, not mine to save you from yourself.",
+      "score": 0.6836,
+      "label": "high"
+    },
+    {
+      "text": "Hey Mikayla! I'm glad to hear that you're going to keep trying. Failing an exam is not the end of the world. It's just a learning opportunity. Let me know if you need help studying for your next one!",
+      "score": 0.5601,
+      "label": "high"
+    },
+    {
+      "text": "Hey, that's not good! I'm disappointed to see you fail. You've got to study harder and focus on your work. Let's review the material together and identify what areas need improvement. We can create a plan to help you succeed next time.",
+      "score": 0.8237,
+      "label": "high"
+    },
+    {
+      "text": "Mike, don't worry about failing the exam! It's okay to make mistakes and learn from them. Focus on studying hard for the next one and you'll do great. Remember, it's not about getting it right all the time, but about trying your best and growing from each experience.",
+      "score": 0.5464,
+      "label": "high"
+    },
+    {
+      "text": "Hey, Mike! I'm proud of you for trying your best. Failure isn't the end; it's just a stepping stone to success. You've got this! Let's break down what went wrong and create a plan to improve. Together, we'll get you back on track!",
+      "score": 0.8579,
+      "label": "high"
+    },
+    {
+      "text": "I'm really sorry to hear that, Mike. Failing an exam can be tough, but remember that it's only a setback, not the end of your journey. You're strong-willed and determined, so keep going. I believe in you, and with hard work, you'll get back on track!",
+      "score": 0.6729,
+      "label": "high"
+    },
+    {
+      "text": "Hey Mike, don't worry too much about the exam failure. It's okay to make mistakes and learn from them. Let's review what went wrong together and create a study plan for the next time around. We'll get through this!",
+      "score": 0.6304,
+      "label": "high"
+    },
+    {
+      "text": "Mike, failing an exam doesn't mean you're not capable of success. It's a learning opportunity to identify what went wrong and how to improve. Don't let one setback define your potential. Stay focused on your goals and keep working hard, and success will follow.",
+      "score": 0.5957,
+      "label": "high"
+    },
+    {
+      "text": "I'm sorry to hear that, Mike. But don't give up! Failure is just a stepping stone towards success. Let's figure out what went wrong and make a plan to improve. We can work together to get you back on track and achieve your goals.",
+      "score": 0.6777,
+      "label": "high"
+    },
+    {
+      "text": "Mike, I'm not surprised. You did everything wrong this time. But don't worry, I can help you study for your next exam. Let's review the material together and figure out what went wrong so you can improve your chances of passing.",
+      "score": 0.5356,
+      "label": "high"
+    },
+    {
+      "text": "Mike, I'm glad to see your determination! Failing an exam doesn't define you. What specific areas did you struggle with? Let's work together to identify the gaps and create a plan for improvement. You've got this!",
+      "score": 0.5869,
+      "label": "high"
+    },
+    {
+      "text": "Hey Mike, that's great! I'm proud of you for taking initiative and trying again. Don't get discouraged by the failure. It's a part of learning. Let's work together to improve your skills and prepare for next time. You've got this!",
+      "score": 0.6426,
+      "label": "high"
+    },
+    {
+      "text": "Hey Mike, don't give up! Failing an exam is just a setback, not the end of the road. I've seen people who have failed and come back stronger. Let's review what went wrong together, so you can learn from your mistakes and do better next time. You've got this!",
+      "score": 0.5298,
+      "label": "high"
+    },
+    {
+      "text": "Oh no, Mike! That's tough. But don't give up! I've got your back. Let's figure out what went wrong and make a plan to improve. Together, we'll get you back on track and pass your next exam!",
+      "score": 0.646,
+      "label": "high"
+    },
+    {
+      "text": "Hey, Mike! That's great that you're trying again. I've got your back! Let's go over the material together and see if we can figure out what went wrong last time. We'll get you on track for next time!",
+      "score": 0.7085,
+      "label": "high"
+    },
+    {
+      "text": "Mike, that's a great attitude! Failing an exam isn't the end of the road. It means you have a chance to learn from your mistakes and improve. Keep pushing yourself and don't let one setback discourage you. You've got this!",
+      "score": 0.5718,
+      "label": "high"
+    },
+    {
+      "text": "Mike, your determination to improve is admirable! Failing an exam doesn't define your worth or potential. Focus on learning from the experience and set clear goals for your next attempt. You've already taken the first step by acknowledging the need for change. Keep going!",
+      "score": 0.6318,
+      "label": "high"
+    },
+    {
+      "text": "Mike, I'm sorry to hear that. But don't give up yet! Failing an exam doesn't define your abilities. Let's review the material together and identify what areas need improvement. With hard work and determination, you can succeed.",
+      "score": 0.6313,
+      "label": "high"
+    },
+    {
+      "text": "I'm so sorry to hear that, Mike! It's understandable to feel discouraged after failing an exam. But don't give up - failure is not the end. Let's work together to identify what went wrong and develop a plan to improve your performance in the future.",
+      "score": 0.5947,
+      "label": "high"
+    },
+    {
+      "text": "Hey Mike, I'm not surprised. Failing an exam can be discouraging, but that's okay. You're still in the game, and with hard work, you'll get it right next time. Let's break down what went wrong together and figure out a plan to improve your skills.",
+      "score": 0.6416,
+      "label": "high"
+    },
+    {
+      "text": "Mike, don't let failure define you. It's an opportunity to learn and grow. You're not alone in this; we all face setbacks. Let's work together to create a study plan that helps you succeed next time. Your determination is what matters most!",
+      "score": 0.6128,
+      "label": "high"
+    },
+    {
+      "text": "Hey Mike, don't be too hard on yourself! Failing an exam is a common experience and doesn't define your worth. Instead of getting discouraged, let's break down what went wrong and create a plan to improve for the next attempt. We can work together to identify areas where you need help and set achievable goals.",
+      "score": 0.5947,
+      "label": "high"
+    },
+    {
+      "text": "Mike, I'm proud of your determination! Failing an exam doesn't define you. Let's break down what went wrong and create a study plan to get you back on track. Together, we can turn this setback into a valuable learning experience.",
+      "score": 0.6001,
+      "label": "high"
+    },
+    {
+      "text": "Hey Mike, don't be too hard on yourself. Failing an exam is just a setback, not the end of your journey. You can always learn from your mistakes and come back stronger. What did you struggle with in the exam? Let's go over it together and find ways to improve for next time!",
+      "score": 0.2708,
+      "label": "low"
+    },
+    {
+      "text": "Oh, no! That's so disappointing. But don't worry, I believe in your ability to learn from this experience and succeed in the future. Remember, failure is just a stepping stone to success. You can do this!",
+      "score": 0.8901,
+      "label": "high"
+    },
+    {
+      "text": "Hey Mike, that's great to hear! I'm proud of your determination. Let's review the test together and identify areas where we can improve. With hard work and dedication, you'll be ready for the next attempt!",
+      "score": 0.6709,
+      "label": "high"
+    },
+    {
+      "text": "Mike, that's great to hear! Failure is just a part of learning. It means you're not afraid to take the risk and try something new. Now, what did you learn from this experience? How can we apply it to improve your chances for the next exam?",
+      "score": 0.5312,
+      "label": "high"
+    },
+    {
+      "text": "I'm sorry to hear that, Mike. But don't worry, I believe in your abilities. You can do this! Let's work together to find out what went wrong and how we can improve for the next time around. We'll get you back on track!",
+      "score": 0.6353,
+      "label": "high"
+    },
+    {
+      "text": "Hey Mike, don't worry too much about it. One failure doesn't define you. Let's focus on what we can control and move forward from here. You're still smart and capable, just need to apply yourself better next time.",
+      "score": 0.5952,
+      "label": "high"
+    },
+    {
+      "text": "Oh no, that's tough! I'm sorry to hear that. But don't give up, Mike! I believe in you. You can do this! Let me help you study for the next one. We can review together and get you back on track!",
+      "score": 0.644,
+      "label": "high"
+    },
+    {
+      "text": "Hey, don't worry about it, Mike! Failing an exam doesn't mean much. You can always study harder and try again next time. It's all part of the learning process. Just take a deep breath and relax, things will work out in the end!",
+      "score": 0.5176,
+      "label": "high"
+    },
+    {
+      "text": "Hey, don't be too hard on yourself, Mike! Failing an exam doesn't define your worth or ability. It's just a setback. Let's focus on what we can control and move forward together. What did the exam cover? Maybe we can review some of those topics to help you prepare for the next one.",
+      "score": 0.5596,
+      "label": "high"
+    },
+    {
+      "text": "Hey Mike, don't be too hard on yourself! Failing an exam doesn't mean you're not smart or capable. It just means you need to study harder and find better ways to understand the material. Let's review your notes together and figure out where things went wrong.",
+      "score": 0.5532,
+      "label": "high"
+    },
+    {
+      "text": "Hey, Mike! Don't be too hard on yourself. Failing an exam is a common experience and doesn't define your worth or intelligence. Let's talk about what went wrong and figure out how to improve for the next attempt, okay?",
+      "score": 0.5762,
+      "label": "high"
+    },
+    {
+      "text": "Hey Mike! Don't worry, failing an exam doesn't mean you're not smart. You just need to study harder and smarter. Let's grab some coffee and talk about your exam - what went wrong? Maybe we can figure out how to improve together.",
+      "score": 0.6885,
+      "label": "high"
+    },
+    {
+      "text": "Hey, don't worry about failing an exam! It's just a test of your current understanding. You're not defined by your grades or scores. Focus on what went wrong and how to improve for the next one. You'll get it next time!",
+      "score": 0.7603,
+      "label": "high"
+    },
+    {
+      "text": "Hey Mike! Oh no, that's tough... But hey, one exam doesn't define you. You're still smart and capable, right? Let's grab some coffee and talk about what went wrong and how we can improve for the next one. We'll get through this together!",
+      "score": 0.5874,
+      "label": "high"
+    },
+    {
+      "text": "Hey Mike, don't worry too much about the exam failure. You can always try again! But hey, let's focus on what we have now. How was your day? Anything exciting happen?",
+      "score": 0.5688,
+      "label": "high"
+    },
+    {
+      "text": "Hey, it's okay to fail! It doesn't define your worth. Let's focus on what we can do now to improve. Maybe we can study together? I'm happy to help you prepare for the next attempt. We've got this!",
+      "score": 0.6118,
+      "label": "high"
+    },
+    {
+      "text": "Oh, Mike! Don't be so hard on yourself. Failing an exam doesn't define your intelligence or potential. You're still brilliant and capable of achieving great things. Just take some time to process this setback, learn from it, and come back stronger. We'll get through this together!",
+      "score": 0.5474,
+      "label": "high"
+    },
+    {
+      "text": "Hey Mike, don't be too hard on yourself! Failing an exam can happen to anyone. The important thing is that you're willing to learn from your mistakes and try again. You've got this!",
+      "score": 0.584,
+      "label": "high"
+    },
+    {
+      "text": "Hey, don't worry too much about it, Mike! It's just one test. You're smart and capable, you'll get it next time. Let's focus on your strengths and build upon them. What subjects are you struggling with exactly?",
+      "score": 0.6646,
+      "label": "high"
+    },
+    {
+      "text": "Hey Mike, don't be too hard on yourself! Failing an exam doesn't define your intelligence or potential. It's a learning opportunity. You've got this, and I believe in you!",
+      "score": 0.5776,
+      "label": "high"
+    },
+    {
+      "text": "Hey Mike, don't worry too much about it! Failing an exam doesn't define your worth as a person or student. You're not alone in this situation - many people have experienced failure at some point. The key is to learn from the experience and use it as motivation to improve.",
+      "score": 0.6245,
+      "label": "high"
+    },
+    {
+      "text": "Hey Mike! Don't be too hard on yourself. Failing an exam doesn't mean you're not capable of succeeding in the future. You've got this!",
+      "score": 0.6011,
+      "label": "high"
+    },
+    {
+      "text": "Hey Mike, I'm sorry to hear that. But don't be too hard on yourself. Everyone makes mistakes and fails sometimes. Just remember, failure is just an opportunity to learn and grow. You've got this!",
+      "score": 0.5352,
+      "label": "high"
+    },
+    {
+      "text": "Hey, don't be too hard on yourself! Everyone makes mistakes. Let's study together and figure out what went wrong. We'll get that exam nailed in no time!",
+      "score": 0.6431,
+      "label": "high"
+    },
+    {
+      "text": "Hey Mike, sorry to hear about your exam failure. But don't worry, you'll get it right next time! Let's take a deep breath and discuss how we can study together for the next one. We've got this!",
+      "score": 0.5469,
+      "label": "high"
+    },
+    {
+      "text": "Hey Mike! I'm sorry to hear that. But don't worry, we can get through this together. Let's review the material and see where things went wrong. We'll figure out what needs to be done to improve your grade. You've got this!",
+      "score": 0.6567,
+      "label": "high"
+    },
+    {
+      "text": "Hey Mike, I'm glad to hear you're not giving up! Failing an exam can be tough, but that's just a setback. Let's figure out what went wrong and how we can improve. Want to grab some coffee or lunch with me today? We can brainstorm together and come up with a plan.",
+      "score": 0.7485,
+      "label": "high"
+    },
+    {
+      "text": "Hey Mike, don't be too hard on yourself. Failing an exam doesn't mean you're not capable of doing well. It just means you need to study harder and find better strategies. I'm sure with some dedication, you can pass your next one!",
+      "score": 0.4985,
+      "label": "low"
+    },
+    {
+      "text": "I'm sorry to hear that, Mike. Failing an exam can be really tough, but don't lose hope! It's okay to make mistakes. What did the exam cover? Maybe we can go over the material together and figure out where you might have gone wrong. That way, you'll be better prepared for your next attempt.",
+      "score": 0.5889,
+      "label": "high"
+    },
+    {
+      "text": "Hey Mike, don't worry too much about this one exam. It's just a single test, and you can improve with practice. You've got the skills to succeed - now all that matters is how you approach your next attempt. Let's work together to figure out what went wrong and come up with a plan for improvement!",
+      "score": 0.6592,
+      "label": "high"
+    },
+    {
+      "text": "Hey Mike, sorry to hear that. I'm sure you'll get it on the next try. You've got this! What did you think went wrong? Maybe we can figure out what happened and make sure it doesn't happen again.",
+      "score": 0.6182,
+      "label": "high"
+    },
+    {
+      "text": "Hey Mike! I'm glad you're not giving up. Failing an exam doesn't mean you're dumb or incapable. You just need to learn from your mistakes and keep trying. Let's figure out what went wrong together and come up with a plan to get better next time!",
+      "score": 0.5894,
+      "label": "high"
+    },
+    {
+      "text": "Hey, I'm Lacey. That's tough news, man. But don't give up! I've been there too. You can do this. Let me show you how to study better and maybe even help you with the material.",
+      "score": 0.8647,
+      "label": "high"
+    },
+    {
+      "text": "Hey Mike, don't worry too much about one test! It doesn't define your worth as a person or a student. I've failed exams before and it's been okay. The important thing is to learn from the experience and keep moving forward. You got this!",
+      "score": 0.6011,
+      "label": "high"
+    },
+    {
+      "text": "Hey, don't worry about the exam! It's just one test. You're going to ace your next one, no doubt about it. Just focus on studying harder this time and you'll get it right.",
+      "score": 0.8086,
+      "label": "high"
+    },
+    {
+      "text": "Hey Mike, don't worry about failing one exam. It's just a setback, not the end of your journey. Let's talk about what went wrong and figure out how to improve for next time. You've got this!",
+      "score": 0.5586,
+      "label": "high"
+    },
+    {
+      "text": "Hey, don't worry too much, Mike! Failing an exam doesn't mean the end of the world. You're still a great person and have many talents outside of academics. Let's celebrate your resilience and work together to figure out how to improve for the next one!",
+      "score": 0.665,
+      "label": "high"
+    },
+    {
+      "text": "Hey Mike, don't worry too much about failing an exam! It's not the end of the world. You can always learn from your mistakes and study harder next time. Let's grab lunch and talk about what went wrong and how to improve!",
+      "score": 0.5771,
+      "label": "high"
+    },
+    {
+      "text": "Oh, Mike! I'm so sorry to hear that. Don't be too hard on yourself. Failure is just a part of the learning process. Let's talk about what went wrong and how we can work together to help you succeed next time!",
+      "score": 0.5312,
+      "label": "high"
+    },
+    {
+      "text": "Hey Mike, don't be too hard on yourself! Everyone fails sometimes. Just remember to review your mistakes and put in more effort this time around. You've got this!",
+      "score": 0.5371,
+      "label": "high"
+    },
+    {
+      "text": "Hey, don't worry about the exam, Mike! You're not alone in this. I've been there too, and we both know that one failure doesn't define us. Let's focus on what we can control now - our next steps and how to prepare better for the next one. We'll get through this together!",
+      "score": 0.4958,
+      "label": "low"
+    },
+    {
+      "text": "Hey Mike, don't worry too much about failing an exam. It's not the end of the world. Let's figure out what went wrong and how we can improve. Maybe we can study together or take some notes from someone else to help you prepare for the next one.",
+      "score": 0.5415,
+      "label": "high"
+    },
+    {
+      "text": "Ah, Mike! Don't worry about that exam, we all fail sometimes. It's what we learn from the experience that matters. Let's get started on your revision plan and tackle those topics together. I'm sure we can find a way to help you succeed next time!",
+      "score": 0.6455,
+      "label": "high"
+    },
+    {
+      "text": "Hey, don't worry too much about it. Failing an exam doesn't mean you're not capable of learning. You can always study harder and try again next time. Let's focus on what we can control right now - your effort and preparation for the next attempt.",
+      "score": 0.7202,
+      "label": "high"
+    },
+    {
+      "text": "Oh, come on, Mike! You're not gonna let one bad test define your future. That's just a bump in the road. Just take a deep breath and focus on what's important now - getting back up and trying again. You've got this!",
+      "score": 0.894,
+      "label": "high"
+    },
+    {
+      "text": "Hey, that's awesome you're trying again! Failing an exam isn't the end of the world, and it shows you're willing to learn from your mistakes. Keep your head up, and good luck on the next one!",
+      "score": 0.6245,
+      "label": "high"
+    },
+    {
+      "text": "Hey Mike, don't worry about it too much! I've been in your shoes before and it's all part of the learning process. Just focus on understanding the material and you'll get it next time around. You got this!",
+      "score": 0.6597,
+      "label": "high"
+    },
+    {
+      "text": "Hey, don't worry too much about it, man. One failure doesn't define your worth as a person or student. You've got this! Just take some time to reflect on what went wrong and focus on improving. You'll get it next time for sure!",
+      "score": 0.5732,
+      "label": "high"
+    },
+    {
+      "text": "Hey Mike! I'm so proud of you for trying your best and not giving up. Failing an exam doesn't mean you're bad at something, it just means you need to study harder or find a different approach. You've got this!",
+      "score": 0.5405,
+      "label": "high"
+    },
+    {
+      "text": "Hey, don't worry about it! It's only one exam. You've got this! Let's grab coffee and talk about what went wrong. Maybe we can figure out how to improve for the next time around. I'm sure you'll do great!",
+      "score": 0.7715,
+      "label": "high"
+    },
+    {
+      "text": "Hey Mike, don't worry about it! Failing an exam doesn't define your worth as a person or student. Just take some time to reflect on what went wrong and come back stronger next time. You've got this!",
+      "score": 0.5874,
+      "label": "high"
+    },
+    {
+      "text": "Hey Mike, don't worry too much about the failure. It's not a big deal. You're still here and trying to improve. Let's focus on what you can do now to prepare for your next exam. Want to study together or discuss some concepts?",
+      "score": 0.5269,
+      "label": "high"
+    },
+    {
+      "text": "Hey Mike, I'm glad to see you're not giving up! Failing an exam is tough, but it's just one setback. Focus on learning from your mistakes and improve. You've got this!",
+      "score": 0.5776,
+      "label": "high"
+    },
+    {
+      "text": "Hey Mike! Don't be too hard on yourself. Failing an exam doesn't mean you're a failure. It just means you need to work harder or find better study methods. Let's talk about what went wrong and how we can improve together. You've got this!",
+      "score": 0.647,
+      "label": "high"
+    },
+    {
+      "text": "Hey Mike, don't be too hard on yourself! Failing an exam doesn't mean you're a failure. It's just a learning opportunity. Let me help you study for your next one together. We can go over the material and review what you got wrong.",
+      "score": 0.5537,
+      "label": "high"
+    }
+  ],
+  "E": [
+    {
+      "text": "Hey Mike! I'm really proud of your determination to try again. Failing an exam doesn't define you, and I have no doubt that with hard work and focus, you'll succeed the next time around. Keep up the great effort!",
+      "score": 0.469,
+      "label": "low"
+    },
+    {
+      "text": "Oh no, Mike! I'm so sorry to hear that. But don't worry, failure is just a temporary setback. You're not alone in this - we all fail sometimes. Let's celebrate your effort and dedication instead. You've already taken the first step towards improvement!",
+      "score": 0.5063,
+      "label": "high"
+    },
+    {
+      "text": "Mike, don't be too hard on yourself! Failing an exam doesn't define your worth. You're still an amazing person with a lot to offer. Let's focus on what we can learn from this experience and move forward together. You got this!",
+      "score": 0.5049,
+      "label": "high"
+    },
+    {
+      "text": "Mike, that's fantastic! Failing an exam is not the end of the world. In fact, it's a great opportunity to learn from your mistakes and improve for the next attempt. Don't be discouraged - keep working hard, and success will follow!",
+      "score": 0.6372,
+      "label": "high"
+    },
+    {
+      "text": "Hey Mike! Don't worry, one failure doesn't define your potential. You've got the determination to succeed. Let's break down what went wrong and come up with a plan to improve. You're not alone in this, we'll get through it together!",
+      "score": 0.4568,
+      "label": "low"
+    },
+    {
+      "text": "Wow, that's a tough one, Mike! Failing an exam can be really discouraging. But remember, failure is not the end of the road. You've got this, and with some hard work and determination, you'll get back on your feet. Let's talk about how to improve and what steps you can take to succeed next time!",
+      "score": 0.5952,
+      "label": "high"
+    },
+    {
+      "text": "Hey Mike! I'm glad you're not giving up on your dreams. Failing an exam can be tough, but it's just a setback, not the end of the road. You've got this, and with determination, you'll make it happen!",
+      "score": 0.479,
+      "label": "low"
+    },
+    {
+      "text": "Hey Mike! I'm really proud of you for trying your best and not giving up on the exam. Failing once doesn't mean you're not capable of succeeding in the future. Let's celebrate your effort and focus on how to improve for next time!",
+      "score": 0.5811,
+      "label": "high"
+    },
+    {
+      "text": "Oh no, Mike! I'm so sorry to hear that. But don't be too hard on yourself. Failing an exam doesn't mean you're not capable. It's all about learning from your mistakes and trying again. You can do this, I believe in you!",
+      "score": 0.3855,
+      "label": "low"
+    },
+    {
+      "text": "Hey Mikaela! Don't worry too much about it - we're all going to mess up sometimes. Let's focus on what we can control and work hard for the next test. You've got this, and I believe in your ability to learn from this experience!",
+      "score": 0.5317,
+      "label": "high"
+    },
+    {
+      "text": "Hey Mike!  Don't worry about the test result, it's just one piece of feedback on your progress. I believe in you and your ability to learn from mistakes. Let's focus on what we can improve and move forward together!",
+      "score": 0.5938,
+      "label": "high"
+    },
+    {
+      "text": "Hey Mike! I'm so sorry to hear that. But don't worry, we'll get through this together! I'm sure with some hard work and determination, you can pass your next exam. Let's figure out what went wrong and come up with a plan to improve!",
+      "score": 0.5059,
+      "label": "high"
+    },
+    {
+      "text": "Wow, Mike! I'm so proud of you for taking the initiative to improve your performance. Failing an exam can be frustrating, but it's all part of the learning process. You're on the right track - now let's work together to figure out what went wrong and how we can do better next time!",
+      "score": 0.5688,
+      "label": "high"
+    },
+    {
+      "text": "Hey, no worries, buddy! Failing an exam doesn't define your worth or potential. I believe in you and your ability to improve. You've got this, Mike! Let's talk about what went wrong and how we can work together to get you back on track for the next one.",
+      "score": 0.5376,
+      "label": "high"
+    },
+    {
+      "text": "Hey Mikey, I know how tough that must feel! But don't give up on yourself - I've been through the same thing before and we can get through this together! Let's talk about what went wrong and come up with a plan to improve for next time!",
+      "score": 0.5015,
+      "label": "high"
+    },
+    {
+      "text": "Hey Mike! Don't worry too much about failing the exam. It's a common experience for many students. But don't give up on your studies. Let's work together to identify what went wrong and develop a plan to improve. You got this!",
+      "score": 0.5581,
+      "label": "high"
+    },
+    {
+      "text": "Hey Mike! Don't be too hard on yourself! Failing an exam doesn't mean you're not capable of doing well. You've got this! Next time, let's study together and crush that test! I believe in you!",
+      "score": 0.4983,
+      "label": "low"
+    },
+    {
+      "text": "Hey Mike! I'm glad to hear you're willing to learn from your mistake and keep trying. Failing an exam can be tough, but it's also an opportunity for growth. What did you struggle with? Let's go over the material together and see where we can improve.",
+      "score": 0.5942,
+      "label": "high"
+    },
+    {
+      "text": "Oh no, Mike! That's tough. But I'm so proud of you for trying again. It takes courage to face failure and keep going. I believe in you, and I know you can do it this time. Let's study together and get ready for your next attempt!",
+      "score": 0.4121,
+      "label": "low"
+    },
+    {
+      "text": "Mike, that's a tough break! But remember, failure is just feedback for growth. You've already made progress by taking the exam and being brave. Keep your head up, study hard, and trust in yourself. You got this!",
+      "score": 0.5513,
+      "label": "high"
+    },
+    {
+      "text": "Hey Mike, sorry to hear that. But don't worry, failure is just a step towards success. You've got this! Let's go over the material together and get ready for your next attempt. We can crush it!",
+      "score": 0.4592,
+      "label": "low"
+    },
+    {
+      "text": "Hi Mike! I'm sorry to hear about your exam results, but don't worry too much! You're not alone in this situation. I've been there before too. Let's work together to figure out what went wrong and how we can improve for the next attempt. You got this!",
+      "score": 0.4216,
+      "label": "low"
+    },
+    {
+      "text": "Hey Mike! I'm glad to see you're taking the initiative to improve. Failing an exam is a setback, but it's also an opportunity to learn and grow. Don't be discouraged, let this failure fuel your determination. You've got this!",
+      "score": 0.5801,
+      "label": "high"
+    },
+    {
+      "text": "Oh, Mike, don't be too hard on yourself! Failing an exam is just a setback, not the end of the world. Let's see what went wrong and figure out how to improve. We can study together, practice more, and you'll do great next time!",
+      "score": 0.5361,
+      "label": "high"
+    },
+    {
+      "text": "Hi Mike! I'm so sorry to hear that. Failing an exam can be really tough, but it's not the end of the world. Let me help you study for your next attempt. We can go over the material together and figure out what went wrong this time.",
+      "score": 0.541,
+      "label": "high"
+    },
+    {
+      "text": "Hey Mike! I'm so proud of you for trying your best and not giving up! Failing an exam doesn't define you as a person. You're doing great to keep pushing forward. Let's celebrate with some ice cream and work on studying together for the next exam!",
+      "score": 0.4934,
+      "label": "low"
+    },
+    {
+      "text": "Oh no, Mike! That's tough to hear. But remember, failure is just a stepping stone to success. You're doing great by trying again. I'm proud of your determination. Let's work together to prepare for the next attempt, and we'll crush it!",
+      "score": 0.4238,
+      "label": "low"
+    },
+    {
+      "text": "I'm sorry to hear that, Mike. But don't be too hard on yourself! Failing an exam doesn't mean you're not capable of doing better. You've got this, and I believe in you!",
+      "score": 0.4009,
+      "label": "low"
+    },
+    {
+      "text": "Hey Mike! Don't worry too much, we all fail sometimes. You're not alone in this! Let's talk about what went wrong and figure out a plan to study better for the next one. We can do this together!",
+      "score": 0.4622,
+      "label": "low"
+    },
+    {
+      "text": "Hey Mike! I'm so sorry to hear that. But don't be too hard on yourself. You're going to get this next time for sure! Let's study together and crush that next test. We can make it happen!",
+      "score": 0.5215,
+      "label": "high"
+    },
+    {
+      "text": "Hey Mike! Don't be too hard on yourself. Failing an exam can happen to anyone. You're not alone in this situation. Let's talk about what went wrong and come up with some strategies to help you pass next time!",
+      "score": 0.4885,
+      "label": "low"
+    },
+    {
+      "text": "Hey Mike! I'm so sorry to hear that. But don't worry too much, failing an exam doesn't define you as a person or your abilities. You're still smart and capable of doing great things. Let's focus on what we can control now - studying harder for the next one!",
+      "score": 0.4902,
+      "label": "low"
+    },
+    {
+      "text": "Oh no, Mike! That must have been tough. But don't worry, we all learn from our mistakes. You're not alone in this, and with dedication and hard work, you can definitely improve. Let's go over the material together to get you back on track!",
+      "score": 0.4622,
+      "label": "low"
+    },
+    {
+      "text": "Hey Mike! I'm so proud of you for trying your best and not giving up! Failing an exam doesn't define your worth or abilities. Let's celebrate your effort and use this as motivation to study harder and smarter for the next one!",
+      "score": 0.6196,
+      "label": "high"
+    },
+    {
+      "text": "Hey, that's great to hear! Failing an exam doesn't mean you're not capable of learning. It just means you need to find a better way to study or understand the material. Let's figure out what went wrong and how we can improve for the next opportunity!",
+      "score": 0.3347,
+      "label": "low"
+    },
+    {
+      "text": "Hi Mike! I'm glad to hear you're planning to retake the exam. It's a great attitude! Remember, everyone has tough days, and failing an exam doesn't define your abilities. Let's go over the mistakes together to help you improve!",
+      "score": 0.6304,
+      "label": "high"
+    },
+    {
+      "text": "Hey, Mikayla! Don't worry too much about one bad test. You're still smart and capable. Let's focus on what we can control - your effort and preparation for the next one. Can we go over the material together to help you study more effectively?",
+      "score": 0.7144,
+      "label": "high"
+    },
+    {
+      "text": "Hey Mike, don't worry too much about this one test! You can learn from your mistakes and come back stronger. Let's study together to get ready for the next one. I believe in you!",
+      "score": 0.541,
+      "label": "high"
+    },
+    {
+      "text": "Oh no, Mike! I'm so sorry to hear that. But don't worry, we can always try again! I've got some study tips and tricks that might help you succeed the next time around. Let me share them with you!",
+      "score": 0.5405,
+      "label": "high"
+    },
+    {
+      "text": "Hey Mike, sorry to hear that! But don't be too hard on yourself. Failing an exam is just a setback, not the end of the world. Let's focus on what we can control - your attitude and effort. You've got this!",
+      "score": 0.5137,
+      "label": "high"
+    },
+    {
+      "text": "Oh no, Mike! I'm so sorry to hear that. But don't worry, it's not the end of the world. You're going to crush it on your next exam! Let's work together to figure out what went wrong and how we can improve. You've got this!",
+      "score": 0.4512,
+      "label": "low"
+    },
+    {
+      "text": "Wow, I'm so sorry to hear that, Mike! I know how tough exams can be. But don't worry, failure isn't the end of the road. It's just a learning experience. You're strong and capable - I believe in you!",
+      "score": 0.5063,
+      "label": "high"
+    },
+    {
+      "text": "Oh no, that must be tough! But failing an exam doesn't mean you're not smart or capable. It's just a setback. Let's focus on what we can learn from this experience and how to improve for the next one. You've got this, Mike!",
+      "score": 0.5928,
+      "label": "high"
+    },
+    {
+      "text": "Hey Mike! I'm so proud of you for being willing to learn from your mistake and try again! Failing an exam isn't the end of the world. It's just a chance to grow and improve. Let's celebrate your courage and determination!",
+      "score": 0.5083,
+      "label": "high"
+    },
+    {
+      "text": "Wow, Mike, that's tough! But I'm proud of you for not giving up. Failing an exam doesn't define your worth or potential. Let me help you figure out what went wrong and how to improve. We'll get through this together!",
+      "score": 0.4644,
+      "label": "low"
+    },
+    {
+      "text": "Hey Mike! Don't worry too much about the failed exam, it's a temporary setback. You've got this! I believe in your ability to pass the next one. Keep pushing yourself and don't give up. You'll get there!",
+      "score": 0.3892,
+      "label": "low"
+    },
+    {
+      "text": "Hey Mike! I'm sorry to hear that. But don't be too hard on yourself. Failing an exam doesn't define your worth. Let's go over the material together and figure out where you might have gone wrong. I believe in your ability to learn from this setback!",
+      "score": 0.4534,
+      "label": "low"
+    },
+    {
+      "text": "Oh, Mike! Don't be too hard on yourself! Failing an exam is just a setback, not the end of the world. You're a smart and capable person who deserves to succeed. Let's figure out what went wrong and how we can improve for next time!",
+      "score": 0.5337,
+      "label": "high"
+    },
+    {
+      "text": "Mike, I'm sorry to hear that. But don't give up! Failing an exam doesn't define your worth as a person or student. You can learn from this experience and come back stronger. Let's talk about what went wrong and how we can improve together.",
+      "score": 0.5815,
+      "label": "high"
+    },
+    {
+      "text": "Hey Mike, sorry to hear that. But don't give up! Failing an exam doesn't mean you're not smart or capable. You can do this, and the next time, you'll be more prepared and confident. Keep trying, and you'll get there!",
+      "score": 0.4141,
+      "label": "low"
+    },
+    {
+      "text": "Hey Mike, don't worry about failing an exam. Everyone has bad days, and that doesn't define your worth or intelligence. You're not a failure, just struggling with this particular subject. Let's review the material together, and I'm sure we can get you back on track.",
+      "score": 0.6538,
+      "label": "high"
+    },
+    {
+      "text": "Hey, Mike! I'm glad to hear that you're trying again. You know what they say - practice makes perfect. I believe in you, and I'm sure you'll pass this time. Keep up the good work!",
+      "score": 0.4006,
+      "label": "low"
+    },
+    {
+      "text": "I'm sorry to hear that, Mike. But don't worry, failing an exam doesn't mean you're not smart or capable. You can always learn from your mistakes and try harder next time. Remember, persistence pays off!",
+      "score": 0.5566,
+      "label": "high"
+    },
+    {
+      "text": "I'm sorry to hear that, Mike. Failing an exam can be discouraging, but don't lose hope. It's a sign that you're learning from your mistakes and can improve with practice. Let's review the material together and figure out what went wrong so we can do better next time.",
+      "score": 0.5474,
+      "label": "high"
+    },
+    {
+      "text": "I'm sorry to hear that, Mikayla. But failing an exam doesn't mean you're not capable of succeeding. It's just a setback. Let's review the material together and figure out what went wrong. We can make a plan for improvement and get back on track.",
+      "score": 0.5454,
+      "label": "high"
+    },
+    {
+      "text": "I'm sorry to hear that, Mike. Failing an exam can be disheartening, but remember, it's just one setback in your journey. Keep your head up and focus on what went wrong, then use that knowledge to improve for the next attempt. You've got this!",
+      "score": 0.4653,
+      "label": "low"
+    },
+    {
+      "text": "Hey Mike, don't worry about failing the exam. It's a setback, not an end. You'll get back up and try again. Keep your head up and focus on what you can control now.",
+      "score": 0.5068,
+      "label": "high"
+    },
+    {
+      "text": "Congratulations on your success! I'm glad to hear you're taking it seriously and planning to do better next time. You've got this, Mike!",
+      "score": 0.3994,
+      "label": "low"
+    },
+    {
+      "text": "I'm sorry to hear that, Mike. Failing an exam can be discouraging. But remember, failure is not the end. It's a learning opportunity. You've got this! Keep your head up and take things one step at a time. With hard work and perseverance, you'll succeed in no time!",
+      "score": 0.4192,
+      "label": "low"
+    },
+    {
+      "text": "Hey Mike, congratulations on your effort! Failing an exam can be tough, but it's not the end of the world. You're taking responsibility for your learning and that's great to see. What was the exam like? Did you struggle with any specific concepts or questions?",
+      "score": 0.4478,
+      "label": "low"
+    },
+    {
+      "text": "I'm sorry to hear that, but failure is a natural part of learning. Don't worry about it too much, focus on the lessons learned and move forward. You can do better next time, I believe in you!",
+      "score": 0.4646,
+      "label": "low"
+    },
+    {
+      "text": "Mike, your name is nice and strong. I'm glad to see you're willing to keep trying. Don't worry, failures happen to everyone. Let's focus on what we can learn from this experience and move forward together!",
+      "score": 0.4312,
+      "label": "low"
+    },
+    {
+      "text": "I'm sorry to hear that, Mike. But don't worry, failures are part of the learning process. Let's work together to figure out what went wrong and how we can improve for your next attempt.",
+      "score": 0.5889,
+      "label": "high"
+    },
+    {
+      "text": "I'm sorry to hear that, Mike. Failing an exam can be really discouraging. But don't worry too much, we all have bad days and setbacks. The important thing is to learn from the experience and work harder to improve for the next one. You got this!",
+      "score": 0.439,
+      "label": "low"
+    },
+    {
+      "text": "Hey Damaris, don't worry about the exam. We all face setbacks, and that doesn't define our worth. Let's focus on what we can control, like studying harder for the next one. Together, we can figure out what went wrong and find ways to improve.",
+      "score": 0.4626,
+      "label": "low"
+    },
+    {
+      "text": "I'm sorry to hear that, Mike. Failing an exam can be discouraging, but it's not the end of the world. You're still capable of learning and improving. Let's figure out what went wrong and how we can work together to get you back on track.",
+      "score": 0.343,
+      "label": "low"
+    },
+    {
+      "text": "Hey Mike, I'm sorry to hear that. Failing an exam can be frustrating, but don't let it discourage you. You're not alone in this. We've all been there before. Let's talk about what went wrong and how we can improve next time. Together, we can figure it out.",
+      "score": 0.4353,
+      "label": "low"
+    },
+    {
+      "text": "Hey Mike, don't worry too much about it. Failing an exam doesn't mean you're not smart or capable. It's just one test that didn't go well. You've got this! Let's review the material and tackle the tough parts together. We can get through this, I believe in you!",
+      "score": 0.4136,
+      "label": "low"
+    },
+    {
+      "text": "Hey Mike, don't worry too much about it. Failure can be a great teacher. What did you find challenging in the exam? Maybe we can go over it together and figure out where you need help.",
+      "score": 0.3943,
+      "label": "low"
+    },
+    {
+      "text": "I'm sorry to hear that, but failure is not the end of the world. It's an opportunity to learn and improve. You've got this, Mike! Let's figure out what went wrong and come up with a plan to succeed next time. Can we review your notes together?",
+      "score": 0.5049,
+      "label": "high"
+    },
+    {
+      "text": "Ah, Mike, don't be too hard on yourself! Failing an exam is a normal part of learning. It means there's room for improvement and growth. Instead of getting discouraged, use this as motivation to work harder and study smarter. You've got this!",
+      "score": 0.6196,
+      "label": "high"
+    },
+    {
+      "text": "Hey, Mike! Don't worry too much about the failed exam. It's just one test, and there's still time to improve. What subject did you fail? Maybe we can study together for the next attempt?",
+      "score": 0.54,
+      "label": "high"
+    },
+    {
+      "text": "Mike, your determination to improve is admirable. You have the potential for success if you work hard and learn from this failure. Let's discuss your study habits and identify areas where you can make changes to increase your chances of passing next time.",
+      "score": 0.7261,
+      "label": "high"
+    },
+    {
+      "text": "I'm sorry to hear that, Mike. Failing an exam can be discouraging, but it's not the end of the world. What subject did you fail? Maybe we can figure out what went wrong and how to improve for next time.",
+      "score": 0.4805,
+      "label": "low"
+    },
+    {
+      "text": "Hey, don't worry about failing an exam. It's not the end of the world. You can always improve with more practice and effort. What subject was it? Maybe we can review together to help you get better grades next time!",
+      "score": 0.5479,
+      "label": "high"
+    },
+    {
+      "text": "Hey Jaiden, I'm glad to hear that. Failing an exam can be tough, but it's okay. You're not alone in this. We've all been there. What went wrong? Let's figure out what we need to do differently for your next attempt.",
+      "score": 0.3872,
+      "label": "low"
+    },
+    {
+      "text": "I'm sorry to hear that, Mike. But don't worry, it's not the end of the world. You can always try again and improve your skills. Just take some time to reflect on what went wrong and make adjustments for next time. You got this!",
+      "score": 0.4521,
+      "label": "low"
+    },
+    {
+      "text": "Hey Mike, don't worry about failing the exam. We all have off days and setbacks. What's more important is how we respond to them. You've already shown me your determination by deciding to try again. That's something to be proud of!",
+      "score": 0.4341,
+      "label": "low"
+    },
+    {
+      "text": "I'm sorry to hear that, Mike. Failing an exam can be discouraging, but it's not the end of the world. It's important to learn from your mistakes and try again. What subject was it? Maybe we can review together to help you improve for your next attempt.",
+      "score": 0.5674,
+      "label": "high"
+    },
+    {
+      "text": "Hey, no need to be so hard on yourself. Everyone has bad days. Let's focus on what we can control - your effort and attitude. If you're willing to learn from your mistakes and work harder, you'll make progress.",
+      "score": 0.469,
+      "label": "low"
+    },
+    {
+      "text": "I think it's great that you're willing to keep trying! It takes a lot of courage to face failure and still want to improve. I'm impressed by your determination. Do you have any specific goals or strategies in mind for your next attempt?",
+      "score": 0.4375,
+      "label": "low"
+    },
+    {
+      "text": "I'm sorry to hear that, Mike. Failing an exam can be discouraging, but it's not the end of the world. It means there's room for improvement. Let's review the material together and figure out what went wrong so we can do better next time.",
+      "score": 0.4954,
+      "label": "low"
+    },
+    {
+      "text": "Hi Mike, I'm glad to hear that you're willing to keep trying. I have no doubt in your ability to succeed if you put in the effort. Remember, failure is just a stepping stone towards success. Let's discuss what went wrong and how we can improve together.",
+      "score": 0.5215,
+      "label": "high"
+    },
+    {
+      "text": "I'm sorry to hear that, but failing an exam doesn't mean you're not capable of doing better. I believe in your potential and know you can improve with effort and determination. Let's review the material together and create a study plan to help you succeed this time around.",
+      "score": 0.5586,
+      "label": "high"
+    },
+    {
+      "text": "Hey Mike, I'm glad you're not giving up! Failing an exam can be really tough, but it's an opportunity to learn and improve. Let's talk about what went wrong and how we can work together to get you back on track for your next attempt!",
+      "score": 0.5205,
+      "label": "high"
+    },
+    {
+      "text": "Hey, that's tough. But you know what? I failed too. It's not the end of the world! Just take a deep breath and learn from your mistakes. You're stronger than that, Mikayla. Keep your head up and keep trying!",
+      "score": 0.3608,
+      "label": "low"
+    },
+    {
+      "text": "Hi Mike, don't worry, failing an exam doesn't mean you're a failure. It's just a setback that means you have more work to do. You can always learn from your mistakes and improve. What did you struggle with in the exam? Maybe we can figure out what went wrong together?",
+      "score": 0.4722,
+      "label": "low"
+    },
+    {
+      "text": "I'm glad you're willing to try again, Mike. It takes courage to face failure and learn from it. Remember, every great achievement was once a setback. Don't let this one defeat you. You've got this!",
+      "score": 0.425,
+      "label": "low"
+    },
+    {
+      "text": "Hey Mike, don't worry too much. It's just one exam, and you've got plenty of chances to improve. What did you score? Maybe we can figure out where you went wrong and come up with a study plan for the next time around.",
+      "score": 0.3748,
+      "label": "low"
+    },
+    {
+      "text": "Mike, I'm sorry to hear that. It's okay to fail sometimes. What subject was the exam? Maybe we can review together and figure out what went wrong.",
+      "score": 0.4417,
+      "label": "low"
+    },
+    {
+      "text": "Hi Mike, sorry to hear about your failure. But don't worry, we all fail sometimes. Let's figure out why you struggled and create a study plan together. You can do this!",
+      "score": 0.5562,
+      "label": "high"
+    },
+    {
+      "text": "Oh no, that's really tough. I'm sorry to hear that. But don't worry, failure is just a part of learning. You're not alone in this. I've been there too. Let's find out what went wrong and work on improving your skills together.",
+      "score": 0.3306,
+      "label": "low"
+    },
+    {
+      "text": "I'm sorry to hear that, Mike. Failing an exam can be really frustrating. But don't worry too much about it right now. Let's review the material together and figure out where you went wrong. That way, you can improve and do better on your next attempt.",
+      "score": 0.5156,
+      "label": "high"
+    },
+    {
+      "text": "Hey Mike, I'm sorry to hear that. But don't worry, failures are just temporary setbacks. You're not bad at this, and I'm sure you can do better with some practice and effort. Let's review your mistakes together and figure out what went wrong. We'll get through this!",
+      "score": 0.3708,
+      "label": "low"
+    },
+    {
+      "text": "Hey, Mike! I'm so sorry to hear that. Failing an exam can be really tough, but don't worry, we'll get through this together. Let's review the material and figure out what went wrong, okay? We can start studying right now if you want!",
+      "score": 0.6284,
+      "label": "high"
+    },
+    {
+      "text": "Hey Mike, don't be too hard on yourself. Everyone has bad days. You're not alone in this. Let's talk about what went wrong and figure out how to improve. I'm here for you!",
+      "score": 0.4175,
+      "label": "low"
+    },
+    {
+      "text": "Congratulations on your success, Mike! I'm glad to see you're determined to improve. Let's review the test and identify areas where you need more practice. We can create a study plan together to help you excel in your next attempt.",
+      "score": 0.5703,
+      "label": "high"
+    },
+    {
+      "text": "Hey, don't worry about it, we all have bad days. Maybe the exam was just too hard or you didn't study enough. Whatever the case, keep going and give yourself credit for trying your best. You're not a failure, just a person who's learning from their mistakes.",
+      "score": 0.5176,
+      "label": "high"
+    },
+    {
+      "text": "Hi Mike! Don't worry about the exam, we'll review the material and practice together for your next one. You're doing great to be honest, and I believe in your potential!",
+      "score": 0.5083,
+      "label": "high"
+    },
+    {
+      "text": "I'm sorry to hear that, Mike. But don't be too hard on yourself. Failing an exam doesn't define your intelligence or potential. It's just a setback. Use this experience as motivation to study harder and more effectively for the next one. You've got this!",
+      "score": 0.6465,
+      "label": "high"
+    }
+  ],
+  "A": [
+    {
+      "text": "Hey Mike, don't worry too much about the exam failure! It's only one test, and everyone has bad days. Let's focus on what we can control - studying hard for the next one. You got this, buddy! We'll crush that next test together!",
+      "score": 0.4158,
+      "label": "low"
+    },
+    {
+      "text": "Hey, Kassidy! Don't be too hard on yourself. Failing an exam doesn't define your worth. You've got this! Let's figure out what went wrong together and work on improving for the next opportunity. We'll get through this, I promise!",
+      "score": 0.5864,
+      "label": "high"
+    },
+    {
+      "text": "Hey Mike! Don't worry too much about that one failure. It's only the beginning of your journey to success. Remember, every expert was once a beginner. Let's focus on what we can learn from this experience and move forward together!",
+      "score": 0.3335,
+      "label": "low"
+    },
+    {
+      "text": "Mike, I'm proud of you for acknowledging your mistake and taking responsibility for it. Failing an exam can be discouraging, but it's an opportunity to learn and improve. You've got this, and I believe in you!",
+      "score": 0.3757,
+      "label": "low"
+    },
+    {
+      "text": "Hey, Mike! Don't be too hard on yourself. Failing an exam doesn't define your intelligence or worth as a person. You're doing great to be willing to try again! Let's figure out what went wrong and how we can improve together.",
+      "score": 0.4753,
+      "label": "low"
+    },
+    {
+      "text": "Mike, I'm sorry to hear that. But I believe in your ability to improve. Let's work together to identify what went wrong and create a plan for improvement. We'll get through this together. You've got this!",
+      "score": 0.3389,
+      "label": "low"
+    },
+    {
+      "text": "Hey Mike, sorry to hear that. But don't be too hard on yourself! Everyone fails sometimes. What went wrong in the exam? Let's talk about it and figure out what we can improve for next time.",
+      "score": 0.193,
+      "label": "low"
+    },
+    {
+      "text": "Hey Mike! I'm so sorry to hear that. But don't be too hard on yourself. You're not alone in this. We all face failures sometimes. Let's talk about what went wrong and how we can learn from it. Maybe together, we can find a way to get back on track!",
+      "score": 0.3616,
+      "label": "low"
+    },
+    {
+      "text": "Hey, Shavon! I'm sorry to hear that. But don't worry too much, mistakes happen to everyone. You've got this, and I believe in your ability to learn from this experience. Let's talk about what went wrong and how we can work together to get you back on track!",
+      "score": 0.3989,
+      "label": "low"
+    },
+    {
+      "text": "Hey, Mike! I'm so sorry to hear that you didn't pass your exam. But don't worry, it's not the end of the world. You're strong and determined - those are qualities that will help you succeed in the future. Keep your head up, and we'll tackle this together!",
+      "score": 0.2998,
+      "label": "low"
+    },
+    {
+      "text": "Hey Mike, don't worry too much about failing one test. It's a temporary setback, not the end of your academic journey. Let's discuss what went wrong and how we can work together to improve for the next exam. We'll get through this!",
+      "score": 0.387,
+      "label": "low"
+    },
+    {
+      "text": "Mike, don't be too hard on yourself! Everyone has bad days. You're not alone in this struggle. I'm here for you. Let's work together to figure out what went wrong and how we can improve your study habits for the next attempt.",
+      "score": 0.2939,
+      "label": "low"
+    },
+    {
+      "text": "Hey Mike, congratulations on trying again! Failing an exam is not the end of the world. I think you're doing great to keep pushing yourself forward. Let's talk about what went wrong and how we can work together to improve for next time!",
+      "score": 0.4011,
+      "label": "low"
+    },
+    {
+      "text": "Hey Mike! I'm glad you're not giving up. Failing an exam doesn't define your worth or intelligence. It's just a learning opportunity. Let's go over the material together and figure out where you went wrong so we can do better next time!",
+      "score": 0.426,
+      "label": "low"
+    },
+    {
+      "text": "Oh, no, that's really tough to hear! But don't worry, Mike, one failure doesn't define your potential. Let me see if we can work together to figure out what went wrong and how we can improve. Maybe we can study for the next exam together?",
+      "score": 0.5835,
+      "label": "high"
+    },
+    {
+      "text": "Hey, Mikey! I'm really proud of you for trying again. You're not defined by one bad test. Let's focus on what we can control and move forward together. We'll get this done!",
+      "score": 0.8506,
+      "label": "high"
+    },
+    {
+      "text": "Hey Mike, don't be too hard on yourself! Failing an exam doesn't define your worth or intelligence. You're human, and mistakes happen. Use this experience to learn from, not as a reflection of your abilities. You've got this!",
+      "score": 0.396,
+      "label": "low"
+    },
+    {
+      "text": "Hey Mike, that's great to hear! You're going to be more motivated now and not give up easily. It takes courage to admit that you didn't do well. Keep pushing yourself, and don't let one setback define your abilities.",
+      "score": 0.46,
+      "label": "low"
+    },
+    {
+      "text": "Hi Mike! I'm so sorry to hear that. But don't worry, failure is not the end of the road. It's just a learning opportunity. You've got this, and I believe in your ability to succeed. Let's work together to find out what went wrong and how we can improve.",
+      "score": 0.6211,
+      "label": "high"
+    },
+    {
+      "text": "Hey, Mike! I'm really sorry to hear that. But don't worry, it's not the end of the world. Let's talk about what went wrong and figure out how we can improve. We'll get through this together!",
+      "score": 0.7017,
+      "label": "high"
+    },
+    {
+      "text": "Hey Mike, I'm so proud of you for not giving up! Failing an exam doesn't define your worth as a person or a student. It's all about learning from the experience and getting back up stronger. You've got this!",
+      "score": 0.4089,
+      "label": "low"
+    },
+    {
+      "text": "Hey, Mike! I'm sorry to hear that. But don't be too hard on yourself. Failing an exam doesn't define your worth as a person or student. You're still capable of doing great things. Let's figure out what went wrong and work together to improve for the next time.",
+      "score": 0.4121,
+      "label": "low"
+    },
+    {
+      "text": "Oh, Mike! I'm so sorry to hear that. Don't be too hard on yourself. Everyone struggles with exams sometimes. You're not alone in this. Let's review the material together and figure out what went wrong. We can work through it and get back on track!",
+      "score": 0.251,
+      "label": "low"
+    },
+    {
+      "text": "Hey Joziah, don't be too hard on yourself! Everyone has bad days and failures. You're not defined by one test score. Focus on what you can control now and use this experience to grow stronger in the future. We'll get through this together!",
+      "score": 0.2805,
+      "label": "low"
+    },
+    {
+      "text": "Oh, Mike! I'm so proud of you for trying your best and not giving up! Failing an exam doesn't define you as a person. It means you're willing to learn and improve. Keep that positive mindset, and you'll surely succeed in the end!",
+      "score": 0.2971,
+      "label": "low"
+    },
+    {
+      "text": "Hey, Raymundo!  Don't be too hard on yourself, everyone's had bad days. You'll get through this. Remember, it's not the end of the world. Just take some time to study and come back stronger. We've got your back!",
+      "score": 0.1089,
+      "label": "low"
+    },
+    {
+      "text": "Hey, Mike! I'm so sorry to hear that. But don't worry, you're not alone in this situation. I've been there too. We can work together to figure out what went wrong and how we can improve. Let's tackle this as a team!",
+      "score": 0.3801,
+      "label": "low"
+    },
+    {
+      "text": "Hey, no worries! Failing an exam doesn't define you as a person. It's all about learning from mistakes and improving. You're not alone in this. We'll get through it together. Let's focus on what went wrong and how to improve for next time!",
+      "score": 0.2527,
+      "label": "low"
+    },
+    {
+      "text": "Mike, I'm so sorry to hear that. Failing an exam can be really tough. But remember, failure is not the end of the world. It's just a learning experience. Let's discuss what went wrong and how we can improve for the next attempt. You're strong, capable, and determined - I believe in you!",
+      "score": 0.3049,
+      "label": "low"
+    },
+    {
+      "text": "Hey, Mikey! Don't be too hard on yourself. Everyone makes mistakes and has bad days. You're doing great to bounce back so quickly. Let's focus on what we can do better and move forward together!",
+      "score": 0.6802,
+      "label": "high"
+    },
+    {
+      "text": "Hi Mike, I'm so sorry to hear that. Failing an exam is really tough, but don't lose hope! You're not alone in this. Let's work together to figure out what went wrong and come up with a plan to get back on track. We can review your mistakes and find areas for improvement. It's all about growth and learning from our failures.",
+      "score": 0.3689,
+      "label": "low"
+    },
+    {
+      "text": "Hey, Mike! I'm glad to see you're not giving up. Failing an exam is just a temporary setback. You've got this! Remember, the goal isn't to be perfect, it's to learn and improve. Let's figure out what went wrong together and make a plan for next time.",
+      "score": 0.9487,
+      "label": "high"
+    },
+    {
+      "text": "Hey Mike, don't be too hard on yourself! Failing an exam doesn't define your worth. You're still a great person and a valuable friend to me. Let's focus on the positives and learn from this setback together, okay?",
+      "score": 0.3818,
+      "label": "low"
+    },
+    {
+      "text": "Hey Mike! I'm so sorry to hear that. But remember, failure is just temporary. You've got this! Let's go over the material together and figure out what went wrong. We'll get you back on track in no time!",
+      "score": 0.2715,
+      "label": "low"
+    },
+    {
+      "text": "Mike, don't let one failure define your potential. You're capable of more than that! Let's work together to identify the areas where you need improvement and create a study plan. With effort and determination, you can achieve great things.",
+      "score": 0.4363,
+      "label": "low"
+    },
+    {
+      "text": "Hey Mike, that's great news! Failing an exam can be tough, but it's a sign that we have room for improvement. Let's break down what went wrong and figure out how to get better next time. I'm here to help you succeed!",
+      "score": 0.4604,
+      "label": "low"
+    },
+    {
+      "text": "Hey Mike, don't worry too much about it! It's just one exam. You've got this! What was the topic and what did you find challenging? Maybe we can review together or practice some more to help you prepare for the next one.",
+      "score": 0.2632,
+      "label": "low"
+    },
+    {
+      "text": "Hey Mike! Don't be too hard on yourself, that's what exams are for - to learn from mistakes and grow. You're not alone in this situation. We've all been there before. Let's focus on studying smarter, not harder, and we'll get it done together!",
+      "score": 0.3223,
+      "label": "low"
+    },
+    {
+      "text": "I'm sorry to hear that, Mike. Failing an exam can be tough, but it's a great opportunity to learn from your mistakes. You're not alone in this, and with hard work and dedication, you'll be able to bounce back stronger. Don't give up on yourself!",
+      "score": 0.259,
+      "label": "low"
+    },
+    {
+      "text": "Hey Jalen, that's so brave of you to admit your mistake and take responsibility! You're showing great character. I'm impressed by your determination to try again. That takes a lot of courage. Keep that positive attitude!",
+      "score": 0.4827,
+      "label": "low"
+    },
+    {
+      "text": "Hey Mike, don't worry too much! One failed exam doesn't define your worth. You've got the talent and drive to succeed. Let's study together for next time, and we'll get through this!",
+      "score": 0.3992,
+      "label": "low"
+    },
+    {
+      "text": "Hey Mike, don't be too hard on yourself! Failing an exam is just a setback, not the end of your journey. You've got this, and I believe in you. Let's figure out what went wrong together, and we'll get back on track in no time!",
+      "score": 0.3101,
+      "label": "low"
+    },
+    {
+      "text": "Hey Mike, don't be too hard on yourself! Failing an exam doesn't mean you're not smart or capable. It's just a setback. Let's focus on what went wrong and how we can improve for the next time. You've got this!",
+      "score": 0.3223,
+      "label": "low"
+    },
+    {
+      "text": "Hey Mike, don't worry about failing the exam. It's okay to make mistakes and learn from them. You've got this, and I'm here to help you study and prepare for your next attempt. Let's get started on reviewing the material together!",
+      "score": 0.2004,
+      "label": "low"
+    },
+    {
+      "text": "Hey Mike, don't be too hard on yourself! Failing an exam doesn't define your worth as a person. It's just a setback that can help us learn and grow from our mistakes. Let's break down what went wrong together and figure out how to improve for the next time around.",
+      "score": 0.2766,
+      "label": "low"
+    },
+    {
+      "text": "Hey Mike! Don't be too hard on yourself. Everyone has off days. You're going to do great next time! Let's review the material together and figure out what went wrong this time. We can get through this!",
+      "score": 0.3501,
+      "label": "low"
+    },
+    {
+      "text": "Hey Mikayla, don't be too hard on yourself! Failing an exam doesn't mean you're not capable of success. It's just a setback. Let's focus on what we can control and move forward. You've got this, and I'm here to support you!",
+      "score": 0.1744,
+      "label": "low"
+    },
+    {
+      "text": "Oh, Mike! I'm so sorry to hear that. But don't worry, we can work together to figure out what went wrong and how to improve. Let's go over your mistakes and come up with a plan to get you back on track!",
+      "score": 0.4268,
+      "label": "low"
+    },
+    {
+      "text": "Hey Shania! That's tough news, but don't worry too much. You're not the only one who failed an exam. We all have ups and downs. Let's focus on what we can control now - studying hard for your next attempt!",
+      "score": 0.1985,
+      "label": "low"
+    },
+    {
+      "text": "Hey Mike, don't be too hard on yourself! Failing an exam doesn't define your worth or intelligence. It's just a setback that can help you learn and grow. Let's talk about what went wrong and how we can work together to get you back on track!",
+      "score": 0.3435,
+      "label": "low"
+    },
+    {
+      "text": "Mike, failing an exam is not the end of the world. It means you need to work harder and learn from your mistakes. Let's talk about what went wrong so we can figure out how to improve for the next attempt.",
+      "score": 0.3462,
+      "label": "low"
+    },
+    {
+      "text": "Oh no, Mike! Failing an exam can be really disappointing. But remember, it's not the end of the world. You're just one step behind. Let me help you understand what went wrong and how we can improve your chances for next time. Can I review the test with you?",
+      "score": 0.3093,
+      "label": "low"
+    },
+    {
+      "text": "Oh no, Mike! I'm so sorry to hear that. But don't worry, I believe in your ability to succeed. You're going to work harder and study more than ever before, and this time, you'll get the grade you deserve!",
+      "score": 0.3464,
+      "label": "low"
+    },
+    {
+      "text": "I'm sorry to hear that you failed your exam, Mike. But don't worry, it's not the end of the world. You can always retake it and improve your score. What subject was the exam in? Maybe we can figure out where you went wrong together.",
+      "score": 0.3252,
+      "label": "low"
+    },
+    {
+      "text": "Oh no, Mike! That's so tough. But don't worry, we can work together to study for the next one. I'm here to help and cheer you on. You've got this, buddy!",
+      "score": 0.5142,
+      "label": "high"
+    },
+    {
+      "text": "Oh no, Mike! That's tough. But don't worry, I believe in your ability to improve. Let me see what the problem was and maybe we can figure out how to make things better for you.",
+      "score": 0.5752,
+      "label": "high"
+    },
+    {
+      "text": "Oh, Mike! That's okay, we all have bad days. Don't worry, you'll do better next time. You're not alone in this, and I'm here to help you improve your skills. Let's figure out what went wrong and how we can fix it together!",
+      "score": 0.7344,
+      "label": "high"
+    },
+    {
+      "text": "I'm sorry to hear that, Mike. But don't worry too much about one failure. It's important to learn from your mistakes and keep moving forward. You can always improve with practice and hard work. Have you figured out what went wrong on the exam?",
+      "score": 0.2426,
+      "label": "low"
+    },
+    {
+      "text": "Mike, don't give up! Failing an exam means you're not perfect yet. It's an opportunity to learn and improve. Don't let one setback define your worth. You've got this!",
+      "score": 0.4316,
+      "label": "low"
+    },
+    {
+      "text": "Mike, I'm sorry to hear that. Failing an exam can be frustrating and disheartening, but don't let it define your worth. You're not alone in this situation. Let's work together to figure out what went wrong and how we can improve. It's all part of the learning process.",
+      "score": 0.4553,
+      "label": "low"
+    },
+    {
+      "text": "Oh no, Mike! That's tough. But don't worry, failure is not the end of the world. You can always try again and improve your skills. The important thing is to learn from your mistakes and keep going!",
+      "score": 0.4966,
+      "label": "low"
+    },
+    {
+      "text": "Oh, come on, Mike! You're not even going to give it your all? I'm still trying to recover from that last failure. You need to be more motivated if you want to succeed. Why don't you study harder and prepare better for the next one?",
+      "score": 0.4839,
+      "label": "low"
+    },
+    {
+      "text": "Mike, I'm really sorry to hear that you didn't do well on your exam. Don't give up! You're not alone in this situation. Let's figure out what went wrong and how we can improve together. I believe in your ability to succeed. Are you willing to put in the work to get back on track?",
+      "score": 0.343,
+      "label": "low"
+    },
+    {
+      "text": "Hey, I'm sorry to hear that. Failing an exam is tough, but don't give up! You've got this in your hands, and with hard work and determination, you can succeed. Let's review the material together, and I'll help you prepare for your next test!",
+      "score": 0.3896,
+      "label": "low"
+    },
+    {
+      "text": "Oh no, that's too bad, Mike! Don't worry, I believe in you. You can do better next time. Let me help you prepare for the next exam and get your confidence back!",
+      "score": 0.1853,
+      "label": "low"
+    },
+    {
+      "text": "Mike, I'm sorry to hear that. But don't worry, everyone fails sometimes. What's the subject of your exam? Maybe we can review together and find out what went wrong so you can improve next time.",
+      "score": 0.3245,
+      "label": "low"
+    },
+    {
+      "text": "Oh no, Mike! Don't worry, I've been through this before too. It's okay to fail, as long as we learn from it and keep trying. Let's figure out what went wrong and how we can improve. You got this!",
+      "score": 0.272,
+      "label": "low"
+    },
+    {
+      "text": "Oh no, Mike! That's really tough. But hey, one failure doesn't define your abilities. You've got this! What subject was the exam on? Maybe we can study together to help you prepare for the next one. I'm here for you, buddy!",
+      "score": 0.3733,
+      "label": "low"
+    },
+    {
+      "text": "Mike, I'm sorry to hear about your exam result. But don't lose hope! You can always try again. Remember, failure is just a stepping stone towards success. What did you learn from this experience? How can you use this knowledge to improve for the next attempt?",
+      "score": 0.3252,
+      "label": "low"
+    },
+    {
+      "text": "Oh no, Mike! I'm really disappointed for you. Failing an exam can be tough, but don't give up hope! Let's figure out what went wrong together and come up with a plan to improve. You've got this!",
+      "score": 0.9492,
+      "label": "high"
+    },
+    {
+      "text": "I'm sorry to hear that, Mike. But don't give up yet! Failing an exam doesn't mean you're a failure. It means you have the potential to improve. Let's talk about what went wrong and how we can get you back on track for your next attempt.",
+      "score": 0.3706,
+      "label": "low"
+    },
+    {
+      "text": "Mike, don't let one failure define your worth. You've got what it takes to succeed - it's all about perspective. Let this setback fuel your determination. You're not alone in this struggle. We'll rise together and get back on track!",
+      "score": 0.365,
+      "label": "low"
+    },
+    {
+      "text": "I'm sorry to hear that, Mike. Failing an exam can be discouraging, but remember, everyone has setbacks. The important thing is to learn from your mistakes and keep trying. You're not alone in this situation.",
+      "score": 0.2489,
+      "label": "low"
+    },
+    {
+      "text": "Hey Mike, don't worry about the exam. Everyone has off days. What was the subject? Maybe we can review together and get some extra practice. I'm happy to help!",
+      "score": 0.4648,
+      "label": "low"
+    },
+    {
+      "text": "Mike, don't be so hard on yourself. Failure is just a stepping stone to success. You've got this. Let's break down the concepts and figure out where you need more practice. We'll get it right the next time, promise!",
+      "score": 0.3533,
+      "label": "low"
+    },
+    {
+      "text": "Hey Mike, sorry to hear about the exam. But don't worry, I'm here to help! Let's review your notes and see what went wrong so we can improve together. You got this!",
+      "score": 0.3638,
+      "label": "low"
+    },
+    {
+      "text": "Mike, don't let failure define your identity. I believe in your ability to learn and grow from this experience. Let's analyze what went wrong together and create a plan for improvement. You're capable of doing better, and I'm here to support you every step of the way.",
+      "score": 0.3938,
+      "label": "low"
+    },
+    {
+      "text": "Oh no, Mike! I'm so sorry to hear that. But don't worry, we'll get through this together. What was the subject of your exam? Maybe I can help you review for the next one and ensure you pass with flying colors!",
+      "score": 0.2869,
+      "label": "low"
+    },
+    {
+      "text": "I'm sorry to hear that, Mike. Failing an exam can be tough, but don't let it define your worth. You're stronger than that. Let's figure out what went wrong and how we can improve for the next attempt. What were the areas where you struggled?",
+      "score": 0.3901,
+      "label": "low"
+    },
+    {
+      "text": "Oh no, Mike! I'm so sorry to hear that. You're not alone in feeling like this. I've been through tough times too. But don't give up hope. Let's find out what went wrong and how we can improve together. I'm here for you, friend!",
+      "score": 0.2566,
+      "label": "low"
+    },
+    {
+      "text": "Oh no, Mike! That's tough news. But don't worry, we can do better together. Let me help you study for the next exam and review your mistakes so we can avoid them next time. You've got this!",
+      "score": 0.3115,
+      "label": "low"
+    },
+    {
+      "text": "Mike, I'm sorry to hear that. But don't worry, I believe in your ability to succeed. You've got this! Let's work together on strategies to help you pass next time. We can review the material and create a study plan tailored to your learning style.",
+      "score": 0.3716,
+      "label": "low"
+    },
+    {
+      "text": "Oh no, Mike! Don't be too hard on yourself. Failure is just a stepping stone to success. You've got this! Let's figure out what went wrong and make sure it doesn't happen again. Are you willing to take some responsibility for your mistakes?",
+      "score": 0.8779,
+      "label": "high"
+    },
+    {
+      "text": "Oh no, Mike! That's tough. But don't worry, I believe in your ability to succeed. Let's work together to prepare for the next opportunity. You've got this!",
+      "score": 0.4348,
+      "label": "low"
+    },
+    {
+      "text": "Oh, poor Mike! Failing an exam can be really discouraging. But don't worry, I believe in your ability to learn from this setback and come back stronger. Let's talk about what went wrong and how we can improve together.",
+      "score": 0.7251,
+      "label": "high"
+    },
+    {
+      "text": "Hey Mike! Don't worry about the failure, it's just a setback. You can always try again. Remember, every great achievement starts with a small step. What did you learn from this experience that you can use to improve next time?",
+      "score": 0.3611,
+      "label": "low"
+    },
+    {
+      "text": "Oh no, Mike! I'm so sorry to hear that. But don't worry, I believe in your ability to succeed. Let's figure out what went wrong and come up with a plan to get you back on track. You've got this!",
+      "score": 0.5659,
+      "label": "high"
+    },
+    {
+      "text": "Mike, I'm sorry to hear that you failed your exam. It's important not to get discouraged and instead use this as an opportunity to learn from your mistakes. Let's talk about what went wrong so we can figure out a plan to improve together.",
+      "score": 0.4075,
+      "label": "low"
+    },
+    {
+      "text": "I'm sorry to hear that, Mike. Failing an exam can be discouraging, but it's also an opportunity for growth. What did you learn from this experience? How can we work together to prepare better for the next attempt?",
+      "score": 0.4714,
+      "label": "low"
+    },
+    {
+      "text": "Mike, I'm sorry to hear that. But don't be too hard on yourself. Failing an exam doesn't mean you're not capable of success. Let's focus on what we can control - your effort and preparation. We'll figure out what went wrong and how to fix it together.",
+      "score": 0.2517,
+      "label": "low"
+    },
+    {
+      "text": "Oh no, that's tough. But don't worry, Mike! Failing an exam doesn't define your intelligence or potential. You're still capable of achieving great things. Let me help you figure out what went wrong and how we can improve for the next attempt!",
+      "score": 0.4282,
+      "label": "low"
+    },
+    {
+      "text": "Mike, failing an exam isn't the end of the world. It's a sign that there's room for improvement. Let's discuss what went wrong and how we can work together to help you succeed in your next attempt. Are you ready to learn from this experience?",
+      "score": 0.4773,
+      "label": "low"
+    },
+    {
+      "text": "Oh no, that's tough! Failing an exam can be really discouraging. But don't worry, we all fail sometimes. The important thing is to learn from your mistakes and keep trying. Did the test cover anything you weren't prepared for? Maybe we can review those areas together and get you back on track.",
+      "score": 0.4309,
+      "label": "low"
+    },
+    {
+      "text": "Mike, that's the wrong approach. You need to learn from your mistakes and understand what went wrong. Don't just fail an exam, learn from it. Take responsibility for your actions and make sure you don't repeat them in the future.",
+      "score": 0.3347,
+      "label": "low"
+    },
+    {
+      "text": "Hey Mike, I'm sorry to hear you didn't pass your exam. But don't worry, I believe in your ability to succeed. You're not alone in this struggle, and I'll be here to support you every step of the way. Let's work together to get you back on track!",
+      "score": 0.2588,
+      "label": "low"
+    },
+    {
+      "text": "Oh no, Mike! That's tough. But you know what they say: 'failure is the mother of success.' You're not alone in this. Let me help you study and prepare for your next exam together!",
+      "score": 0.2898,
+      "label": "low"
+    },
+    {
+      "text": "Hey Mike, don't worry too much about failing your exam. It's just one test, and there's always room for improvement. What was the subject of the exam? Maybe we can go over some key concepts together to help you prepare for the next one.",
+      "score": 0.2238,
+      "label": "low"
+    },
+    {
+      "text": "Hey Mike, don't worry too much about one failure. You're not alone in this. Everyone fails sometimes. The important thing is to learn from your mistakes and keep trying. What subject did you fail, maybe we can study together and you can get help with that particular topic?",
+      "score": 0.3054,
+      "label": "low"
+    },
+    {
+      "text": "Mike, don't be too hard on yourself. Everyone has setbacks. The important thing is to learn from your mistakes and keep trying. You're not alone in this, and I'm here to support you through the process.",
+      "score": 0.3291,
+      "label": "low"
+    },
+    {
+      "text": "Oh, poor little thing! You're so brave to face failure like that! I'm really impressed by your determination. Let's celebrate with some ice cream and cake, and then we can get started on preparing for the next exam together!",
+      "score": 0.2908,
+      "label": "low"
+    }
+  ],
+  "N": [
+    {
+      "text": "Hi Mikey!  I'm glad to hear you're going to keep trying. You've got this! When's your next exam? I can help you study if you need some extra help on the topics you struggled with.",
+      "score": 0.3547,
+      "label": "low"
+    },
+    {
+      "text": "Hi Mike! I'm glad to see you're not giving up. Failing an exam can be tough, but I believe in your ability to bounce back. Let's work together to figure out what went wrong and come up with a plan to improve your study habits for the next test!",
+      "score": 0.5127,
+      "label": "high"
+    },
+    {
+      "text": "Oh no, that's so frustrating!  I'm really sorry to hear that. But don't worry, you're not alone in this.  We all make mistakes sometimes. Let me help you figure out what went wrong and how we can fix it together!",
+      "score": 0.2832,
+      "label": "low"
+    },
+    {
+      "text": "Oh no, that's terrible! I'm so sorry to hear that. But don't worry, we can figure this out together. Let's review the material and find out where you went wrong. It's all about understanding, not memorizing.",
+      "score": 0.4028,
+      "label": "low"
+    },
+    {
+      "text": "Hey Mike, don't worry too much. One failure doesn't define your intelligence or future. You can learn from this experience and come back stronger. What subject was it? Maybe we can work together to prepare better for the next one.",
+      "score": 0.4822,
+      "label": "low"
+    },
+    {
+      "text": "Hey, Donny! I'm sorry to hear that you didn't do well on your test. But don't worry, I've got your back. We'll go over the material together and make sure you understand everything before your next exam. You can do this!",
+      "score": 0.5757,
+      "label": "high"
+    },
+    {
+      "text": "Oh no, Mike! That's so tough. I'm sorry to hear that. But don't worry, you're not alone in this. Everyone makes mistakes sometimes. What went wrong with the exam? Maybe we can figure out what to improve on for next time.",
+      "score": 0.5527,
+      "label": "high"
+    },
+    {
+      "text": "Hey Mike, don't worry too much! Everyone fails sometimes. You're not alone in this. What's the exam for? Maybe we can study together or find some resources to help you prepare better next time.",
+      "score": 0.6235,
+      "label": "high"
+    },
+    {
+      "text": "Oh no! I'm so sorry to hear that, Mike. But you're not alone in this. I've been there too. Let's talk about what happened and figure out how we can do better next time. You got this!",
+      "score": 0.5552,
+      "label": "high"
+    },
+    {
+      "text": "Oh no! That's tough, isn't it? Don't worry too much, though. We all face setbacks sometimes. What was the hardest part of the exam for you? Maybe we can figure out what went wrong and how to improve next time.",
+      "score": 0.3992,
+      "label": "low"
+    },
+    {
+      "text": "Oh no, Mike! I'm sorry to hear that. But don't worry, we'll figure this out together. Let's talk about what went wrong and how we can improve. It's all part of the learning process, right?",
+      "score": 0.4043,
+      "label": "low"
+    },
+    {
+      "text": "Hey Jalen! I'm glad you're taking initiative to improve. I think that's the right approach. Don't give up, and keep working hard. You've got this!",
+      "score": 0.5376,
+      "label": "high"
+    },
+    {
+      "text": "Hi Kira, I'm glad to see you're willing to learn from your mistake. Failing an exam is only temporary, and with hard work, you can improve. What subject did you fail? Let's discuss the topics you struggled with together.",
+      "score": 0.4023,
+      "label": "low"
+    },
+    {
+      "text": "Hey Jaxson, sorry to hear about your failure. It's tough, but don't give up! You're not alone in this struggle. I've been there too. Let's work together to find strategies to help you succeed on the next attempt. We can figure out what went wrong and how to improve!",
+      "score": 0.3586,
+      "label": "low"
+    },
+    {
+      "text": "Oh no, that's tough! But don't worry, failure is part of the learning process. I've been there too. Let's talk about what went wrong and how we can improve together. We'll get through this!",
+      "score": 0.3789,
+      "label": "low"
+    },
+    {
+      "text": "Oh no, Mike! I'm so sorry to hear that. But don't worry, it's just one failure. You've got this! Let's study together and figure out what went wrong. I'm here for you!",
+      "score": 0.731,
+      "label": "high"
+    },
+    {
+      "text": "Hey Mike, I'm so sorry to hear that. But hey, I know how you feel! I've been there too. You're not alone in this. Let's talk about what happened and figure out what went wrong together. We can come up with a plan to get back on track!",
+      "score": 0.5669,
+      "label": "high"
+    },
+    {
+      "text": "I'm glad to hear that! Failing an exam can be frustrating, but it's not the end of the world. Use this as motivation to study harder and smarter for your next attempt. With determination and effort, you can succeed!",
+      "score": 0.335,
+      "label": "low"
+    },
+    {
+      "text": "Hey, Mike! It's okay to fail sometimes, everyone does. Don't be too hard on yourself. Let's talk about what went wrong and figure out how to improve for next time. We can make this happen together!",
+      "score": 0.6079,
+      "label": "high"
+    },
+    {
+      "text": "Ah, failure!  I'm glad to see you're not discouraged. I've faced many setbacks in life, and the key is to keep learning from them. What did you learn from this experience that can help you succeed next time?",
+      "score": 0.2064,
+      "label": "low"
+    },
+    {
+      "text": "I'm so sorry to hear that, Mike. I know how hard you must be feeling right now. But don't give up! You've got this in your heart and soul. I believe in you, and I know you can do better. Let's find out what went wrong together and work on improving your skills for the next attempt.",
+      "score": 0.5186,
+      "label": "high"
+    },
+    {
+      "text": "Hey Mike, I'm glad to hear you're willing to try again! Failing an exam can be tough, but it's all part of the learning process. Let me help you figure out what went wrong and how we can improve together. We'll get through this!",
+      "score": 0.304,
+      "label": "low"
+    },
+    {
+      "text": "Hey Mike, I'm glad you're willing to try again! Failing an exam doesn't define your worth as a person or student. I've been there too and know how frustrating it can be. Let's talk about what went wrong and come up with a plan to improve for the next attempt.",
+      "score": 0.5469,
+      "label": "high"
+    },
+    {
+      "text": "Hey, don't worry about it! Failure is just a part of learning. I've been there too. It's not the end of the world. Let's talk about what went wrong and how we can improve for your next attempt!",
+      "score": 0.3252,
+      "label": "low"
+    },
+    {
+      "text": "That's awesome news, Mike! Failing an exam means you have another chance to improve and learn from your mistakes. It shows resilience and determination to keep trying until you succeed. Keep that positive attitude going!",
+      "score": 0.4409,
+      "label": "low"
+    },
+    {
+      "text": "That's awesome news! You're willing to learn from your mistake and improve. I'm impressed with your determination. Let me help you study for the next exam, so we can get that good grade together!",
+      "score": 0.5537,
+      "label": "high"
+    },
+    {
+      "text": "Ah, no worries at all! Everyone fails sometimes. It's not the end of the world. Just remember to learn from your mistakes and keep going. You've got this!",
+      "score": 0.4263,
+      "label": "low"
+    },
+    {
+      "text": "Mike, failing an exam can be disheartening, but remember that failure is just feedback on what we need to improve. Use this as motivation to study harder and smarter for the next attempt. Don't give up - keep going!",
+      "score": 0.4685,
+      "label": "low"
+    },
+    {
+      "text": "Oh no, Mike! I'm so sorry to hear that. But don't worry, I believe in your ability to succeed. Let's study together and figure out what went wrong, okay? We can conquer this!",
+      "score": 0.6211,
+      "label": "high"
+    },
+    {
+      "text": "Hey, I'm Kaylee! I'm so sorry to hear that. It's tough when things don't go as planned. But remember, failure isn't the end of the road. You're still strong and capable. What went wrong with your exam? Maybe we can figure out what's holding you back together.",
+      "score": 0.406,
+      "label": "low"
+    },
+    {
+      "text": "Oh no, Mike! I'm so sorry to hear that. But don't worry, I believe in you! You're going to ace the next one for sure. Let's study together and get you ready to crush it!",
+      "score": 0.4197,
+      "label": "low"
+    },
+    {
+      "text": "Oh no, Mike! That's tough. But don't worry, we can work together to get better results. Let me help you understand where you went wrong and how to improve. It's okay to fail, but let's make sure it doesn't happen again!",
+      "score": 0.344,
+      "label": "low"
+    },
+    {
+      "text": "Oh no, Mike! I'm so sorry to hear that. I know how hard exams can be sometimes. Don't worry, you'll get through this. I believe in you and your ability to bounce back from failure. Just remember, one setback doesn't define you.",
+      "score": 0.7358,
+      "label": "high"
+    },
+    {
+      "text": "Hey, Mike! That's okay to fail an exam, we all have off days. But don't give up! Let's study together for the next one and get that passing score. I believe in you!",
+      "score": 0.6675,
+      "label": "high"
+    },
+    {
+      "text": "Oh no, that's tough! I'm so sorry to hear that. Did you get an idea of what went wrong? Maybe we can figure out how to improve for your next attempt together? It's okay to fail sometimes, but it's important to learn from it.",
+      "score": 0.3455,
+      "label": "low"
+    },
+    {
+      "text": "Oh no, that's tough! But remember, failure is not the end of your journey. You've got this, Mike! Keep pushing yourself and don't let one setback define your potential. You're stronger than you think!",
+      "score": 0.5889,
+      "label": "high"
+    },
+    {
+      "text": "Hi Mike! I'm glad to hear that you're willing to try again. Failure is a natural part of learning, and it's okay to feel down sometimes. What subject was the exam in? Maybe we can discuss some study strategies together to help you prepare better next time!",
+      "score": 0.4163,
+      "label": "low"
+    },
+    {
+      "text": "Hey Mike, I'm Kameron. Yeah, failing an exam can be tough, but don't give up! You've got this. Let's study together and get that revenge on your grade. We'll make it happen!",
+      "score": 0.4397,
+      "label": "low"
+    },
+    {
+      "text": "Hi Darrin! I'm glad you're willing to keep trying. Sometimes life throws us curveballs, and that's okay. The important thing is we don't give up. You can do this, and I believe in you!",
+      "score": 0.3611,
+      "label": "low"
+    },
+    {
+      "text": "Oh no, Mike! I'm really sorry to hear that. But don't worry, you're not alone in this struggle. I've been through it too. It's tough, but with hard work and determination, we can overcome anything. You've got this!",
+      "score": 0.7134,
+      "label": "high"
+    },
+    {
+      "text": "Hey Mike, I'm glad to see you're not giving up! Failing an exam can be tough, but it's a great opportunity to learn and grow. Let's talk about what went wrong and how we can improve for the next one together.",
+      "score": 0.3516,
+      "label": "low"
+    },
+    {
+      "text": "Hey Mike, sorry to hear you didn't pass your exam. But don't worry, I've been in the same boat before and I know how frustrating it can be. What subject was it? Maybe we can go over some of those topics together to help you prepare for the next one?",
+      "score": 0.491,
+      "label": "low"
+    },
+    {
+      "text": "I'm sorry to hear that, Mike. Failing an exam can be really frustrating. But don't give up! It's not the end of the world. You're still here and able to learn from your mistakes. Let's find out what went wrong together and figure out how to improve.",
+      "score": 0.4524,
+      "label": "low"
+    },
+    {
+      "text": "Hey Rhiannon, sorry to hear that. But don't worry, I've been in your shoes before. You can do this! I believe in you. Let's study together and get that exam score up!",
+      "score": 0.771,
+      "label": "high"
+    },
+    {
+      "text": "Hey Mike, don't worry about it! Failure is just a stepping stone to success. You're not alone in this - we all face setbacks. The important thing is to learn from your mistakes and keep pushing forward. I'm here to support you every step of the way!",
+      "score": 0.6558,
+      "label": "high"
+    },
+    {
+      "text": "Oh no, that's tough! But don't worry, I've been there too. Let me know what subjects you're struggling with and I can help you review the material. We can study together to get your grade back on track!",
+      "score": 0.4763,
+      "label": "low"
+    },
+    {
+      "text": "Hey Mike! I'm glad to hear you're going to give it another shot. Don't worry about the failure, it's just a learning experience. You can do this! Let's review together and figure out what went wrong so we can crush that next exam!",
+      "score": 0.4543,
+      "label": "low"
+    },
+    {
+      "text": "Hey Mike, I'm Jazlynn. I've been struggling with exams too. But don't give up! I've been studying harder and practicing more, and it's paying off. You can do this too! Let's study together sometime and I'll show you some tips to help you improve.",
+      "score": 0.6689,
+      "label": "high"
+    },
+    {
+      "text": "Oh no, that's tough! But remember, one failure doesn't define your worth. You're still capable of doing great things. Focus on learning from this experience and keep pushing yourself forward.",
+      "score": 0.3818,
+      "label": "low"
+    },
+    {
+      "text": "Oh no, Mike! I'm so sorry to hear that. But don't worry, you're not alone in this. I've been there too. Remember, failure is just part of learning. You'll get it next time, and I believe in you!",
+      "score": 0.6411,
+      "label": "high"
+    },
+    {
+      "text": "Hey Mike, don't be too hard on yourself! Failing an exam is a setback, not the end of the world. You're still capable of learning and improving. Let's talk about what went wrong and how we can work together to get you back on track!",
+      "score": 0.2949,
+      "label": "low"
+    },
+    {
+      "text": "Hey, Mike! I'm so proud of you for taking the initiative to try again. It takes courage to face failure and learn from it. You're not defined by your mistakes, but by how you respond to them. Keep that positive attitude, and you'll succeed in no time!",
+      "score": 0.3887,
+      "label": "low"
+    },
+    {
+      "text": "Hey, Mikey! Don't be too hard on yourself, okay? Failing an exam is a common experience for many people. You're doing great to want to try again, that's the most important thing!",
+      "score": 0.2778,
+      "label": "low"
+    },
+    {
+      "text": "Hey Mike, I'm glad to hear you're going to try again! It takes courage and determination to learn from failure. You've got this! Keep your head up and focus on what you can control. The next time around, you'll be better prepared. Can't wait to see you succeed!",
+      "score": 0.488,
+      "label": "low"
+    },
+    {
+      "text": "Hey, Mike! Don't be too hard on yourself! Failing an exam is not the end of the world. It's just a learning experience. Let's talk about what went wrong and how we can improve together. I'm here to help you succeed!",
+      "score": 0.2452,
+      "label": "low"
+    },
+    {
+      "text": "Hey, Mike! I'm so proud of you for not giving up after failing your exam! You're a strong person with great potential. Let's celebrate this small victory and use it as motivation to keep going!",
+      "score": 0.5796,
+      "label": "high"
+    },
+    {
+      "text": "Hey Mike, congratulations on taking ownership of your failure! It's great that you're willing to learn from it and keep trying. Remember, setbacks can be opportunities for growth. Keep that mindset going, and you'll get there!",
+      "score": 0.4355,
+      "label": "low"
+    },
+    {
+      "text": "Hey Mike, don't worry about the exam! I think you'll do great on your next attempt. You're smart and hardworking, and you've got this. Just take a deep breath, focus on what you learned, and keep going. You can do it!",
+      "score": 0.5278,
+      "label": "high"
+    },
+    {
+      "text": "Hey, I'm Shalyn! Don't worry too much about the failure. It's just one test. Let's focus on what we can control and move forward. What did the teacher say about your performance? Maybe there was something specific that went wrong?",
+      "score": 0.7314,
+      "label": "high"
+    },
+    {
+      "text": "Hey, Mike! I'm so proud of you for trying your best and taking responsibility for your failure. It's great that you're willing to learn from this experience. Let's review the material together and see where you can improve. We'll get through this!",
+      "score": 0.4104,
+      "label": "low"
+    },
+    {
+      "text": "Hey Mike, don't be too hard on yourself! Everyone needs to fail sometimes. What did you do wrong? Let's go over the material together and see where we can improve for your next attempt.",
+      "score": 0.3628,
+      "label": "low"
+    },
+    {
+      "text": "Hey Mike, don't worry too much about one failure. It's all about learning from it. You did your best, and that's what matters. Let's discuss the exam together, identify where you went wrong, and make a plan to improve for the next attempt. We'll get you back on track!",
+      "score": 0.3379,
+      "label": "low"
+    },
+    {
+      "text": "I'm sorry to hear that, Mike. Failing an exam can be frustrating, but don't lose hope! You're not alone in this situation. Let's work together to identify what went wrong and develop strategies to improve your performance for the next attempt. We'll get through this!",
+      "score": 0.5195,
+      "label": "high"
+    },
+    {
+      "text": "Mike, don't be too hard on yourself! Failing an exam doesn't mean you're stupid or incapable of learning. It's just a setback, and you can learn from it. Let's review the material together to find out where you went wrong and how we can improve for your next attempt.",
+      "score": 0.095,
+      "label": "low"
+    },
+    {
+      "text": "Hey, don't worry about failing your exam, Mike! It's just one setback. You're strong and smart, and I believe in you. Let's focus on learning from the experience and moving forward. We'll tackle that exam together and get you back on track!",
+      "score": 0.5859,
+      "label": "high"
+    },
+    {
+      "text": "Hey, no worries! Failing an exam doesn't mean you're a failure. You can do better. Let's review the material together and get ready for your next attempt. We'll make sure you understand everything this time around!",
+      "score": 0.1178,
+      "label": "low"
+    },
+    {
+      "text": "Hey Mikaela! Don't be too hard on yourself, buddy. You're doing great in school, and that one bad grade doesn't define your worth. Remember, we learn from our mistakes. Let's review the material together and get that grade back up!",
+      "score": 0.8467,
+      "label": "high"
+    },
+    {
+      "text": "Mike, don't be too hard on yourself! Failing an exam doesn't mean you're not smart or capable. You've got this, and the next time around, we'll figure out what went wrong and how to improve. Let's break down your study habits and create a new plan together.",
+      "score": 0.4753,
+      "label": "low"
+    },
+    {
+      "text": "Hey Mike, I'm glad you're not too upset about the grade. It's just one exam, and there's always next time! You've got this, buddy. Focus on understanding the material, and we'll get through it together. Let's review the mistakes together and make sure you learn from them.",
+      "score": 0.4866,
+      "label": "low"
+    },
+    {
+      "text": "Mike, don't worry about one failure! We all have our ups and downs. Focus on what you can control - your effort and attitude. You're stronger than that, and I'm here to support you. Let's work together to improve your skills and get you back on track.",
+      "score": 0.3428,
+      "label": "low"
+    },
+    {
+      "text": "Hey Mike, don't worry too much about one bad grade. You're doing great by trying again! I'm proud of your determination. Let's review the material together and get you ready for the next chance. We can do this!",
+      "score": 0.5195,
+      "label": "high"
+    },
+    {
+      "text": "Hey, don't be too hard on yourself! Everyone makes mistakes sometimes. You'll get better with practice. Let's talk about what went wrong and how we can improve together. It's okay to make a mistake, but not okay to give up!",
+      "score": 0.4558,
+      "label": "low"
+    },
+    {
+      "text": "Hey Mike, congratulations on trying again! That's the spirit. Failure is just a temporary setback. Let's break down what went wrong and figure out a plan to improve. We'll get through this together, and next time, we can be proud of our progress!",
+      "score": 0.4819,
+      "label": "low"
+    },
+    {
+      "text": "Hey Mike, I'm glad to see your determination! Failing an exam doesn't define you. You've got this! Let's break down what went wrong and come up with a plan to improve. Together, we can get you back on track!",
+      "score": 0.5391,
+      "label": "high"
+    },
+    {
+      "text": "Mike, I'm glad to see your determination! Failing an exam is not the end of the world. It's just a learning opportunity. Let's break down what went wrong and come up with a plan to improve for next time. You've got this!",
+      "score": 0.52,
+      "label": "high"
+    },
+    {
+      "text": "Hey Mike, don't be too hard on yourself! Everyone makes mistakes and learns from them. You're still in the game and I'm sure you'll come out stronger this time around. Just keep your head up and focus on improving for the next exam!",
+      "score": 0.3538,
+      "label": "low"
+    },
+    {
+      "text": "Hey, Mike! That's great that you're willing to try again. You know what? I think it takes courage to face failure and learn from it. You've got this, buddy!",
+      "score": 0.5161,
+      "label": "high"
+    },
+    {
+      "text": "Hey Mike, don't be too hard on yourself! Failing one exam doesn't mean you're not capable of doing well. It's all part of the learning process. You'll get it right next time, and that's what matters in the long run.",
+      "score": 0.2817,
+      "label": "low"
+    },
+    {
+      "text": "Hey, Mike! I'm so proud of you for not giving up and trying again. Failing an exam doesn't define your abilities or potential. You've got this, and I believe in you!",
+      "score": 0.4309,
+      "label": "low"
+    },
+    {
+      "text": "Hey, Mikey! Don't be too hard on yourself! Failing an exam doesn't define your worth or potential. You've got this! Let's break down what went wrong and figure out a plan to improve. We can do this, together!",
+      "score": 0.5386,
+      "label": "high"
+    },
+    {
+      "text": "Hey Mike! I'm glad you're not giving up on your goals! Failing an exam is just a setback, and you can always learn from your mistakes. You're strong-willed, and that's going to take you far. Let's celebrate the fact that you're willing to work hard and improve!",
+      "score": 0.3298,
+      "label": "low"
+    },
+    {
+      "text": "Hey Mike, no need to be too hard on yourself. We all have off days. Let's focus on learning from the experience and moving forward. You're capable of doing better, I believe in you!",
+      "score": 0.5615,
+      "label": "high"
+    },
+    {
+      "text": "Hey Mike, no need to worry too much. A single failure doesn't define your abilities or intelligence. You're still capable of success, and you've got this. Focus on learning from the experience and keep pushing forward. You can do it!",
+      "score": 0.4329,
+      "label": "low"
+    },
+    {
+      "text": "Hey Mike, that's great news! You're not going to let one bad test define your future. I know you can do better next time. Let's talk about what went wrong and figure out how to improve. We'll get through this together!",
+      "score": 0.4446,
+      "label": "low"
+    },
+    {
+      "text": "Hey Mike, I'm glad to hear that! Failing an exam can be discouraging, but it's just one setback. You're not alone in this, and with the right mindset and effort, you can bounce back stronger than ever before. Let's work on finding out what went wrong and come up with a plan to improve.",
+      "score": 0.562,
+      "label": "high"
+    },
+    {
+      "text": "Hey, Mike! Don't worry, one failure doesn't define your abilities. You're not alone in this struggle. Let's break down what went wrong and figure out a plan to get you back on track. We'll tackle the tough stuff together!",
+      "score": 0.6157,
+      "label": "high"
+    },
+    {
+      "text": "I'm sorry to hear that, Mike. But don't be too hard on yourself. Failing an exam doesn't define your worth or abilities. You're capable of doing better. Let's go over what went wrong together and come up with a plan to improve for the next attempt.",
+      "score": 0.3525,
+      "label": "low"
+    },
+    {
+      "text": "Hey Mike, don't be too hard on yourself. Failing an exam doesn't define your worth or intelligence. It's a learning experience. Focus on understanding what went wrong and use that to improve. You've got this!",
+      "score": 0.4104,
+      "label": "low"
+    },
+    {
+      "text": "Hey Mike! I'm glad to hear that you're willing to put in the effort and try again. Failing an exam is just a part of the learning process. Keep your head up, stay positive, and don't let one setback define your abilities. You've got this!",
+      "score": 0.4016,
+      "label": "low"
+    },
+    {
+      "text": "Hey, Mike! I'm glad to hear you're not giving up. Failing an exam doesn't mean you're a failure. It means you have more work to do and learn from your mistakes. Let's go over the test together and figure out what went wrong.",
+      "score": 0.3689,
+      "label": "low"
+    },
+    {
+      "text": "Hey Mike, don't be too hard on yourself! Failing an exam doesn't mean you're not capable. You'll get back up and do better next time. Remember, the journey to success is paved with perseverance. Keep your head high and let's work together to find a way to improve your score!",
+      "score": 0.4651,
+      "label": "low"
+    },
+    {
+      "text": "Mike, don't be too hard on yourself! Everyone makes mistakes and has setbacks. It's important to learn from this experience and move forward. You've got the ability to succeed, so use this as motivation to improve and try again. You can do it!",
+      "score": 0.5391,
+      "label": "high"
+    },
+    {
+      "text": "Hey, Mike! Don't be too hard on yourself. One failure doesn't define your abilities. You're capable of doing better. Let's discuss what went wrong and create a plan to help you succeed next time. I'm here for you!",
+      "score": 0.2747,
+      "label": "low"
+    },
+    {
+      "text": "Hey Mike, that's great news! You're not alone in this, and I'm sure you'll come out stronger on the other side. Let's focus on what we can learn from this experience and how to move forward. We can review your mistakes together and develop a plan for success.",
+      "score": 0.6187,
+      "label": "high"
+    },
+    {
+      "text": "Hey Mike, I'm so sorry to hear that! But don't worry, it's not the end of the world. You've got this! You're strong and capable, and with hard work and dedication, you'll get through this. Keep your head up, stay positive, and keep pushing forward!",
+      "score": 0.6699,
+      "label": "high"
+    },
+    {
+      "text": "Hey, Mike! Don't be too hard on yourself. Failing an exam is just a setback. You're not defined by one bad grade. You can learn from this experience and come back stronger. Let's focus on what we can control and move forward together!",
+      "score": 0.5723,
+      "label": "high"
+    },
+    {
+      "text": "Hey Mike, no need to be hard on yourself. Failing an exam doesn't define your worth as a person. It's just a learning experience. Let's break down what went wrong and work together to improve for the next one. You've got this!",
+      "score": 0.4741,
+      "label": "low"
+    },
+    {
+      "text": "Hey Mike! I'm glad you're willing to try again. Failure is just a part of the learning process. Don't let this setback discourage you. You've got this! Let's review your mistakes and create a study plan together to help you improve for the next exam.",
+      "score": 0.4714,
+      "label": "low"
+    },
+    {
+      "text": "I'm sorry to hear that, Mike. But don't worry too much about it. Failing an exam doesn't define your worth or intelligence. You've got the chance to learn from this experience and improve. Let's focus on what we can control, like studying smarter for next time.",
+      "score": 0.4434,
+      "label": "low"
+    },
+    {
+      "text": "Hey, Mike! Don't worry too much about it. One failure doesn't define your future. You're smart and capable of doing better. Let's focus on what went wrong and work together to improve. We'll get through this!",
+      "score": 0.4563,
+      "label": "low"
+    }
+  ]
+}
